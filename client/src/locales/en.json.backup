@@ -1,0 +1,1456 @@
+{
+  "homepage": {
+    "title": "Vacature ORBIT",
+    "subtitle": "The complete recruitment platform for everyone in the job market",
+    "features": {
+      "pushNotifications": "Push Notifications",
+      "videoInterviews": "Video Interviews",
+      "guestChat": "Guest Chat",
+      "fileSharing": "File Sharing",
+      "groupChat": "Group Chat"
+    },
+    "tabs": {
+      "companies": "Companies",
+      "recruiters": "Recruiters & Agencies",
+      "freelancers": "Freelancers"
+    },
+    "companies": {
+      "title": "The marketplace for talent",
+      "subtitle": "Find the right candidate faster with our complete recruitment platform",
+      "startTrial": "Start Free Trial",
+      "viewCandidates": "View Candidates",
+      "features": {
+        "directCommunication": {
+          "title": "Direct Communication",
+          "description": "Chat directly with candidates and recruiters through our messaging system.",
+          "items": [
+            "Real-time chat with push notifications",
+            "Video interviews directly from chat",
+            "Share CVs and documents securely",
+            "Group conversations with hiring team"
+          ]
+        },
+        "smartMatching": {
+          "title": "Smart Matching",
+          "description": "AI-powered matching for the perfect candidate-vacancy fit.",
+          "items": [
+            "95% accurate matching",
+            "Automatic candidate suggestions",
+            "Skills-based matching"
+          ]
+        },
+        "analytics": {
+          "title": "Analytics & Insights",
+          "description": "Get insights into your recruitment process with advanced analytics.",
+          "items": [
+            "Time-to-hire metrics",
+            "Candidate pipeline overview",
+            "Conversion reports"
+          ]
+        }
+      },
+      "benefits": {
+        "title": "Why companies choose Vacature ORBIT",
+        "items": [
+          {
+            "title": "70% Faster",
+            "description": "Fill vacancies faster"
+          },
+          {
+            "title": "50% Cheaper", 
+            "description": "Lower recruitment costs"
+          },
+          {
+            "title": "Better Matches",
+            "description": "AI-driven selection"
+          },
+          {
+            "title": "100% Secure",
+            "description": "GDPR compliant"
+          }
+        ]
+      }
+    },
+    "recruiters": {
+      "title": "One platform, a large pool of new clients",
+      "subtitle": "Helping you find or get clients faster - Stop capital destruction!",
+      "startAsRecruiter": "Start as Recruiter",
+      "viewDemo": "View Demo",
+      "problem": {
+        "title": "The problem we solve",
+        "problemTitle": "❌ The Problem",
+        "problemDescription": "You offer 5 good candidates, but 4 get rejected. These valuable candidates are lost because you can't place them elsewhere - pure capital destruction!",
+        "solutionTitle": "✅ The Solution",
+        "solutionDescription": "Offer rejected candidates on our marketplace! Other companies in the region are looking for similar profiles. Win-win: candidate finds a job, you find a new client!"
+      },
+      "features": {
+        "offerEverywhere": {
+          "title": "Offer Candidates Everywhere",
+          "description": "No limitation to one agency. Offer candidates to all relevant vacancies.",
+          "items": [
+            "Unlimited candidate placement",
+            "Cross-industry matching",
+            "Regional and national reach",
+            "Guest chat for candidate introduction"
+          ]
+        },
+        "findClients": {
+          "title": "Find New Clients", 
+          "description": "Transform rejected candidates into new business opportunities.",
+          "items": [
+            "Automatic lead generation",
+            "Direct client introduction",
+            "Track conversion metrics"
+          ]
+        },
+        "freedom": {
+          "title": "Complete Freedom",
+          "description": "Work the way you want, without limitations or exclusivity.",
+          "items": [
+            "No exclusivity clauses",
+            "Set your own rates",
+            "Direct contact with companies"
+          ]
+        }
+      },
+      "results": {
+        "title": "Results from our Recruiters",
+        "metrics": [
+          {
+            "value": "85%",
+            "description": "Rejected candidates placed"
+          },
+          {
+            "value": "3.2x",
+            "description": "More new clients"
+          },
+          {
+            "value": "€0",
+            "description": "Platform costs"
+          },
+          {
+            "value": "24/7",
+            "description": "Present candidates"
+          }
+        ]
+      }
+    },
+    "freelancers": {
+      "title": "Direct contact with multiple end clients",
+      "subtitle": "As a freelancer, find direct assignments without intermediaries",
+      "createProfile": "Create Freelancer Profile",
+      "viewJobs": "View Assignments",
+      "features": {
+        "directClients": {
+          "title": "Direct Clients",
+          "description": "No agencies or intermediaries - direct contact with companies.",
+          "items": [
+            "100% of your rate for you",
+            "Negotiate terms directly",
+            "Build your own client relationships"
+          ]
+        },
+        "professionalProfile": {
+          "title": "Professional Profile",
+          "description": "Present yourself professionally with a comprehensive freelancer profile.",
+          "items": [
+            "Portfolio & references",
+            "Skills & certifications", 
+            "Availability calendar",
+            "Video introduction possible"
+          ]
+        },
+        "jobMatching": {
+          "title": "Assignment Matching",
+          "description": "Receive only relevant assignments that match your expertise.",
+          "items": [
+            "AI-powered assignment suggestions",
+            "Push notifications for new matches",
+            "Rate calculator tool"
+          ]
+        }
+      },
+      "benefits": {
+        "title": "Why freelancers choose Vacature ORBIT",
+        "simple": {
+          "title": "Simple & Direct",
+          "items": [
+            "• Create a profile within 5 minutes",
+            "• Immediately visible to clients",
+            "• No complicated procedures",
+            "• Chat directly with companies"
+          ]
+        },
+        "secure": {
+          "title": "Safe & Reliable",
+          "items": [
+            "• Verified companies",
+            "• Secure payment guarantee",
+            "• Contract templates available",
+            "• GDPR compliant platform"
+          ]
+        }
+      },
+      "cta": {
+        "title": "Start finding assignments today",
+        "description": "No hidden costs, no commissions, no hassle. Just direct contact with clients who need your expertise.",
+        "button": "Register as Freelancer - Free"
+      }
+    },
+    "globalFeatures": {
+      "title": "Platform Features for Everyone",
+      "features": [
+        {
+          "title": "Push Notifications",
+          "description": "Never miss an important update"
+        },
+        {
+          "title": "Video Interviews",
+          "description": "Free video calls via Jitsi"
+        },
+        {
+          "title": "Guest Chat",
+          "description": "Chat without account with candidates"
+        },
+        {
+          "title": "File Sharing",
+          "description": "Share CVs and documents securely"
+        },
+        {
+          "title": "Group Chat",
+          "description": "Hiring team conversations"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Ready to get started?",
+      "subtitle": "Choose your role and start today - completely free!",
+      "buttons": {
+        "company": "I am a Company",
+        "recruiter": "I am a Recruiter",
+        "freelancer": "I am a Freelancer"
+      }
+    }
+  },
+  "common": {
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "loading": "Loading...",
+    "saving": "Saving...",
+    "search": "Search",
+    "submit": "Submit",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "yes": "Yes",
+    "no": "No",
+    "error": "An error occurred",
+    "success": "Success!",
+    "per": "per",
+    "feature": "Feature",
+    "retry": "Try Again",
+    "email": "Email",
+    "noAccess": "No Access"
+  },
+  "navigation": {
+    "jobs": "Jobs",
+    "messages": "Messages",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "notifications": "Notifications",
+    "jobAlerts": "Job Alerts",
+    "analytics": "Analytics",
+    "payments": "Payments",
+    "ratings": "Ratings",
+    "languageSelector": "Select language"
+  },
+  "userTypes": {
+    "BEDRIJF": "Company",
+    "ZZP": "Freelancer", 
+    "BUREAU": "Agency",
+    "SOLLICITANT": "Job Seeker"
+  },
+  "jobs": {
+    "title": "Jobs",
+    "subtitle": "Discover the latest opportunities and find your perfect job",
+    "searchPlaceholder": "Search by title, description or location...",
+    "filters": "Filters",
+    "noJobsFound": "No jobs found",
+    "noJobsMessage": "Try adjusting your search criteria or check back later.",
+    "clearFilters": "Clear all filters",
+    "myJobs": "My jobs",
+    "allJobs": "All jobs",
+    "createJob": "Post job",
+    "searchJobs": "Search jobs",
+    "employmentTypeLabel": "Employment type",
+    "locationLabel": "Location",
+    "locationPlaceholder": "City, region...",
+    "minRateLabel": "Min. hourly rate",
+    "maxRateLabel": "Max. hourly rate",
+    "resultsCount": "{{count}} jobs found",
+    "pageInfo": "Page {{current}} of {{total}}",
+    "loadError": "An error occurred while loading jobs.",
+    "employmentTypes": {
+      "VAST": "Permanent position",
+      "INTERIM": "Interim",
+      "UITZENDEN": "Temporary work"
+    },
+    "salary": {
+      "perYear": "per year",
+      "perHour": "per hour",
+      "onRequest": "On request"
+    }
+  },
+  "employmentTypes": {
+    "VAST": "Permanent",
+    "INTERIM": "Interim",
+    "UITZENDEN": "Temporary"
+  },
+  "jobStatus": {
+    "OPEN": "Open",
+    "CLOSED": "Closed",
+    "DRAFT": "Draft"
+  },
+  "applicationStatus": {
+    "PENDING": "Pending",
+    "ACCEPTED": "Accepted",
+    "REJECTED": "Rejected",
+    "INTERVIEW": "Interview",
+    "WITHDRAWN": "Withdrawn"
+  },
+  "dashboard": {
+    "welcome": "Welcome back, {{name}}!",
+    "accountOverview": "Here is an overview of your {{userType}} account",
+    "quickActions": "Quick actions",
+    "recentActivity": "Recent activity",
+    "accountCreated": "Account successfully created"
+  },
+  "messages": {
+    "title": "Messages",
+    "searchPlaceholder": "Search conversations...",
+    "allMessages": "All messages",
+    "unread": "Unread",
+    "activeConversations": "Active conversations",
+    "activeToday": "Active today",
+    "noConversations": "No conversations yet",
+    "noResults": "No results",
+    "noConversationsMessage": "Start a conversation by responding to a job posting or application.",
+    "noResultsMessage": "Adjust your search term or filter to find conversations.",
+    "browseJobs": "Browse jobs",
+    "with": "With",
+    "newConversation": "New conversation"
+  },
+  "jobForm": {
+    "backToMyJobs": "Back to my jobs",
+    "noAccess": "No access",
+    "noAccessMessage": "Only companies and agencies can post jobs. As a freelancer, you can search for jobs on the jobs page.",
+    "goToJobs": "Go to jobs",
+    "newJob": "New job",
+    "editJob": "Edit job",
+    "newJobDescription": "Fill in the details for your new job posting",
+    "editJobDescription": "Edit the details of your job posting",
+    "jobDetails": "Job details",
+    "labels": {
+      "title": "Job title",
+      "description": "Description",
+      "location": "Location",
+      "employmentType": "Employment type",
+      "status": "Status",
+      "annualSalary": "Annual salary (€)",
+      "hourlyRate": "Hourly rate (€)",
+      "startDate": "Start date",
+      "endDate": "End date"
+    },
+    "placeholders": {
+      "title": "Senior React Developer",
+      "description": "Describe the role, responsibilities, requirements...",
+      "location": "Amsterdam, Remote, Hybrid...",
+      "employmentType": "Select employment type",
+      "status": "Select status",
+      "annualSalary": "50000",
+      "hourlyRate": "75"
+    },
+    "status": {
+      "open": "Open",
+      "paused": "Paused",
+      "closed": "Closed"
+    },
+    "validation": {
+      "titleRequired": "Title is required",
+      "descriptionMinLength": "Description must be at least 10 characters",
+      "locationRequired": "Location is required"
+    },
+    "errors": {
+      "jobNotFound": "Job not found"
+    },
+    "saving": "Saving...",
+    "saveChanges": "Save changes",
+    "postJob": "Post job",
+    "cancel": "Cancel",
+    "createSuccess": "Job posted",
+    "createSuccessDescription": "Your job has been successfully posted.",
+    "updateSuccess": "Job updated",
+    "updateSuccessDescription": "Your job has been successfully updated."
+  },
+  "auth": {
+    "welcomeBack": "Welcome back",
+    "loginToAccount": "Log in to your VacatureMarkt account",
+    "emailAddress": "Email address",
+    "emailPlaceholder": "john@example.com",
+    "password": "Password",
+    "passwordPlaceholder": "Your password",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "login": "Login",
+    "noAccount": "Don't have an account?",
+    "registerHere": "Register now",
+    "createAccount": "Create account",
+    "findTalentOrJobs": "Start finding talent or opportunities",
+    "userTypeQuestion": "What type of account do you want to create?",
+    "fullName": "Full name",
+    "namePlaceholder": "John Doe",
+    "companyName": "Company name",
+    "companyPlaceholder": "Your company name",
+    "confirmPassword": "Confirm password",
+    "confirmPasswordPlaceholder": "Confirm your password",
+    "register": "Register",
+    "hasAccount": "Already have an account?",
+    "loginHere": "Login here",
+    "registrationSuccess": "Registration successful",
+    "checkEmailToConfirm": "Please check your email to confirm your account",
+    "registrationFailed": "Registration failed",
+    "welcomeBack": "Welcome back",
+    "loginSuccess": "Successfully logged in",
+    "loginFailed": "Login failed",
+    "signedOut": "Signed out",
+    "signOutSuccess": "Successfully signed out",
+    "forgotPasswordSent": "Reset email sent",
+    "forgotPasswordDescription": "If this email address exists, a password reset link has been sent",
+    "forgotPasswordFailed": "Failed to send reset email",
+    "passwordChanged": "Password changed",
+    "passwordChangeSuccess": "Your password has been successfully changed",
+    "passwordChangeFailed": "Failed to change password"
+  },
+  "myJobs": {
+    "title": "My jobs",
+    "subtitle": "Manage your posted jobs",
+    "newJob": "New job",
+    "noPostJobs": "As a freelancer, you cannot post jobs",
+    "searchJobsMessage": "You can search for interesting assignments and projects through our job overview.",
+    "browseJobs": "Browse available jobs",
+    "actions": "Actions",
+    "view": "View",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirmDelete": "Are you sure you want to delete this job?",
+    "deleteSuccess": "Job successfully deleted",
+    "deleteError": "Error deleting job"
+  },
+  "jobDetail": {
+    "notFound": "Job not found", 
+    "backToJobs": "Back to jobs"
+  },
+  "cv": {
+    "currentCv": "Current CV uploaded",
+    "download": "Download CV",
+    "delete": "Delete CV", 
+    "upload": "Upload CV",
+    "noCv": "No CV uploaded",
+    "deleteConfirm": "Are you sure you want to delete your CV?"
+  },
+  "profile": {
+    "title": "Manage Profile",
+    "subtitle": "Manage your personal information and account settings",
+    "personalInfo": "Personal information",
+    "edit": "Edit",
+    "cancel": "Cancel",
+    "saveChanges": "Save changes",
+    "save": "Save",
+    "changePassword": "Change password",
+    "currentPassword": "Current password",
+    "newPassword": "New password",
+    "confirmNewPassword": "Confirm new password",
+    "fullName": "Full name",
+    "companyName": "Company name",
+    "companyNameRequired": "Company name *",
+    "email": "Email",
+    "notificationEmail": "Notification email",
+    "notificationEmailOptional": "Notification email (optional)",
+    "notificationEmailPlaceholder": "Leave empty to use default email",
+    "defaultEmailUsed": "Default email will be used",
+    "notSpecified": "Not specified",
+    "accountType": "Account type",
+    "memberSince": "Member since",
+    "verificationStatus": "Verification status",
+    "verified": "Verified",
+    "pending": "Pending",
+    "currentPasswordPlaceholder": "Current password",
+    "newPasswordPlaceholder": "At least 8 characters",
+    "confirmPasswordPlaceholder": "Repeat new password",
+    "cvManagement": "CV Management",
+    "accountSettings": "Account settings",
+    "emailNotifications": "Email notifications",
+    "emailNotificationsDescription": "Receive updates about new jobs",
+    "profileVisibility": "Profile visible",
+    "profileVisibilityDescription": "Others can view your profile",
+    "dangerZone": "Danger zone",
+    "deleteAccountWarning": "Deleting your account is permanent and cannot be undone.",
+    "deleteAccount": "Delete account",
+    "errorUploadCV": "Error uploading CV",
+    "errorDeleteCV": "Error deleting CV"
+  },
+  "manageApplications": {
+    "title": "Manage Applications",
+    "subtitle": "View and manage all applications to your jobs",
+    "noAccessMessage": "This page is only accessible to companies and recruitment agencies.",
+    "searchPlaceholder": "Search by name, email or job...",
+    "filterByJob": "Filter by job",
+    "filterByStatus": "Filter by status",
+    "allJobs": "All jobs",
+    "allStatuses": "All statuses",
+    "noApplications": "No applications yet",
+    "noApplicationsMessage": "No applications have been received for your jobs yet.",
+    "noResults": "No results found",
+    "adjustSearch": "Try adjusting your search criteria.",
+    "application": "application",
+    "applications": "applications",
+    "job": "Job",
+    "availability": "Availability",
+    "desiredRate": "Desired hourly rate",
+    "motivation": "Motivation",
+    "internalNotes": "Internal notes",
+    "receivedOn": "Received on",
+    "changeStatus": "Change status",
+    "startConversation": "Start conversation",
+    "emailSubject": "Regarding",
+    "defaultMessage": "Hello {{name}}, thank you for your application. I would like to discuss this opportunity with you.",
+    "candidate": "Candidate",
+    "newStatus": "New status",
+    "selectNewStatus": "Select new status",
+    "internalNotesOptional": "Internal notes (optional)",
+    "addNotesPlaceholder": "Add internal notes...",
+    "updateStatus": "Update status",
+    "statusUpdateSuccess": "The application status has been successfully updated.",
+    "conversationStarted": "Conversation started",
+    "conversationStartedDesc": "The conversation has been successfully started. You will be redirected to the conversation."
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Welcome back! Here's an overview of your activities",
+    "welcome": "Welcome back, {{name}}!",
+    "accountOverview": "You are logged in as a {{userType}} user",
+    "accountCreated": "Account created",
+    "quickActions": "Quick Actions",
+    "myJobs": "My Jobs",
+    "applications": "Applications",
+    "messages": "Messages",
+    "recentActivity": "Recent Activity"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "subtitle": "Manage your notification settings",
+    "emailNotifications": "Email notifications",
+    "inAppNotifications": "In-app notifications",
+    "markAllRead": "Mark all as read",
+    "noNotifications": "No notifications",
+    "noNotificationsMessage": "You currently have no notifications.",
+    "view": "View"
+  },
+  "jobAlerts": {
+    "title": "Job Alerts",
+    "description": "Receive email notifications for new jobs that match your preferences",
+    "settingsTitle": "Settings",
+    "settingsDescription": "Manage your job alert preferences",
+    "emailEnabled": "Enable email alerts",
+    "emailEnabledDescription": "Master toggle for all job alert email notifications",
+    "frequency": "Email frequency",
+    "selectFrequency": "Select frequency",
+    "frequencyInstant": "Instant (for every new job)",
+    "frequencyDaily": "Daily (summary at 9:00 AM)",
+    "frequencyWeekly": "Weekly (Monday at 9:00 AM)",
+    "jobTypes": "Employment type",
+    "vastJobs": "Permanent jobs",
+    "vastJobsDescription": "Job postings for permanent contracts",
+    "interimJobs": "Interim assignments",
+    "interimJobsDescription": "Temporary assignments for freelancers",
+    "uitzendenJobs": "Temporary work",
+    "uitzendenJobsDescription": "Job postings through staffing agencies",
+    "locationSettings": "Location preferences",
+    "searchRadius": "Search radius",
+    "radiusLocal": "Local",
+    "radiusRegional": "Regional",
+    "radiusNational": "National",
+    "preferredLocations": "Preferred locations",
+    "addLocationPlaceholder": "Add city (e.g. Amsterdam)",
+    "addLocation": "Add",
+    "success": "Preferences saved",
+    "successDescription": "Your job alert preferences have been successfully saved",
+    "errorDescription": "An error occurred while updating your preferences",
+    "errorLoading": "Could not load preferences",
+    "allChangesSaved": "All changes have been saved",
+    "infoTitle": "How do job alerts work?",
+    "infoDescription": "Job alerts help you automatically stay informed about relevant opportunities that match your preferences.",
+    "infoPoint1": "Receive only jobs that match your criteria",
+    "infoPoint2": "Choose your own email frequency (instant, daily or weekly)",
+    "infoPoint3": "Adjust your preferences anytime"
+  },
+  "analytics": {
+    "title": "Analytics",
+    "subtitle": "View statistics and performance of your jobs"
+  },
+  "applications": {
+    "statusNew": "New",
+    "statusViewed": "Viewed",
+    "statusShortlist": "Shortlist", 
+    "statusRejected": "Rejected",
+    "statusInterview": "Interview",
+    "statusPlaced": "Placed"
+  },
+  "cv": {
+    "upload": "Upload CV",
+    "download": "Download CV",
+    "currentCv": "Current CV",
+    "noCv": "No CV uploaded",
+    "uploadSuccess": "CV uploaded successfully",
+    "uploadError": "Error uploading CV",
+    "deleteConfirm": "Are you sure you want to delete your CV?",
+    "delete": "Delete CV",
+    "preview": "Preview CV"
+  },
+  "applications": {
+    "myApplications": "My applications",
+    "manageApplications": "Manage applications",
+    "averageRating": "Average Rating",
+    "totalRatings": "Total Ratings",
+    "givenRatings": "Given Ratings",
+    "ratingTrend": "Rating Trend",
+    "received": "Received",
+    "given": "Given",
+    "overview": "Overview",
+    "receivedRatings": "Received Ratings",
+    "noRatingsReceived": "No ratings received yet",
+    "noRatingsReceivedMessage": "You will receive ratings when your collaboration with clients is completed.",
+    "noRatingsGiven": "No ratings given yet",
+    "noRatingsGivenMessage": "Give ratings to users you have collaborated with.",
+    "ratingDistribution": "Rating Distribution",
+    "ratingInsights": "Rating Insights"
+  },
+  "profile": {
+    "accountType": "Account type",
+    "memberSince": "Member since",
+    "updateProfile": "Update profile",
+    "updateSuccess": "Update successful",
+    "profileUpdated": "Your profile has been updated",
+    "updateFailed": "Update failed"
+  },
+  "verification": {
+    "title": "Company Verification",
+    "status": "Verification status",
+    "verified": "Verified",
+    "pending": "Pending",
+    "rejected": "Rejected",
+    "notSubmitted": "Not submitted",
+    "companyVerification": "Company verification",
+    "requestVerification": "Request verification",
+    "verificationDescription": "Verification increases trust with candidates and gives your jobs more visibility.",
+    "kvkNumber": "KVK Number",
+    "kvkNumberPlaceholder": "12345678",
+    "kvkNumberHint": "Your 8-digit KVK number",
+    "companyNameKvk": "Company name (as registered at KVK)",
+    "companyNamePlaceholder": "Your Company B.V.",
+    "companyNameHint": "Exact name as registered with the Chamber of Commerce",
+    "supportingDocuments": "Supporting documents (optional)",
+    "uploadDocuments": "Upload documents",
+    "uploadDocumentsHint": "You can upload KVK extracts, business licenses or other relevant documents",
+    "submitVerification": "Request verification",
+    "submitting": "Submitting...",
+    "verificationSubmitted": "Verification submitted",
+    "verificationSubmittedDescription": "Your verification request has been successfully submitted. We will contact you within 2-3 business days.",
+    "error": "Error",
+    "verificationError": "An error occurred while submitting the verification.",
+    "documentAdded": "Document added",
+    "documentAddedDescription": "The document has been successfully added to your verification.",
+    "documentError": "An error occurred while adding the document.",
+    "missingInfo": "Missing information",
+    "fillRequiredFields": "Please fill in all required fields.",
+    "verificationInProgress": "Verification in progress",
+    "verificationInProgressDescription": "Your verification request is being reviewed. This process usually takes 2-3 business days. We will contact you once the verification is complete.",
+    "addExtraDocuments": "Add additional documents",
+    "uploadExtraDocuments": "Upload additional documents",
+    "verificationApproved": "Verification approved",
+    "congratulations": "Congratulations! Your company has been successfully verified. You can now enjoy all the benefits of a verified account:",
+    "verificationBadge": "Verification badge on your jobs",
+    "higherVisibility": "Higher visibility in search results",
+    "moreTrust": "More trust with candidates",
+    "noteFromTeam": "Note from verification team:",
+    "submittedOn": "Submitted on",
+    "approved": "Approved",
+    "inReview": "In review"
+  },
+  "templates": {
+    "quickReplyTemplates": "Quick Reply Templates",
+    "title": "Quick Reply Templates",
+    "subtitle": "Manage your standard replies for messages to candidates",
+    "backToDashboard": "Back to dashboard",
+    "newTemplate": "New Template",
+    "editTemplate": "Edit Template",
+    "createTemplate": "Create Template",
+    "titleLabel": "Title",
+    "contentLabel": "Content",
+    "titlePlaceholder": "e.g. Thank you for your application",
+    "contentPlaceholder": "Type your standard message here...",
+    "cancel": "Cancel",
+    "save": "Save",
+    "create": "Create",
+    "update": "Update",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirmDelete": "Delete template?",
+    "confirmDeleteMessage": "Are you sure you want to delete the template \"{title}\"? This action cannot be undone.",
+    "confirmDeleteButton": "Delete",
+    "cancelDelete": "Cancel",
+    "noTemplatesFound": "No templates found",
+    "noTemplatesMessage": "Create your first quick reply template to save time when responding to messages.",
+    "createFirstTemplate": "Create First Template",
+    "defaultTemplate": "Default",
+    "templateCreated": "Template created",
+    "templateCreatedMessage": "Your quick reply template has been successfully created.",
+    "templateUpdated": "Template updated",
+    "templateUpdatedMessage": "Your quick reply template has been successfully updated.",
+    "templateDeleted": "Template deleted",
+    "templateDeletedMessage": "The template has been successfully deleted.",
+    "error": "Error",
+    "errorCreating": "Something went wrong while creating the template.",
+    "errorUpdating": "Something went wrong while updating the template.",
+    "errorDeleting": "Something went wrong while deleting the template.",
+    "validationError": "Validation error",
+    "editTemplateDescription": "Edit your quick reply template",
+    "createTemplateDescription": "Create a new quick reply template for frequently used messages"
+  },
+  "payment": {
+    "checkout": "Payment",
+    "securePayment": "Secure payment via Stripe",
+    "orderSummary": "Order Summary",
+    "pay": "Pay",
+    "processing": "Processing...",
+    "failed": "Payment Failed",
+    "successful": "Payment Successful",
+    "thankYou": "Thank you for your payment!",
+    "successMessage": "Your payment has been processed successfully. You now have access to premium features.",
+    "loading": "Preparing payment...",
+    "testMode": "🧪 Test mode - You will not be charged"
+  },
+  "account": {
+    "title": "Account & Subscription",
+    "subtitle": "Manage your account settings and subscription details",
+    "accountInfo": "Account Information",
+    "currentPlan": "Current Subscription",
+    "yourFeatures": "Your Features",
+    "quickActions": "Quick Actions",
+    "nextBilling": "Next billing",
+    "upgradeSubscription": "Upgrade Subscription",
+    "paymentHistory": "Payment History",
+    "notificationSettings": "Notification Settings",
+    "reportsAnalytics": "Analytics & Reports",
+    "analyticsReports": "Analytics & Reports",
+    "companyVerification": "Company Verification",
+    "verified": "Verified",
+    "pending": "Pending",
+    "edit": "Edit",
+    "email": "Email",
+    "memberSince": "Member since",
+    "verificationStatus": "Verification Status",
+    "averageRating": "Average Rating",
+    "active": "Active",
+    "inactive": "Inactive",
+    "features": {
+      "unlimitedJobs": "Unlimited job postings",
+      "premiumMatching": "Premium candidate matching",
+      "companyVerification": "Company verification",
+      "analyticsDashboard": "Analytics dashboard",
+      "prioritySupport": "Priority support",
+      "apiAccess": "API access",
+      "allJobsAccess": "Access to all jobs",
+      "cvManagement": "CV management",
+      "directMessages": "Direct messages",
+      "profileBoost": "Profile boost",
+      "emailNotifications": "Email notifications",
+      "unlimitedClientJobs": "Unlimited job postings for clients",
+      "teamManagement": "Team management",
+      "advancedAnalytics": "Advanced analytics",
+      "whiteLabelOption": "White-label option",
+      "dedicatedAccountManager": "Dedicated account manager",
+      "slaGuarantee": "SLA guarantee",
+      "basicAccess": "Basic access"
+    }
+  },
+  "languages": {
+    "en": "English",
+    "nl": "Nederlands",
+    "switchLanguage": "Switch language",
+    "currentLanguage": "Current language"
+  },
+  "landing": {
+    "hero": {
+      "title": "Connect Talent with Opportunities",
+      "subtitle": "Whether you're looking for talent, offering assignments, or planning your next career step - we bring the right people together.",
+      "badge": "The #1 platform for jobs in Netherlands",
+      "cta": {
+        "primary": "Get Started",
+        "secondary": "View Jobs"
+      }
+    },
+    "stats": {
+      "activeJobs": "Active jobs",
+      "companies": "Companies",
+      "professionals": "ZZPers & candidates",
+      "satisfaction": "Satisfaction"
+    },
+    "userTypes": {
+      "title": "What is your role?",
+      "subtitle": "Choose your account type and get started immediately",
+      "company": {
+        "title": "Company with Assignments",
+        "description": "Post vacancies and find qualified talent for your projects",
+        "features": [
+          "Post unlimited vacancies",
+          "Direct contact with candidates",
+          "Advanced matching"
+        ],
+        "cta": "Start recruiting",
+        "badge": "Popular"
+      },
+      "agency": {
+        "title": "Staffing or Recruitment Agency", 
+        "description": "Connect talent with companies and manage multiple clients",
+        "features": [
+          "Multi-client management",
+          "Bulk vacancy posting",
+          "Commission tracking"
+        ],
+        "cta": "Become partner"
+      },
+      "freelancer": {
+        "title": "ZZPer / Freelancer",
+        "description": "Find interesting assignments that match your expertise",
+        "features": [
+          "Create free profile",
+          "Apply directly",
+          "Negotiate rates"
+        ],
+        "cta": "Find assignments",
+        "badge": "Free"
+      },
+      "jobseeker": {
+        "title": "Job Seeker",
+        "description": "Discover vacancies and apply at top companies",
+        "features": [
+          "Upload CV",
+          "Job alerts",
+          "Application tracking"
+        ],
+        "cta": "Start applying",
+        "badge": "Free"
+      }
+    },
+    "benefits": {
+      "title": "Why choose our platform?",
+      "subtitle": "Everything you need for successful recruitment and selection",
+      "items": [
+        {
+          "title": "Fast matching",
+          "description": "AI-powered matching for the best candidate-vacancy fit"
+        },
+        {
+          "title": "Safe & reliable",
+          "description": "Verified companies and secure data storage"
+        },
+        {
+          "title": "All of Netherlands",
+          "description": "Vacancies and talent throughout the country"
+        },
+        {
+          "title": "Targeted search",
+          "description": "Advanced filters for precision matching"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "subtitle": "Join thousands of companies and professionals",
+      "createAccount": "Create account",
+      "login": "Login"
+    },
+    "testimonials": {
+      "title": "What our users say",
+      "items": [
+        {
+          "name": "Jan de Vries",
+          "role": "HR Manager",
+          "company": "TechCorp BV",
+          "content": "Within a week we had 5 qualified candidates. Fantastic platform!"
+        },
+        {
+          "name": "Maria Jansen", 
+          "role": "ZZPer",
+          "company": "Frontend Developer",
+          "content": "Finally a platform that understands what freelancers need. Excellent!"
+        },
+        {
+          "name": "Peter Bakker",
+          "role": "Recruiter",
+          "company": "Talent Solutions", 
+          "content": "The matching technology saves us hours of work. Very satisfied!"
+        }
+      ]
+    },
+    "footer": {
+      "description": "The platform that connects talent and opportunities.",
+      "forCompanies": "For Companies",
+      "forCandidates": "For Candidates",
+      "support": "Support",
+      "links": {
+        "postJobs": "Post vacancies",
+        "pricing": "Pricing",
+        "successStories": "Success stories",
+        "searchJobs": "Search vacancies",
+        "createProfile": "Create profile",
+        "careerTips": "Career tips",
+        "helpCenter": "Help center",
+        "contact": "Contact",
+        "privacy": "Privacy"
+      },
+      "copyright": "All rights reserved."
+    }
+  },
+  "gdpr": {
+    "title": "Privacy & Data Protection",
+    "exportData": "Export my data",
+    "deleteAccount": "Delete account",
+    "consentSettings": "Consent settings",
+    "privacyPolicy": "Privacy policy",
+    "dataRetention": "Data retention",
+    "userRights": "Your rights",
+    "exportDescription": "Download all your personal data",
+    "deleteDescription": "Permanently delete your account and all data",
+    "consentDescription": "Manage your privacy preferences"
+  },
+  "errors": {
+    "general": "Something went wrong",
+    "networkError": "Network error occurred",
+    "unauthorized": "You are not authorized to access this resource",
+    "forbidden": "Access denied",
+    "notFound": "The requested resource was not found",
+    "validationError": "Please check your input",
+    "serverError": "Internal server error"
+  },
+  "success": {
+    "saved": "Changes saved successfully",
+    "deleted": "Item deleted successfully",
+    "created": "Item created successfully",
+    "updated": "Item updated successfully"
+  },
+  "chat": {
+    "file": {
+      "upload": "Upload files",
+      "dragDrop": "Click to upload files",
+      "dropHere": "or drag files here",
+      "preview": "Preview",
+      "download": "Download",
+      "maxSize": "Maximum file size",
+      "typeError": "File type not allowed",
+      "tooBig": "File too large. Maximum size is",
+      "maxFiles": "Maximum files allowed",
+      "uploadError": "Upload errors",
+      "uploadSuccess": "Upload successful",
+      "uploadFailed": "Upload failed",
+      "filesCount": "Files",
+      "uploading": "Uploading files...",
+      "supportedTypes": "Supported: images, PDF, Word, Excel, text, ZIP"
+    }
+  },
+  "notifications": {
+    "push": {
+      "enable": "Enable",
+      "disable": "Disable",
+      "permission": "Permission",
+      "newMessage": "New message received",
+      "settings": "Notification settings",
+      "supported": "Push Notifications Supported",
+      "notSupported": "Push Notifications Not Supported",
+      "browserNotSupported": "Your browser does not support push notifications. Please use a modern browser like Chrome, Firefox, or Safari.",
+      "status": "Push Notifications Status",
+      "manageSettings": "Manage your browser notifications for real-time updates",
+      "browserPermission": "Browser Permission",
+      "permissionDescription": "Permission to show notifications",
+      "subscription": "Push Subscription",
+      "subscriptionActive": "You receive push notifications",
+      "subscriptionInactive": "You do not receive push notifications",
+      "granted": "Granted",
+      "denied": "Denied",
+      "notRequested": "Not requested",
+      "active": "Active",
+      "inactive": "Inactive",
+      "error": "Error",
+      "requestAndEnable": "Request Permission & Enable",
+      "testNotification": "Test Notification",
+      "testMessage": "This is a test of your notification settings!",
+      "blocked": "Notifications Blocked",
+      "blockedDescription": "You have blocked notifications. Go to your browser settings to enable notifications for this site.",
+      "preferences": "Notification Preferences",
+      "preferencesDescription": "Choose which events you want to receive notifications for",
+      "globalSettings": "Global Settings",
+      "emailNotifications": "Email Notifications",
+      "emailDescription": "Receive notifications via email",
+      "pushNotifications": "Push Notifications",
+      "pushDescription": "Receive notifications in your browser",
+      "specificNotifications": "Specific Notifications",
+      "newMessages": "New Messages",
+      "newApplications": "New Applications",
+      "statusUpdates": "Status Updates",
+      "emailOption": "Email notifications",
+      "pushOption": "Push notifications",
+      "settingsSaved": "Settings saved",
+      "settingsSavedDescription": "Your notification settings have been updated.",
+      "saveError": "Save error",
+      "saveErrorDescription": "Something went wrong while saving your settings."
+    }
+  },
+  "guest": {
+    "invite": {
+      "button": "Invite Guest to Chat",
+      "title": "Create Guest Chat Invitation",
+      "copyLink": "Copy Link",
+      "createInvitation": "Create Invitation"
+    },
+    "chat": {
+      "welcome": "Welcome to guest chat",
+      "convert": "Convert to full account",
+      "limit": "Message limit reached",
+      "linkCreated": "Guest Chat Link Created",
+      "linkReady": "Guest Chat Link Ready!",
+      "shareLink": "Share this link with your guest to start chatting",
+      "selectJob": "Select Job",
+      "jobRequired": "Job required",
+      "selectJobDescription": "Please select a job for this guest chat session",
+      "selectJobPlaceholder": "Select a job",
+      "loadingJobs": "Loading jobs...",
+      "guestName": "Guest Name (Optional)",
+      "guestNamePlaceholder": "Enter guest's name",
+      "guestEmail": "Guest Email (Optional)",
+      "guestEmailPlaceholder": "Enter guest's email for direct invite",
+      "maxMessages": "Max Messages",
+      "expiresIn": "Expires In",
+      "messages": "messages",
+      "day": "day",
+      "days": "days",
+      "week": "week",
+      "weeks": "weeks",
+      "month": "month",
+      "limitDescription": "Guest will be able to send up to {maxMessages} messages within {days} day(s). After that, they can convert to a full user account to continue.",
+      "creating": "Creating...",
+      "linkSuccess": "Guest chat link created",
+      "linkSuccessDescription": "The guest chat invitation has been created successfully",
+      "linkError": "Error creating guest chat",
+      "linkErrorDescription": "Failed to create guest chat session",
+      "clipboardSuccess": "Copied to clipboard",
+      "clipboardSuccessDescription": "The guest chat link has been copied to your clipboard",
+      "clipboardError": "Copy failed",
+      "clipboardErrorDescription": "Failed to copy to clipboard. Please copy manually.",
+      "emailRequired": "Email required",
+      "emailRequiredDescription": "Please enter the guest's email address",
+      "emailSubject": "Chat invitation - Vacature ORBIT",
+      "emailBody": "Hello {name},\n\nYou have been invited to chat about a job opportunity!\n\nClick the link below to start chatting:\n{url}\n\nThis link will expire on {expiry}.\n\nBest regards,\n{sender}",
+      "sendEmail": "Send Email Invitation",
+      "expires": "Expires",
+      "canConvert": "Guest can convert to full account later",
+      "createAnother": "Create Another",
+      "done": "Done"
+    }
+  },
+  "video": {
+    "start": "Start Video Call",
+    "end": "End Call",
+    "joining": "Connecting to video call...",
+    "inCall": "In call",
+    "error": "Video call error",
+    "call": "Video Call",
+    "yourName": "Your Name",
+    "enterName": "Enter your name for the call",
+    "micOn": "Mic On",
+    "micOff": "Mic Off",
+    "cameraOn": "Camera On",
+    "cameraOff": "Camera Off",
+    "startCall": "Start Video Call",
+    "endCall": "End Call",
+    "connecting": "Connecting to video call...",
+    "nameRequired": "Please enter your name",
+    "containerError": "Video container not available",
+    "loadError": "Failed to load Jitsi Meet script",
+    "startError": "Failed to start video call. Please try again.",
+    "joined": "Joined video call",
+    "joinedDescription": "You are now connected to the video call",
+    "left": "Left video call",
+    "leftDescription": "You have disconnected from the video call",
+    "participantJoined": "Participant joined",
+    "participantLeft": "Participant left",
+    "someoneJoined": "{name} joined the call",
+    "someoneLeft": "{name} left the call"
+  },
+  "group": {
+    "create": "Create Group Chat",
+    "name": "Group Name",
+    "addParticipant": "Add Participant",
+    "removeParticipant": "Remove Participant",
+    "participants": "Participants",
+    "leave": "Leave Group",
+    "createTitle": "Create Group Chat",
+    "selectParticipants": "Select Participants",
+    "created": "Group Chat Created",
+    "nameRequired": "Group name required",
+    "nameRequiredDescription": "Please enter a name for your group chat",
+    "participantsRequired": "Participants required",
+    "participantsRequiredDescription": "Please select at least one participant for the group",
+    "nameLabel": "Group Name *",
+    "namePlaceholder": "Enter group name",
+    "nameLimit": "characters",
+    "descriptionLabel": "Description (Optional)",
+    "descriptionPlaceholder": "Describe the purpose of this group...",
+    "descriptionLimit": "characters",
+    "jobAssociated": "This group chat will be associated with the selected job posting.",
+    "nextSelectParticipants": "Next: Select Participants",
+    "searchUsers": "Search Users",
+    "searchPlaceholder": "Search by name, email, or company...",
+    "selectedParticipants": "Selected Participants",
+    "availableUsers": "Available Users",
+    "loadingUsers": "Loading users...",
+    "noUsersFound": "No users found matching \"{term}\"",
+    "noUsersAvailable": "No users available",
+    "back": "Back",
+    "creating": "Creating...",
+    "createGroup": "Create Group",
+    "groupCreated": "Group chat created",
+    "groupCreatedDescription": "Group \"{name}\" has been created successfully",
+    "createError": "Error creating group chat",
+    "createErrorDescription": "Failed to create group chat",
+    "createdSuccess": "Group Chat Created!",
+    "createdWith": "Your group \"{name}\" has been created with {count} members.",
+    "groupDetails": "Group Details:",
+    "detailName": "Name: {name}",
+    "detailDescription": "Description: {description}",
+    "detailMembers": "Members: {count} (including you)",
+    "detailParticipants": "Participants: {participants}",
+    "createAnotherGroup": "Create Another Group",
+    "goToGroupChat": "Go to Group Chat",
+    "members": "members"
+  },
+  "companyPost": {
+    "phoneNumber": "Phone Number"
+  },
+  "postDetail": {
+    "backToJobs": "Back to Jobs"
+  },
+  "aboutCompany": {
+    "companyWebsite": "Company Website"
+  },
+  "aboutFreelancer": {
+    "portfolio": "Portfolio"
+  },
+  "recruiterForms": {
+    "companyEmail": "Company Email"
+  },
+  "companyAuth": {
+    "companyLogo": "Company Logo"
+  },
+  "jobSeekerJobPost": {
+    "category": "Category"
+  },
+  "recruiterJobPost": {
+    "postedBy": "Posted By"
+  },
+  "freelancerAuth": {
+    "portfolioUrl": "Portfolio URL"
+  },
+  "addReview": {
+    "reviewTitle": "Review Title",
+    "selectApplication": "Select Application",
+    "selectUser": "Select User to Review",
+    "ratingScore": "Rating Score",
+    "comment": "Comment (Optional)",
+    "addReview": "Add Review",
+    "submitReview": "Submit Review",
+    "noApplicationsFound": "No completed applications found",
+    "noApplicationsMessage": "You can add reviews after completing job applications or placements."
+  },
+  "subscription": {
+    "dashboard": {
+      "title": "Subscription Dashboard",
+      "subtitle": "Manage your subscription, payments, and usage",
+      "currentSubscription": "Current Subscription",
+      "paymentMethod": "Payment Method",
+      "paymentSettings": "Payment Settings",
+      "cancel": "Cancel",
+      "nextBilling": "Next billing",
+      "noPaymentMethod": "No payment method set up",
+      "addPaymentMethod": "Add payment method",
+      "updatePaymentMethod": "Update payment details",
+      "expires": "Expires",
+      "status": {
+        "ACTIVE": "Active",
+        "TRIALING": "Trial", 
+        "PAST_DUE": "Past due",
+        "CANCELED": "Cancelled",
+        "INCOMPLETE": "Incomplete"
+      }
+    },
+    "tabs": {
+      "overview": "Overview",
+      "usage": "Usage",
+      "payments": "Payments",
+      "plans": "Plans"
+    },
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "features": [
+          "Up to 10 jobs per month",
+          "Basic applicant management",
+          "Email notifications",
+          "Basic analytics",
+          "Email support"
+        ]
+      },
+      "professional": {
+        "name": "Professional", 
+        "features": [
+          "Up to 50 jobs per month",
+          "Advanced applicant management",
+          "Real-time notifications",
+          "Advanced analytics",
+          "CV database access",
+          "Priority support",
+          "Quick reply templates",
+          "Interview scheduler"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "features": [
+          "Unlimited jobs",
+          "White-label branding",
+          "API access",
+          "Custom integrations",
+          "Dedicated account manager",
+          "SLA guarantee",
+          "Training & onboarding"
+        ]
+      },
+      "interval": {
+        "month": "month",
+        "year": "year"
+      },
+      "popular": "Popular",
+      "current": "Current plan",
+      "upgrade": "Upgrade",
+      "downgrade": "Downgrade",
+      "compare": "Compare plans",
+      "choosePlan": "Choose this plan",
+      "unlimited": "Unlimited"
+    },
+    "usage": {
+      "title": "Usage Statistics",
+      "jobsPosted": "Jobs posted",
+      "jobsUsage": "Job Usage", 
+      "applicationsReceived": "Applications received",
+      "applicationsAnalysis": "Application Analysis",
+      "viewsThisMonth": "Job views",
+      "responsesThisMonth": "Responses sent",
+      "totalReceived": "Total received",
+      "thisMonth": "This month",
+      "averagePerJob": "Average per job",
+      "responseRate": "Response rate", 
+      "hiredCandidates": "Hired candidates",
+      "activeJobs": "Active jobs",
+      "usageHistory": "Usage History",
+      "limitReached": "Limit almost reached",
+      "limitWarning": "You have used {{percentage}}% of your monthly job limit. Consider upgrading to a higher plan.",
+      "allowedJobs": "of {{limit}} allowed",
+      "unlimitedJobs": "Unlimited jobs",
+      "chartPlaceholder": "Usage chart will be implemented here"
+    },
+    "payments": {
+      "title": "Payment History",
+      "loading": "Loading payment history...",
+      "error": "Cannot load payments",
+      "errorMessage": "An error occurred while loading your payment history.",
+      "statistics": {
+        "totalPaid": "Total Paid",
+        "successful": "Successful", 
+        "failed": "Failed",
+        "refunded": "Refunded"
+      },
+      "filters": {
+        "title": "Filters",
+        "search": "Search",
+        "searchPlaceholder": "Search description...",
+        "status": "Status",
+        "period": "Period",
+        "allStatuses": "All statuses",
+        "allDates": "All dates",
+        "thisMonth": "This month",
+        "lastMonth": "Last month", 
+        "last3Months": "Last 3 months",
+        "resetFilters": "Reset Filters"
+      },
+      "status": {
+        "COMPLETED": "Completed",
+        "PENDING": "Pending", 
+        "FAILED": "Failed",
+        "REFUNDED": "Refunded"
+      },
+      "actions": {
+        "downloadInvoice": "Invoice",
+        "downloadReceipt": "Receipt",
+        "downloading": "Downloading..."
+      },
+      "invoice": {
+        "noInvoice": "No invoice available for this payment.",
+        "downloadSuccess": "Invoice downloaded.",
+        "downloadError": "Cannot download invoice. Please try again later."
+      },
+      "empty": {
+        "noPayments": "No payments yet", 
+        "noPaymentsMessage": "Your payment history will appear here once you make your first payment.",
+        "noResults": "No payments found",
+        "noResultsMessage": "Try adjusting the filters to see more results."
+      },
+      "refundReason": "Reason: {{reason}}",
+      "refundAmount": "Refunded: €{{amount}}",
+      "failureReason": "Reason: {{reason}}",
+      "count": "{{count}} payments"
+    },
+    "cancellation": {
+      "title": "Cancel Subscription",
+      "subtitle": "We're sorry to see you go",
+      "currentPlan": "Your current plan",
+      "cancellationDate": "Cancellation date",
+      "reason": "Reason for cancellation",
+      "reasonRequired": "Please select a reason",
+      "reasons": {
+        "tooExpensive": "Too expensive",
+        "notEnoughFeatures": "Not enough features",
+        "foundAlternative": "Found alternative",
+        "noLongerNeeded": "No longer needed",
+        "technicalIssues": "Technical issues",
+        "customerService": "Customer service",
+        "other": "Other"
+      },
+      "feedback": "Feedback (optional)",
+      "feedbackPlaceholder": "Tell us what we can improve...",
+      "keepBenefits": "You'll keep access to all features until {{date}}",
+      "confirm": "Yes, cancel",
+      "confirmCancel": "No, keep it",
+      "processing": "Processing...",
+      "success": "Subscription cancelled",
+      "successMessage": "Your subscription has been cancelled. You'll keep access to all features until {{date}}.",
+      "error": "Cannot cancel subscription",
+      "errorMessage": "An error occurred. Please try again later.",
+      "reasonDescriptions": {
+        "tooExpensive": "The subscription is too expensive for my budget",
+        "notEnoughFeatures": "I don't use the service often enough", 
+        "foundAlternative": "I'm switching to another service",
+        "technicalIssues": "I'm experiencing technical problems",
+        "noLongerNeeded": "The service is missing features I need",
+        "other": "Another reason not mentioned above"
+      },
+      "alternatives": {
+        "downgrade": "Consider a downgrade to a cheaper plan",
+        "pause": "Pause your subscription for up to 3 months",
+        "support": "Contact our support team",
+        "feedback": "Tell us which features you're missing"
+      }
+    },
+    "paymentUpdate": {
+      "title": "Update Payment Method",
+      "subtitle": "Change your payment details",
+      "currentMethod": "Current payment method",
+      "newMethod": "New payment method",
+      "cardNumber": "Card number", 
+      "expiryDate": "Expiry date",
+      "securityCode": "CVV",
+      "updateMethod": "Update payment method",
+      "processing": "Processing...",
+      "success": "Payment method updated",
+      "successMessage": "Your payment method has been successfully updated.",
+      "error": "Cannot update payment method",
+      "errorMessage": "An error occurred. Please try again later.",
+      "validation": {
+        "invalidCard": "Invalid card number",
+        "invalidExpiry": "Invalid expiry date", 
+        "invalidCVC": "Invalid CVV"
+      }
+    },
+    "planComparison": {
+      "title": "Compare Plans",
+      "subtitle": "Choose the plan that fits your needs best",
+      "currentPlan": "Current plan",
+      "mostPopular": "Most popular choice",
+      "selectPlan": "Select plan",
+      "upgrade": "Upgrade",
+      "downgrade": "Downgrade", 
+      "changeInEffect": "Change takes effect on {{date}}",
+      "prorationPreview": "Cost preview",
+      "viewPreview": "View costs",
+      "immediateCharge": "Immediate charge",
+      "creditUsed": "Credit used",
+      "nextBillingAmount": "Next invoice",
+      "confirm": "Confirm",
+      "confirmUpgrade": "Confirm upgrade",
+      "confirmDowngrade": "Confirm downgrade",
+      "processing": "Processing...",
+      "success": "Plan changed successfully",
+      "successMessage": "Your subscription has been changed to {{plan}}.",
+      "error": "Cannot change plan", 
+      "errorMessage": "An error occurred. Please try again later.",
+      "detailedComparison": "Detailed Comparison",
+      "immediateAccess": "Upgrade gets immediate access",
+      "changeTo": "Changing to",
+      "costBreakdown": "Cost Breakdown",
+      "newPlanCost": "New plan cost (pro rata)",
+      "downgradeWarning": "Downgrade warning",
+      "downgradeWarningMessage": "Your new limits take effect immediately. Make sure you stay within the new limits.",
+      "confirmChange": "Confirm Change"
+    },
+    "alerts": {
+      "limitReached": "Limit reached",
+      "limitWarning": "You have used {{percentage}}% of your limit.",
+      "upgradePrompt": "Upgrade"
+    },
+    "loading": {
+      "subscription": "Loading subscription...",
+      "usage": "Loading usage...",
+      "payments": "Loading payments..."
+    }
+  },
+  "ratings": {
+    "title": "Ratings",
+    "score": "Score",
+    "to": "To",
+    "from": "From", 
+    "job": "Job",
+    "unknownUser": "Unknown User",
+    "unknownJob": "Unknown Job",
+    "unknownDate": "Unknown Date",
+    "tip": "Tip",
+    "tipMessage": "Maintain a high rating by communicating professionally and meeting deadlines.",
+    "positiveReviews": "Positive reviews (4-5★)",
+    "neutralReviews": "Neutral reviews (3★)",
+    "negativeReviews": "Negative reviews (1-2★)"
+  }
+}

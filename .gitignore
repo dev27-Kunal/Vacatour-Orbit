@@ -1,0 +1,43 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+
+# Environment files - NEVER commit these
+.env
+.env.local
+.env.development
+.env.production
+.env.production.local
+.env.vercel
+.env.vercel.check
+.env*.local
+
+# Database
+local.db
+
+# Vercel
+.vercel
+/load-testing/results/*.json
+
+# Security - sensitive test scripts
+scripts/test-railway-supabase.ts
+scripts/test-service-role-key.ts
+
+# Security - test results with potential tokens
+test-results-*.log
+test-results-*.json
+test-logs-*.log
+
+# Security - backup files
+*.backup.*
+*.bak
+
+# Security - generated reports with potential sensitive data
+*_CREDENTIALS_*.md
+*_KEYS_*.md
+*_SECRETS_*.md
+push-notifications.log
+.worktrees/

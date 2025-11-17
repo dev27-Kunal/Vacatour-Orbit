@@ -1,0 +1,2788 @@
+{
+  "homepage": {
+    "title": "Vacature ORBIT",
+    "subtitle": "Het complete recruitment platform voor iedereen in de arbeidsmarkt",
+    "features": {
+      "pushNotifications": "Push Notificaties",
+      "videoInterviews": "Video Interviews",
+      "guestChat": "Guest Chat",
+      "fileSharing": "File Sharing",
+      "groupChat": "Group Chat"
+    },
+    "roi": {
+      "detailedTitle": "Gedetailleerde ROI ranglijst",
+      "headers": {
+        "rank": "Rang",
+        "totalRevenue": "Totale omzet",
+        "totalCost": "Totale kosten",
+        "timeToValue": "Time to value"
+      },
+      "noDataTitle": "Geen ROI-data beschikbaar",
+      "noDataDesc": "De ROI-analyse verschijnt hier zodra bureaus plaatsingen hebben afgerond"
+    },
+    "tabs": {
+      "companies": "Bedrijven",
+      "recruiters": "Recruiters & Bureaus",
+      "freelancers": "ZZP'ers"
+    },
+    "companies": {
+      "title": "De marktplaats voor talent",
+      "subtitle": "Sneller de juiste kandidaat vinden met ons complete recruitment platform",
+      "startTrial": "Start Gratis Trial",
+      "viewCandidates": "Bekijk Kandidaten",
+      "features": {
+        "directCommunication": {
+          "title": "Directe Communicatie",
+          "description": "Chat direct met kandidaten en recruiters via ons messaging systeem.",
+          "items": [
+            "Real-time chat met push notificaties",
+            "Video interviews direct vanuit chat",
+            "Deel CV's en documenten veilig",
+            "Groepsgesprekken met hiring team",
+            "Track alle communicatie geschiedenis"
+          ]
+        },
+        "smartMatching": {
+          "title": "Smart Matching",
+          "description": "AI-gestuurde matching voor de perfecte kandidaat-vacature fit.",
+          "items": [
+            "95% nauwkeurige matching",
+            "Automatische kandidaat suggesties",
+            "Skills-based matching",
+            "Beschikbaarheids- en salaris matching",
+            "Diversiteitsaanbevelingen"
+          ]
+        },
+        "analytics": {
+          "title": "Analytics & Insights",
+          "description": "Krijg inzicht in je recruitment proces met geavanceerde analytics.",
+          "items": [
+            "Time-to-hire metrics",
+            "Kandidaat pipeline overzicht",
+            "Conversie rapportages",
+            "Kanaalrendement analyse",
+            "Interview performance tracking"
+          ]
+        }
+      },
+      "benefits": {
+        "title": "Waarom bedrijven kiezen voor Vacature ORBIT",
+        "items": [
+          {
+            "title": "70% Sneller",
+            "description": "Vul vacatures sneller in"
+          },
+          {
+            "title": "50% Goedkoper",
+            "description": "Lagere recruitment kosten"
+          },
+          {
+            "title": "Betere Matches",
+            "description": "AI-gestuurde selectie"
+          },
+          {
+            "title": "100% Veilig",
+            "description": "GDPR compliant"
+          }
+        ]
+      }
+    },
+    "recruiters": {
+      "title": "Één platform, een grote pool met nieuwe klanten",
+      "subtitle": "Waardoor je sneller een klant kan vinden of krijgen - Stop kapitaalvernietiging!",
+      "startAsRecruiter": "Start als Recruiter",
+      "viewDemo": "Bekijk Demo",
+      "problem": {
+        "title": "Het probleem dat we oplossen",
+        "problemTitle": "❌ Het Probleem",
+        "problemDescription": "Je biedt 5 goede kandidaten aan, maar 4 worden afgewezen. Deze waardevolle kandidaten gaan verloren omdat je ze nergens anders kwijt kunt - pure kapitaalvernietiging!",
+        "solutionTitle": "✅ De Oplossing",
+        "solutionDescription": "Bied afgewezen kandidaten aan op onze marktplaats! Andere bedrijven in de regio zoeken vergelijkbare profielen. Win-win: kandidaat vindt baan, jij vindt nieuwe klant!"
+      },
+      "features": {
+        "offerEverywhere": {
+          "title": "Kandidaten Overal Aanbieden",
+          "description": "Geen beperking tot één bureau. Bied kandidaten aan bij alle relevante vacatures.",
+          "items": [
+            "Onbeperkt kandidaten plaatsen",
+            "Cross-industry matching",
+            "Regionale én landelijke reach",
+            "Guest chat voor kandidaat introductie",
+            "Automatische statusupdates"
+          ]
+        },
+        "findClients": {
+          "title": "Nieuwe Klanten Vinden",
+          "description": "Transformeer afgewezen kandidaten in nieuwe business opportunities.",
+          "items": [
+            "Automatische lead generatie",
+            "Directe klant introductie",
+            "Track conversie metrics",
+            "Marktinzicht dashboard",
+            "Talentpools delen met één klik"
+          ]
+        },
+        "freedom": {
+          "title": "Volledige Vrijheid",
+          "description": "Werk zoals jij wilt, zonder beperkingen of exclusiviteit.",
+          "items": [
+            "Geen exclusiviteitsclausules",
+            "Eigen tarieven bepalen",
+            "Direct contact met bedrijven",
+            "Flexibele contractvormen",
+            "Samenwerking op jouw voorwaarden"
+          ]
+        }
+      },
+      "results": {
+        "title": "Resultaten van onze Recruiters",
+        "metrics": [
+          {
+            "value": "85%",
+            "description": "Afgewezen kandidaten geplaatst"
+          },
+          {
+            "value": "3.2x",
+            "description": "Meer nieuwe klanten"
+          },
+          {
+            "value": "€0",
+            "description": "Platform kosten"
+          },
+          {
+            "value": "24/7",
+            "description": "Kandidaten presenteren"
+          }
+        ]
+      }
+    },
+    "freelancers": {
+      "title": "Direct contact met meerdere eindklanten",
+      "subtitle": "Als ZZP'er vind je hier direct opdrachten zonder tussenpersonen",
+      "createProfile": "Maak ZZP Profiel",
+      "viewJobs": "Bekijk Opdrachten",
+      "features": {
+        "directClients": {
+          "title": "Direct Opdrachtgevers",
+          "description": "Geen bureaus of bemiddelaars - direct contact met bedrijven.",
+          "items": [
+            "100% van je tarief voor jou",
+            "Onderhandel direct over voorwaarden",
+            "Bouw eigen klantrelaties op",
+            "Geen verborgen commissies",
+            "Plan videogesprekken direct in"
+          ]
+        },
+        "professionalProfile": {
+          "title": "Professioneel Profiel",
+          "description": "Presenteer jezelf professioneel met een uitgebreid ZZP profiel.",
+          "items": [
+            "Portfolio & referenties",
+            "Skills & certificaten",
+            "Beschikbaarheidskalender",
+            "Video introductie mogelijk",
+            "AI-verbeteringssuggesties"
+          ]
+        },
+        "jobMatching": {
+          "title": "Opdracht Matching",
+          "description": "Ontvang alleen relevante opdrachten die bij jouw expertise passen.",
+          "items": [
+            "AI-gestuurde opdracht suggesties",
+            "Push notificaties voor nieuwe matches",
+            "Tariefcalculator tool",
+            "Marktconforme tarieven inzicht",
+            "Slimme filters op skills & beschikbaarheid"
+          ]
+        }
+      },
+      "benefits": {
+        "title": "Waarom ZZP'ers kiezen voor Vacature ORBIT",
+        "simple": {
+          "title": "Eenvoudig & Direct",
+          "items": [
+            "• Binnen 5 minuten een profiel aangemaakt",
+            "• Direct zichtbaar voor opdrachtgevers",
+            "• Geen ingewikkelde procedures",
+            "• Chat direct met bedrijven",
+            "• Accepteer opdrachten met één klik"
+          ]
+        },
+        "secure": {
+          "title": "Veilig & Betrouwbaar",
+          "items": [
+            "• Geverifieerde bedrijven",
+            "• Veilige betaling garantie",
+            "• Contract templates beschikbaar",
+            "• GDPR compliant platform",
+            "• Ondersteuning door echte mensen wanneer nodig"
+          ]
+        }
+      },
+      "cta": {
+        "title": "Start vandaag nog met opdrachten vinden",
+        "description": "Geen verborgen kosten, geen commissies, geen gedoe. Gewoon direct contact met opdrachtgevers die jouw expertise zoeken.",
+        "button": "Registreer als ZZP'er - Gratis"
+      }
+    },
+    "globalFeatures": {
+      "title": "Platform Features voor Iedereen",
+      "features": [
+        {
+          "title": "Push Notificaties",
+          "description": "Mis nooit een belangrijke update"
+        },
+        {
+          "title": "Video Interviews",
+          "description": "Gratis video gesprekken via Jitsi"
+        },
+        {
+          "title": "Guest Chat",
+          "description": "Chat zonder account met kandidaten"
+        },
+        {
+          "title": "File Sharing",
+          "description": "Deel CV's en documenten veilig"
+        },
+        {
+          "title": "Group Chat",
+          "description": "Hiring team gesprekken"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Klaar om te beginnen?",
+      "subtitle": "Kies je rol en start vandaag nog - volledig gratis!",
+      "buttons": {
+        "company": "Ik ben een Bedrijf",
+        "recruiter": "Ik ben een Recruiter",
+        "freelancer": "Ik ben ZZP'er"
+      }
+    },
+    "viewer": {
+      "loadError": "Kon contract niet laden",
+      "signed": "Contract succesvol ondertekend",
+      "signError": "Kon contract niet ondertekenen",
+      "activated": "Contract succesvol geactiveerd",
+      "activateError": "Kon contract niet activeren",
+      "terminated": "Contract succesvol beëindigd",
+      "terminateError": "Kon contract niet beëindigen",
+      "downloadError": "Kon contract niet downloaden",
+      "notFound": "Contract niet gevonden",
+      "downloadPdf": "PDF downloaden",
+      "print": "Printen",
+      "sendEmail": "E‑mail versturen",
+      "copy": "Kopiëren",
+      "activate": "Activeren",
+      "document": "Document",
+      "signatures": "Handtekeningen",
+      "approvals": "Goedkeuringen",
+      "history": "Historie",
+      "detailsTitle": "Contractdetails",
+      "employmentTerms": "Arbeidsvoorwaarden",
+      "type": "Type:",
+      "typePermanent": "Vast",
+      "typeInterim": "Interim",
+      "typeAgency": "Uitzend",
+      "workingHours": "Werkuren:",
+      "hoursPerWeek": "uur/week",
+      "salary": "Salaris:",
+      "perHourShort": "uur",
+      "vacationDays": "Vakantiedagen:",
+      "daysPerYear": "dagen/jaar",
+      "probation": "Proeftijd:",
+      "months": "maand(en)",
+      "noticePeriod": "Opzegtermijn:",
+      "agencyFee": "Bureauvergoeding",
+      "agencyFeeLabel": "Bureau fee:",
+      "calculation": "Berekening:",
+      "ofSalary": "van salaris",
+      "documentTitle": "Contractdocument",
+      "documentPreview": "Voorvertoning van het contractdocument",
+      "noDocument": "Geen document beschikbaar",
+      "signaturesTitle": "Handtekeningen",
+      "signaturesReceived": "{{received}} van {{required}} handtekeningen ontvangen",
+      "waitingForSignatures": "Wacht op handtekeningen van {{count}} partij(en)",
+      "approvalsTitle": "Goedkeuringen",
+      "noApprovals": "Geen goedkeuringen vereist",
+      "auditLog": "Auditlog",
+      "auditLogDesc": "Volledige geschiedenis van dit contract",
+      "terminateTitle": "Contract beëindigen",
+      "terminateDesc": "Geef een reden op voor het beëindigen van dit contract",
+      "reason": "Reden",
+      "reasonPlaceholder": "Geef een reden op...",
+      "effectiveDate": "Ingangsdatum",
+      "terminate": "Beëindigen"
+    }
+  },
+  "common": {
+    "login": "Inloggen",
+    "logout": "Uitloggen",
+    "register": "Registreren",
+    "save": "Opslaan",
+    "cancel": "Annuleren",
+    "delete": "Verwijderen",
+    "edit": "Bewerken",
+    "close": "Sluiten",
+    "loading": "Laden...",
+    "saving": "Opslaan...",
+    "search": "Zoeken",
+    "submit": "Verzenden",
+    "back": "Terug",
+    "next": "Volgende",
+    "previous": "Vorige",
+    "yes": "Ja",
+    "no": "Nee",
+    "error": "Er is een fout opgetreden",
+    "success": "Gelukt!",
+    "per": "per",
+    "feature": "Functie",
+    "retry": "Opnieuw proberen",
+    "details": "Details",
+    "email": "E-mail",
+    "noAccess": "Geen toegang",
+    "backToDashboard": "Terug naar Dashboard",
+    "actions": "Acties",
+    "days": "dagen"
+  },
+  "navigation": {
+    "jobs": "Vacatures",
+    "messages": "Berichten",
+    "dashboard": "Dashboard",
+    "profile": "Profiel",
+    "notifications": "Notificaties",
+    "jobAlerts": "Vacature Alerts",
+    "analytics": "Analytics",
+    "payments": "Betalingen",
+    "ratings": "Beoordelingen",
+    "languageSelector": "Taal selecteren",
+    "bureauPortal": "Bureau Portal",
+    "portalDashboard": "Portal Dashboard",
+    "availableJobs": "Beschikbare Vacatures",
+    "submitCandidate": "Kandidaat Insturen",
+    "performanceAnalytics": "Prestatie-analyse",
+    "myContracts": "Mijn Contracten",
+    "rateCards": "Tariefkaarten",
+    "vmsPhase3": "VMS Fase 3",
+    "bureauMessages": "Bureau Berichten",
+    "myShortlists": "Mijn Shortlists",
+    "vmsLegacy": "VMS Legacy",
+    "bureauDashboard": "Bureau Dashboard",
+    "bureauRankings": "Bureau Ranglijsten",
+    "workflows": "Workflows",
+    "bureauManagement": "Bureau Beheer",
+    "advancedAnalytics": "Geavanceerde Analytics",
+    "workflowAutomation": "Workflow Automatisering",
+    "contractManagement": "Contractbeheer",
+    "contractTemplates": "Contracttemplates",
+    "msaManagement": "MSA Beheer",
+    "bulkActions": "Bulkacties",
+    "complianceDashboard": "Compliance Dashboard",
+    "bureauVMS": "Bureau VMS",
+    "companyVMS": "Bedrijf VMS"
+  },
+  "userTypes": {
+    "employer": "Bedrijf",
+    "zzp": "ZZP'er",
+    "bureau": "Bureau",
+    "werkzoekende": "Werkzoekende",
+    "employerDescription": "Ik zoek talent voor mijn bedrijf",
+    "zzpDescription": "Ik zoek opdrachten als freelancer",
+    "bureauDescription": "Ik ben een recruitmentbureau",
+    "werkzoekendeDescription": "Ik zoek een vaste baan",
+    "BEDRIJF": "Bedrijf",
+    "ZZP": "ZZP'er",
+    "BUREAU": "Bureau",
+    "SOLLICITANT": "Werkzoekende"
+  },
+  "jobs": {
+    "title": "Vacatures",
+    "subtitle": "Ontdek de nieuwste kansen en vind jouw perfecte baan",
+    "searchPlaceholder": "Zoek op titel, beschrijving of locatie...",
+    "filters": "Filters",
+    "noJobsFound": "Geen vacatures gevonden",
+    "noJobsMessage": "Probeer je zoekcriteria aan te passen of kijk later opnieuw.",
+    "clearFilters": "Wis alle filters",
+    "myJobs": "Mijn vacatures",
+    "allJobs": "Alle vacatures",
+    "createJob": "Vacature plaatsen",
+    "searchJobs": "Opdrachten zoeken",
+    "employmentTypeLabel": "Type dienstverband",
+    "locationLabel": "Locatie",
+    "locationPlaceholder": "Stad, regio...",
+    "minRateLabel": "Min. uurtarief",
+    "maxRateLabel": "Max. uurtarief",
+    "resultsCount": "{{count}} vacatures gevonden",
+    "pageInfo": "Pagina {{current}} van {{total}}",
+    "loadError": "Er is een fout opgetreden bij het laden van vacatures.",
+    "employmentTypes": {
+      "VAST": "Vaste aanstelling",
+      "INTERIM": "Interim",
+      "UITZENDEN": "Uitzendwerk"
+    },
+    "salary": {
+      "perYear": "per jaar",
+      "perHour": "per uur",
+      "onRequest": "Op aanvraag"
+    },
+    "bureauOnly": "Vacature via uitzendbureau",
+    "bureauOnlyDescription": "Deze vacature wordt ingevuld via uitzendbureaus. Bureaus kunnen kandidaten indienen via het Bureau Portal."
+  },
+  "employmentTypes": {
+    "VAST": "Vast",
+    "INTERIM": "Interim",
+    "UITZENDEN": "Uitzendwerk"
+  },
+  "jobStatus": {
+    "OPEN": "Open",
+    "CLOSED": "Gesloten",
+    "DRAFT": "Concept"
+  },
+  "applicationStatus": {
+    "PENDING": "In behandeling",
+    "ACCEPTED": "Geaccepteerd",
+    "REJECTED": "Afgewezen",
+    "INTERVIEW": "Gesprek",
+    "WITHDRAWN": "Teruggetrokken"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Welkom terug! Hier is een overzicht van je activiteiten",
+    "welcome": "Welkom terug, {{name}}!",
+    "accountOverview": "Je bent ingelogd als {{userType}} gebruiker",
+    "accountCreated": "Account aangemaakt",
+    "quickActions": "Snelle Acties",
+    "myJobs": "Mijn Vacatures",
+    "applications": "Sollicitaties",
+    "messages": "Berichten",
+    "recentActivity": "Recente Activiteit"
+  },
+  "messages": {
+    "thread": {
+      "notFoundTitle": "Gesprek niet gevonden",
+      "notFoundDesc": "Het gesprek dat je zoekt bestaat niet of je hebt geen toegang.",
+      "backToMessages": "Terug naar berichten",
+      "groupChat": "Groepschat",
+      "aboutJob": "Gesprek over vacature",
+      "groupConversation": "Groepsgesprek",
+      "betweenParties": "Tussen werkgever en kandidaat",
+      "employer": "Werkgever",
+      "candidate": "Kandidaat",
+      "emptyTitle": "Nog geen berichten",
+      "emptyDesc": "Start het gesprek door hieronder een bericht te typen.",
+      "you": "Jij",
+      "unknown": "Onbekend",
+      "other": "Ander",
+      "addedFiles": "Toegevoegde bestanden:",
+      "placeholder": "Typ je bericht... (Enter = versturen, Shift+Enter = nieuwe regel)",
+      "addFiles": "Bestanden toevoegen",
+      "charCounter": "{{count}}/1000 tekens",
+      "shortcutLegend": "Enter = versturen, Shift+Enter = nieuwe regel"
+    }
+  },
+  "jobForm": {
+    "backToMyJobs": "Terug naar mijn vacatures",
+    "noAccess": "Geen toegang",
+    "noAccessMessage": "Alleen bedrijven en bureaus kunnen vacatures plaatsen. Als ZZP'er kun je opdrachten zoeken op de vacaturepagina.",
+    "goToJobs": "Naar vacatures",
+    "newJob": "Nieuwe vacature",
+    "editJob": "Vacature bewerken",
+    "newJobDescription": "Vul de details in voor je nieuwe vacature",
+    "editJobDescription": "Bewerk de details van je vacature",
+    "jobDetails": "Vacature details",
+    "labels": {
+      "title": "Vacaturetitel",
+      "description": "Beschrijving",
+      "location": "Locatie",
+      "employmentType": "Type dienstverband",
+      "status": "Status",
+      "annualSalary": "Jaarsalaris (€)",
+      "hourlyRate": "Uurtarief (€)",
+      "startDate": "Startdatum",
+      "endDate": "Einddatum"
+    },
+    "placeholders": {
+      "title": "Senior React Developer",
+      "description": "Beschrijf de rol, verantwoordelijkheden, eisen...",
+      "location": "Amsterdam, Remote, Hybride...",
+      "employmentType": "Selecteer type dienstverband",
+      "status": "Selecteer status",
+      "annualSalary": "50000",
+      "hourlyRate": "75"
+    },
+    "status": {
+      "open": "Open",
+      "paused": "Gepauzeerd",
+      "closed": "Gesloten"
+    },
+    "validation": {
+      "titleRequired": "Titel is vereist",
+      "descriptionMinLength": "Beschrijving moet minimaal 10 karakters zijn",
+      "locationRequired": "Locatie is vereist"
+    },
+    "errors": {
+      "jobNotFound": "Vacature niet gevonden"
+    },
+    "saving": "Opslaan...",
+    "saveChanges": "Wijzigingen opslaan",
+    "postJob": "Vacature plaatsen",
+    "cancel": "Annuleren",
+    "createSuccess": "Vacature aangemaakt",
+    "createSuccessDescription": "Je vacature is succesvol geplaatst.",
+    "updateSuccess": "Vacature bijgewerkt",
+    "updateSuccessDescription": "Je vacature is succesvol bijgewerkt."
+  },
+  "auth": {
+    "welcomeBack": "Welkom terug",
+    "loginToAccount": "Log in op je Vacature-ORBIT account",
+    "selectAccountType": "Wat voor type account wilt u aanmaken?",
+    "emailAddress": "E-mailadres",
+    "emailPlaceholder": "jan@voorbeeld.nl",
+    "password": "Wachtwoord",
+    "passwordPlaceholder": "Je wachtwoord",
+    "rememberMe": "Onthoud mij",
+    "forgotPassword": "Wachtwoord vergeten?",
+    "login": "Inloggen",
+    "noAccount": "Nog geen account?",
+    "registerHere": "Registreer nu",
+    "createAccount": "Account aanmaken",
+    "findTalentOrJobs": "Begin met het vinden van talent of kansen",
+    "userTypeQuestion": "Wat voor type account wil je aanmaken?",
+    "fullName": "Volledige naam",
+    "namePlaceholder": "Jan Jansen",
+    "companyName": "Bedrijfsnaam",
+    "companyPlaceholder": "Je bedrijfsnaam",
+    "confirmPassword": "Bevestig wachtwoord",
+    "confirmPasswordPlaceholder": "Bevestig je wachtwoord",
+    "register": "Registreren",
+    "hasAccount": "Heb je al een account?",
+    "loginHere": "Log hier in",
+    "registrationSuccess": "Registratie succesvol",
+    "checkEmailToConfirm": "Controleer je e-mail om je account te bevestigen",
+    "registrationFailed": "Registratie mislukt",
+    "loginSuccess": "Succesvol ingelogd",
+    "loginFailed": "Inloggen mislukt",
+    "signedOut": "Uitgelogd",
+    "signOutSuccess": "Succesvol uitgelogd",
+    "forgotPasswordSent": "Reset e-mail verzonden",
+    "forgotPasswordDescription": "Als dit e-mailadres bestaat, is er een wachtwoord reset link verzonden",
+    "forgotPasswordFailed": "Mislukt om reset e-mail te verzenden",
+    "passwordChanged": "Wachtwoord gewijzigd",
+    "passwordChangeSuccess": "Je wachtwoord is succesvol gewijzigd",
+    "passwordChangeFailed": "Mislukt om wachtwoord te wijzigen",
+    "resetPassword": {
+      "enterNew": "Voer je nieuwe wachtwoord in.",
+      "invalidLink": "De resetlink is ongeldig of verlopen. Vraag een nieuwe link aan via de inlogpagina.",
+      "verifyError": "Er ging iets mis bij het verifiëren van de link. Probeer opnieuw.",
+      "minLength": "Wachtwoord moet minimaal 8 tekens bevatten.",
+      "mismatch": "Wachtwoorden komen niet overeen.",
+      "updating": "Wachtwoord wordt gewijzigd...",
+      "updateError": "Kon wachtwoord niet wijzigen. Probeer opnieuw.",
+      "success": "Je wachtwoord is bijgewerkt. Je kunt nu inloggen.",
+      "genericError": "Er ging iets mis. Probeer opnieuw.",
+      "titleReady": "Nieuw wachtwoord instellen",
+      "title": "Wachtwoord herstellen",
+      "newPassword": "Nieuw wachtwoord",
+      "confirmPassword": "Bevestig wachtwoord",
+      "min8": "Minimaal 8 tekens",
+      "repeatNew": "Herhaal nieuw wachtwoord",
+      "change": "Wachtwoord wijzigen",
+      "backToLogin": "Terug naar inloggen"
+    },
+    "errors": {
+      "loginFailed": "Er is een fout opgetreden tijdens het inloggen",
+      "invalidCredentials": "Onjuist e-mailadres of wachtwoord. Controleer uw gegevens en probeer het opnieuw.",
+      "emailNotConfirmed": "Uw e-mailadres is nog niet bevestigd. Controleer uw inbox voor de bevestigingsmail.",
+      "tryAgainLater": "Er is een fout opgetreden tijdens het inloggen. Probeer het later opnieuw."
+    },
+    "confirmEmail": {
+      "invalidLink": "Ongeldige bevestigingslink. Token of e-mailadres ontbreekt.",
+      "invalidOrExpired": "Ongeldige of verlopen bevestigingslink.",
+      "alreadyConfirmed": "Je e-mailadres is al bevestigd. Je kunt nu inloggen.",
+      "linkExpired": "Deze bevestigingslink is verlopen. Vraag een nieuwe aan.",
+      "genericError": "Er ging iets mis bij het bevestigen van je e-mailadres.",
+      "success": "Je e-mailadres is succesvol bevestigd! Je kunt nu inloggen.",
+      "resent": "Er is een nieuwe bevestigingsmail naar je e-mailadres verzonden.",
+      "resendError": "Het verzenden van de bevestigingsmail is mislukt.",
+      "titleLoading": "E-mailadres bevestigen...",
+      "titleSuccess": "E-mailadres bevestigd!",
+      "titleError": "Bevestiging mislukt",
+      "titleExpired": "Link verlopen",
+      "redirectingToLogin": "Je wordt automatisch doorgestuurd naar de inlogpagina...",
+      "expiredHint": "Je bevestigingslink is verlopen. Vraag een nieuwe aan om je account te activeren.",
+      "resendButton": "Nieuwe bevestigingsmail versturen",
+      "goToLogin": "Naar inlogpagina",
+      "loginNow": "Nu inloggen"
+    },
+    "loginRequiredTitle": "Niet ingelogd",
+    "loginRequiredMessage": "Je moet ingelogd zijn om vacatures te plaatsen."
+  },
+  "envCheck": {
+    "title": "Controle omgevingsvariabelen",
+    "stripeConfigured": "Stripe geconfigureerd",
+    "stripeNotConfigured": "Stripe niet geconfigureerd",
+    "criticalStripe": "Kritieke Stripe-configuratie",
+    "notSet": "NIET INGESTELD",
+    "allEnvVars": "Alle omgevingsvariabelen",
+    "allViteVars": "Alle VITE_-variabelen gevonden",
+    "noViteVars": "Geen VITE_-variabelen gevonden!",
+    "setupTitle": "Vercel installatie-instructies:",
+    "step1": "Ga naar Vercel Dashboard → Settings → Environment Variables",
+    "step2": "Toevoegen:",
+    "step3": "Klik op \"Save\"",
+    "step4": "Klik op \"Redeploy\" om wijzigingen toe te passen",
+    "step5": "Wacht 2-3 minuten op de deployment"
+  },
+  "myJobs": {
+    "title": "Mijn vacatures",
+    "subtitle": "Beheer je geplaatste vacatures",
+    "newJob": "Nieuwe vacature",
+    "noJobs": "Nog geen vacatures geplaatst",
+    "createFirst": "Plaats je eerste vacature",
+    "noPostJobs": "Als ZZP'er kun je geen vacatures plaatsen",
+    "searchJobsMessage": "Je kunt interessante opdrachten en projecten zoeken via ons vacatureoverzicht.",
+    "browseJobs": "Bekijk beschikbare vacatures",
+    "actions": "Acties",
+    "view": "Bekijken",
+    "edit": "Bewerken",
+    "delete": "Verwijderen",
+    "confirmDelete": "Weet je zeker dat je deze vacature wilt verwijderen?",
+    "deleteSuccess": "Vacature succesvol verwijderd",
+    "deleteError": "Fout bij verwijderen vacature"
+  },
+  "jobDetail": {
+    "notFound": "Vacature niet gevonden",
+    "backToJobs": "Terug naar vacatures"
+  },
+  "cv": {
+    "currentCv": "Huidige CV geüpload",
+    "download": "CV downloaden",
+    "delete": "CV verwijderen",
+    "upload": "CV uploaden",
+    "noCv": "Geen CV geüpload",
+    "deleteConfirm": "Weet je zeker dat je je CV wilt verwijderen?",
+    "uploadSuccess": "CV succesvol geüpload",
+    "uploadError": "Fout bij uploaden CV",
+    "preview": "CV voorvertoning"
+  },
+  "profile": {
+    "title": "Profiel beheren",
+    "subtitle": "Beheer je persoonlijke informatie en account instellingen",
+    "personalInfo": "Persoonlijke informatie",
+    "edit": "Bewerken",
+    "cancel": "Annuleren",
+    "saveChanges": "Wijzigingen opslaan",
+    "save": "Opslaan",
+    "changePassword": "Wachtwoord wijzigen",
+    "currentPassword": "Huidig wachtwoord",
+    "newPassword": "Nieuw wachtwoord",
+    "confirmNewPassword": "Bevestig nieuw wachtwoord",
+    "fullName": "Voor- en achternaam",
+    "companyName": "Bedrijfsnaam",
+    "companyNameRequired": "Bedrijfsnaam *",
+    "email": "E-mailadres",
+    "notificationEmail": "Notificatie e-mail",
+    "notificationEmailOptional": "Notificatie e-mailadres (optioneel)",
+    "notificationEmailPlaceholder": "Laat leeg om standaard e-mailadres te gebruiken",
+    "defaultEmailUsed": "Standaard e-mailadres wordt gebruikt",
+    "notSpecified": "Niet opgegeven",
+    "accountType": "Account type",
+    "memberSince": "Lid sinds",
+    "verificationStatus": "Verificatie status",
+    "verified": "Geverifieerd",
+    "pending": "In behandeling",
+    "currentPasswordPlaceholder": "Huidig wachtwoord",
+    "newPasswordPlaceholder": "Minimaal 8 karakters",
+    "confirmPasswordPlaceholder": "Herhaal nieuw wachtwoord",
+    "cvManagement": "CV Beheer",
+    "accountSettings": "Account instellingen",
+    "emailNotifications": "E-mail notificaties",
+    "emailNotificationsDescription": "Ontvang updates over nieuwe vacatures",
+    "profileVisibility": "Profiel zichtbaar",
+    "profileVisibilityDescription": "Anderen kunnen uw profiel bekijken",
+    "dangerZone": "Gevaarlijke zone",
+    "deleteAccountWarning": "Het verwijderen van uw account is permanent en kan niet ongedaan worden gemaakt.",
+    "deleteAccount": "Account verwijderen",
+    "errorUploadCV": "Fout bij uploaden CV",
+    "errorDeleteCV": "Fout bij verwijderen CV",
+    "updateProfile": "Profiel bijwerken",
+    "updateSuccess": "Bijwerking succesvol",
+    "profileUpdated": "Je profiel is bijgewerkt",
+    "updateFailed": "Bijwerking mislukt",
+    "candidateProfile": {
+      "fields": {
+        "jobTitle": "Gewenste Functie",
+        "specialization": "Specialisatie",
+        "cvUrl": "CV (verplicht)",
+        "skills": "Vaardigheden",
+        "experienceYears": "Werkervaring (jaren)",
+        "workPreferences": "Voorkeur Type Werk",
+        "location": "Woonplaats",
+        "workRadius": "Werkstraal (km)",
+        "monthlySalaryMin": "Min. Maandsalaris Bruto",
+        "monthlySalaryMax": "Max. Maandsalaris Bruto",
+        "annualSalaryMin": "Min. Jaarsalaris",
+        "annualSalaryMax": "Max. Jaarsalaris"
+      },
+      "placeholders": {
+        "jobTitle": "Bijv. Frontend Developer",
+        "specialization": "Bijv. React/TypeScript",
+        "location": "Bijv. Amsterdam",
+        "workRadius": "Bijv. 50"
+      },
+      "workPreferences": {
+        "vast": "Vaste baan",
+        "interim": "Interim opdrachten",
+        "uitzenden": "Uitzenden/Detacheren",
+        "helpText": "Selecteer voor welk type werk je beschikbaar bent (je kunt meerdere selecteren)"
+      },
+      "cv": {
+        "required": "CV is verplicht",
+        "uploadHelp": "Upload je CV (verplicht) via CV Management sectie hiernaast",
+        "view": "CV bekijken",
+        "notUploaded": "Nog geen CV geüpload"
+      }
+    }
+  },
+  "manageApplications": {
+    "title": "Sollicitaties beheren",
+    "subtitle": "Bekijk en beheer alle sollicitaties op je vacatures",
+    "noAccessMessage": "Deze pagina is alleen toegankelijk voor bedrijven en recruitment bureaus.",
+    "searchPlaceholder": "Zoek op naam, e-mail of vacature...",
+    "filterByJob": "Filter op vacature",
+    "filterByStatus": "Filter op status",
+    "allJobs": "Alle vacatures",
+    "allStatuses": "Alle statussen",
+    "noApplications": "Nog geen reacties",
+    "noApplicationsMessage": "Er zijn nog geen reacties ontvangen op uw vacatures.",
+    "noResults": "Geen resultaten gevonden",
+    "adjustSearch": "Probeer uw zoekopdracht aan te passen.",
+    "application": "reactie",
+    "applications": "reacties",
+    "job": "Vacature",
+    "availability": "Beschikbaarheid",
+    "desiredRate": "Gewenst uurtarief",
+    "motivation": "Motivatie",
+    "internalNotes": "Interne notities",
+    "receivedOn": "Ontvangen op",
+    "changeStatus": "Status wijzigen",
+    "startConversation": "Start gesprek",
+    "emailSubject": "Betreft",
+    "defaultMessage": "Hallo {{name}}, bedankt voor je reactie op onze vacature. Ik zou graag contact met je opnemen om meer te bespreken.",
+    "candidate": "Kandidaat",
+    "newStatus": "Nieuwe status",
+    "selectNewStatus": "Selecteer nieuwe status",
+    "internalNotesOptional": "Interne notities (optioneel)",
+    "addNotesPlaceholder": "Voeg interne notities toe...",
+    "updateStatus": "Status bijwerken",
+    "statusUpdateSuccess": "De status van de reactie is succesvol gewijzigd.",
+    "conversationStarted": "Gesprek gestart",
+    "conversationStartedDesc": "Het gesprek is succesvol gestart. U wordt doorgestuurd naar het gesprek."
+  },
+  "jobAlerts": {
+    "title": "Vacature Alerts",
+    "description": "Ontvang e-mail notificaties voor nieuwe vacatures die bij uw voorkeuren passen",
+    "settingsTitle": "Instellingen",
+    "settingsDescription": "Beheer uw vacature alert voorkeuren",
+    "emailEnabled": "E-mail alerts inschakelen",
+    "emailEnabledDescription": "Hoofdschakelaar voor alle vacature e-mail notificaties",
+    "frequency": "E-mail frequentie",
+    "selectFrequency": "Selecteer frequentie",
+    "frequencyInstant": "Direct (bij elke nieuwe vacature)",
+    "frequencyDaily": "Dagelijks (samenvatting om 9:00)",
+    "frequencyWeekly": "Wekelijks (maandag om 9:00)",
+    "jobTypes": "Soort dienstverband",
+    "vastJobs": "Vaste banen",
+    "vastJobsDescription": "Vacatures voor vaste contracten",
+    "interimJobs": "Interim opdrachten",
+    "interimJobsDescription": "Tijdelijke opdrachten voor freelancers",
+    "uitzendenJobs": "Uitzendwerk",
+    "uitzendenJobsDescription": "Vacatures via uitzendbureaus",
+    "locationSettings": "Locatie voorkeuren",
+    "searchRadius": "Zoekradius",
+    "radiusLocal": "Lokaal",
+    "radiusRegional": "Regionaal",
+    "radiusNational": "Nationaal",
+    "preferredLocations": "Voorkeurslocaties",
+    "addLocationPlaceholder": "Voeg stad toe (bijv. Amsterdam)",
+    "addLocation": "Toevoegen",
+    "success": "Voorkeuren opgeslagen",
+    "successDescription": "Uw vacature alert voorkeuren zijn succesvol opgeslagen",
+    "errorDescription": "Er is een fout opgetreden bij het bijwerken van uw voorkeuren",
+    "errorLoading": "Kon voorkeuren niet laden",
+    "allChangesSaved": "Alle wijzigingen zijn opgeslagen",
+    "infoTitle": "Hoe werken vacature alerts?",
+    "infoDescription": "Vacature alerts helpen u automatisch op de hoogte blijven van relevante kansen die bij uw voorkeuren passen.",
+    "infoPoint1": "Ontvang alleen vacatures die overeenkomen met uw criteria",
+    "infoPoint2": "Kies uw eigen e-mail frequentie (direct, dagelijks of wekelijks)",
+    "infoPoint3": "Pas uw voorkeuren op elk moment aan"
+  },
+  "analytics": {
+    "title": "Analytics",
+    "subtitle": "Bekijk statistieken en prestaties van je vacatures"
+  },
+  "applications": {
+    "statusNew": "Nieuw",
+    "statusViewed": "Bekeken",
+    "statusShortlist": "Shortlist",
+    "statusRejected": "Afgewezen",
+    "statusInterview": "Gesprek",
+    "statusPlaced": "Geplaatst",
+    "myApplications": "Mijn sollicitaties",
+    "manageApplications": "Sollicitaties beheren",
+    "averageRating": "Gemiddelde Beoordeling",
+    "totalRatings": "Totaal Beoordelingen",
+    "givenRatings": "Gegeven Beoordelingen",
+    "ratingTrend": "Beoordeling Trend",
+    "received": "Ontvangen",
+    "given": "Gegeven",
+    "overview": "Overzicht",
+    "receivedRatings": "Ontvangen Beoordelingen",
+    "noRatingsReceived": "Nog geen beoordelingen ontvangen",
+    "noRatingsReceivedMessage": "Je ontvangt beoordelingen wanneer je samenwerking met klanten wordt voltooid.",
+    "noRatingsGiven": "Nog geen beoordelingen gegeven",
+    "noRatingsGivenMessage": "Geef beoordelingen aan gebruikers waarmee je hebt samengewerkt.",
+    "ratingDistribution": "Beoordeling Verdeling",
+    "ratingInsights": "Beoordeling Inzichten"
+  },
+  "verification": {
+    "title": "Bedrijfsverificatie",
+    "companyVerification": "Bedrijfsverificatie",
+    "status": "Status",
+    "rejected": "Afgewezen",
+    "verified": "Geverifieerd",
+    "pending": "In behandeling",
+    "notSubmitted": "Niet ingediend",
+    "requestVerification": "Verificatie aanvragen",
+    "verificationDescription": "Voer uw KVK-nummer en bedrijfsnaam in en upload ondersteunende documenten om uw bedrijf te verifiëren.",
+    "kvkNumber": "KVK-nummer",
+    "kvkNumberPlaceholder": "Bijv. 12345678",
+    "kvkNumberHint": "We gebruiken dit voor een basiscontrole. Alleen cijfers, 8 tekens.",
+    "companyNameKvk": "Bedrijfsnaam (volgens KvK)",
+    "companyNamePlaceholder": "Uw bedrijfsnaam",
+    "companyNameHint": "Gebruik de officiële handelsnaam zoals geregistreerd.",
+    "supportingDocuments": "Ondersteunende documenten",
+    "uploadDocuments": "Documenten uploaden",
+    "uploadDocumentsHint": "U kunt KVK-uittreksels, bedrijfslicenties of andere relevante documenten uploaden",
+    "submitVerification": "Verificatie indienen",
+    "submitting": "Verzenden...",
+    "verificationSubmitted": "Verificatie ingediend",
+    "verificationSubmittedDescription": "Uw verificatieaanvraag is succesvol ingediend. We nemen binnen 2-3 werkdagen contact op.",
+    "error": "Fout",
+    "verificationError": "Er is een fout opgetreden bij het indienen van de verificatie.",
+    "documentAdded": "Document toegevoegd",
+    "documentAddedDescription": "Het document is succesvol toegevoegd aan uw verificatie.",
+    "documentError": "Er is een fout opgetreden bij het toevoegen van het document.",
+    "missingInfo": "Ontbrekende informatie",
+    "fillRequiredFields": "Vul alle verplichte velden in.",
+    "verificationInProgress": "Verificatie in behandeling",
+    "verificationInProgressDescription": "Uw verificatieaanvraag wordt beoordeeld. Dit duurt meestal 2-3 werkdagen. We nemen contact met u op zodra de verificatie is afgerond.",
+    "addExtraDocuments": "Extra documenten toevoegen",
+    "uploadExtraDocuments": "Extra documenten uploaden",
+    "verificationApproved": "Verificatie goedgekeurd",
+    "congratulations": "Gefeliciteerd! Uw bedrijf is succesvol geverifieerd. U profiteert nu van alle voordelen van een geverifieerd account:",
+    "verificationBadge": "Verificatiebadge bij uw vacatures",
+    "higherVisibility": "Hogere zichtbaarheid in zoekresultaten",
+    "moreTrust": "Meer vertrouwen bij kandidaten",
+    "noteFromTeam": "Opmerking van verificatieteam:",
+    "submittedOn": "Ingediend op",
+    "approved": "Goedgekeurd",
+    "inReview": "In beoordeling"
+  },
+  "templates": {
+    "quickReplyTemplates": "Snelle Antwoord Templates",
+    "title": "Quick Reply Templates",
+    "subtitle": "Beheer je standaard antwoorden voor berichten aan kandidaten",
+    "backToDashboard": "Terug naar dashboard",
+    "newTemplate": "Nieuwe Template",
+    "editTemplate": "Template Bewerken",
+    "createTemplate": "Nieuwe Template",
+    "titleLabel": "Titel",
+    "contentLabel": "Inhoud",
+    "titlePlaceholder": "Bijv. Bedankt voor je reactie",
+    "contentPlaceholder": "Type hier je standaard bericht...",
+    "cancel": "Annuleren",
+    "save": "Opslaan",
+    "create": "Aanmaken",
+    "update": "Bijwerken",
+    "edit": "Bewerken",
+    "delete": "Verwijderen",
+    "confirmDelete": "Template verwijderen?",
+    "confirmDeleteMessage": "Weet je zeker dat je de template \"{title}\" wilt verwijderen? Deze actie kan niet ongedaan gemaakt worden.",
+    "confirmDeleteButton": "Verwijderen",
+    "cancelDelete": "Annuleren",
+    "noTemplatesFound": "Geen templates gevonden",
+    "noTemplatesMessage": "Maak je eerste quick reply template aan om tijd te besparen bij het beantwoorden van berichten.",
+    "createFirstTemplate": "Eerste Template Maken",
+    "defaultTemplate": "Standaard",
+    "templateCreated": "Template aangemaakt",
+    "templateCreatedMessage": "Je quick reply template is succesvol aangemaakt.",
+    "templateUpdated": "Template bijgewerkt",
+    "templateUpdatedMessage": "Je quick reply template is succesvol bijgewerkt.",
+    "templateDeleted": "Template verwijderd",
+    "templateDeletedMessage": "De template is succesvol verwijderd.",
+    "error": "Fout",
+    "errorCreating": "Er ging iets mis bij het aanmaken van de template.",
+    "errorUpdating": "Er ging iets mis bij het bijwerken van de template.",
+    "errorDeleting": "Er ging iets mis bij het verwijderen van de template.",
+    "validationError": "Validatiefout",
+    "editTemplateDescription": "Pas je quick reply template aan",
+    "createTemplateDescription": "Maak een nieuwe quick reply template aan voor veelgebruikte berichten"
+  },
+  "payment": {
+    "checkout": "Betaling",
+    "securePayment": "Veilige betaling via Stripe",
+    "orderSummary": "Bestelling overzicht",
+    "pay": "Betalen",
+    "processing": "Verwerken...",
+    "failed": "Betaling mislukt",
+    "successful": "Betaling succesvol",
+    "thankYou": "Bedankt voor je betaling!",
+    "successMessage": "Je betaling is succesvol verwerkt. Je hebt nu toegang tot premium functies.",
+    "loading": "Betaling voorbereiden...",
+    "testMode": "🧪 Test modus - Je wordt niet aangerekend"
+  },
+  "account": {
+    "title": "Account & Abonnement",
+    "subtitle": "Beheer je account instellingen en abonnement details",
+    "accountInfo": "Account informatie",
+    "currentPlan": "Huidig abonnement",
+    "yourFeatures": "Jouw functies",
+    "quickActions": "Snelle acties",
+    "nextBilling": "Volgende facturering",
+    "upgradeSubscription": "Abonnement upgraden",
+    "paymentHistory": "Betaalhistorie",
+    "notificationSettings": "Notificatie instellingen",
+    "reportsAnalytics": "Analytics & Rapporten",
+    "analyticsReports": "Analytics & Rapporten",
+    "companyVerification": "Bedrijfsverificatie",
+    "verified": "Geverifieerd",
+    "pending": "In behandeling",
+    "edit": "Bewerken",
+    "email": "Email",
+    "memberSince": "Lid sinds",
+    "verificationStatus": "Verificatie Status",
+    "averageRating": "Gemiddelde Rating",
+    "active": "Actief",
+    "inactive": "Inactief",
+    "features": {
+      "unlimitedJobs": "Onbeperkt vacatures plaatsen",
+      "premiumMatching": "Premium kandidaat matching",
+      "companyVerification": "Bedrijfsverificatie",
+      "analyticsDashboard": "Analytics dashboard",
+      "prioritySupport": "Priority support",
+      "apiAccess": "API toegang",
+      "allJobsAccess": "Toegang tot alle vacatures",
+      "cvManagement": "CV management",
+      "directMessages": "Directe berichten",
+      "profileBoost": "Profiel boost",
+      "emailNotifications": "Email notificaties",
+      "unlimitedClientJobs": "Onbeperkt plaatsen namens klanten",
+      "teamManagement": "Team management",
+      "advancedAnalytics": "Geavanceerde analytics",
+      "whiteLabelOption": "White-label optie",
+      "dedicatedAccountManager": "Dedicated account manager",
+      "slaGuarantee": "SLA garantie",
+      "basicAccess": "Basis toegang"
+    }
+  },
+  "languages": {
+    "en": "English",
+    "nl": "Nederlands",
+    "de": "Deutsch",
+    "fr": "Français",
+    "switchLanguage": "Taal wijzigen",
+    "currentLanguage": "Huidige taal"
+  },
+  "bureauPortal": {
+    "shortlists": {
+      "subtitle": "Beheer kandidaten‑shortlists voor vacatures",
+      "actions": {
+        "new": "Nieuwe shortlist",
+        "create": "Shortlist aanmaken"
+      },
+      "create": {
+        "title": "Nieuwe shortlist aanmaken",
+        "description": "Maak een shortlist om kandidaten te organiseren voor een vacature",
+        "namePlaceholder": "Naam van shortlist (bijv. 'Senior React Developers - Acme Corp')"
+      },
+      "errors": {
+        "loadTitle": "Fout bij laden van shortlists",
+        "loadDesc": "Shortlists laden is mislukt. Probeer het opnieuw."
+      },
+      "toast": {
+        "created": {
+          "title": "Shortlist aangemaakt",
+          "desc": "Je shortlist is succesvol aangemaakt."
+        },
+        "createFailed": {
+          "title": "Shortlist aanmaken mislukt",
+          "desc": "Er ging iets mis. Probeer het opnieuw."
+        },
+        "removed": {
+          "title": "Kandidaat verwijderd",
+          "desc": "Kandidaat is verwijderd uit de shortlist."
+        },
+        "removeFailed": {
+          "title": "Kandidaat verwijderen mislukt",
+          "desc": "Er ging iets mis. Probeer het opnieuw."
+        },
+        "submitFailed": {
+          "title": "Shortlist indienen mislukt",
+          "desc": "Er ging iets mis. Probeer het opnieuw."
+        }
+      }
+    }
+  },
+  "vmsAnalytics": {
+    "exportingTitle": "Analytics exporteren",
+    "exportingDesc": "Bezig met voorbereiden van je analytics export...",
+    "exportSuccessTitle": "Export geslaagd",
+    "exportSuccessDesc": "Je analytics-data is gedownload.",
+    "exportFailedTitle": "Export mislukt",
+    "exportFailedDesc": "Exporteren van analytics-data mislukt. Probeer het opnieuw.",
+    "refreshingTitle": "Data verversen",
+    "refreshingDesc": "Alle analytics-data wordt ververst...",
+    "headerTitle": "Analytics Dashboard",
+    "headerSubtitle": "Uitgebreide inzichten in prestaties van bureaus, uitgaven en ROI",
+    "filters": {
+      "title": "Filters",
+      "description": "Pas je analytics weergave aan",
+      "startDate": "Startdatum",
+      "endDate": "Einddatum",
+      "performanceTier": "Prestatieniveau",
+      "allTiers": "Alle niveaus",
+      "tier": {
+        "platinum": "Platinum",
+        "gold": "Goud",
+        "silver": "Zilver",
+        "bronze": "Brons",
+        "new": "Nieuw"
+      }
+    },
+    "tabs": {
+      "overview": "Overzicht",
+      "bureaus": "Bureauvergelijking",
+      "spend": "Uitgavenanalyse",
+      "roi": "ROI Ranglijst",
+      "benchmarking": "Markt tarieven",
+      "forecasting": "Forecasting"
+    },
+    "overview": {
+      "totalSpend": "Totale uitgaven",
+      "activeBureaus": "Actieve bureaus",
+      "totalPlacements": "Totaal plaatsingen",
+      "avgFillRate": "Gem. vervullingsgraad",
+      "top5Title": "Top 5 best presterende bureaus",
+      "top5Desc": "Op basis van prestatiescore"
+    },
+    "bureaus": {
+      "title": "Bureau prestatievergelijking",
+      "description": "Vergelijk prestaties van bureaus naast elkaar",
+      "noDataTitle": "Geen bureau-data beschikbaar",
+      "noDataDesc": "Zodra bureaus actief zijn, verschijnt hier de vergelijking",
+      "fillRateTitle": "Vergelijking vervullingsgraad",
+      "yAxisFillRate": "Vervullingsgraad (%)",
+      "barFillRate": "Vervullingsgraad %",
+      "responseTimeTitle": "Gemiddelde responstijd (uren)",
+      "yAxisHours": "Uren",
+      "barResponseTime": "Responstijd",
+      "detailedTitle": "Gedetailleerde metrics",
+      "headers": {
+        "bureau": "Bureau",
+        "tier": "Tier",
+        "jobs": "Vacatures",
+        "placements": "Plaatsingen",
+        "fillRate": "Vervullingsgraad",
+        "totalSpend": "Totale uitgaven",
+        "score": "Score"
+      }
+    },
+    "spend": {
+      "noDataTitle": "Geen uitgaven-data beschikbaar",
+      "noDataDesc": "Zodra er uitgaven zijn, verschijnt de analyse hier",
+      "spendingOverTime": "Uitgaven in de tijd",
+      "totalSpend": "Totale uitgaven",
+      "activeBureaus": "Actieve bureaus",
+      "avgCostPerPlacement": "Gem. kosten/plaatsing"
+    },
+    "errors": {
+      "loadErrorTitle": "Fout bij laden van analytics-data",
+      "generic": "Kon analytics-data niet laden. Probeer opnieuw.",
+      "retry": "Opnieuw"
+    },
+    "actions": {
+      "refresh": "Verversen",
+      "export": "Rapport exporteren"
+    },
+    "forecasting": {
+      "title": "Vraagprognoses",
+      "description": "Historische data met voorspellende vraagprognoses",
+      "noDataTitle": "Geen prognose-data beschikbaar",
+      "noDataDesc": "Zodra er voldoende historische data is, verschijnen hier de prognoses",
+      "legends": {
+        "historical": "Historische vraag",
+        "predicted": "Voorspelde vraag",
+        "confidenceRange": "Betrouwbaarheidsinterval"
+      },
+      "details": {
+        "title": "Prognose details",
+        "historicalAvg": "Gem. historisch",
+        "forecastedAvg": "Gem. voorspeld"
+      }
+    },
+    "benchmarking": {
+      "title": "Markt tariefbenchmark",
+      "description": "Vergelijk jullie tarieven met marktbenchmarks",
+      "noDataTitle": "Geen benchmark-data beschikbaar",
+      "noDataDesc": "Zodra geconfigureerd verschijnt hier de benchmark",
+      "headers": {
+        "category": "Categorie",
+        "location": "Locatie",
+        "marketMedian": "Marktmedian",
+        "p25p75Range": "P25-P75 bereik",
+        "yourRate": "Jullie tarief",
+        "status": "Status",
+        "sampleSize": "Steekproefgrootte"
+      },
+      "status": {
+        "below": "Onder markt",
+        "within": "Competitief",
+        "above": "Boven markt"
+      },
+      "rateComparisonTitle": "Tariefvergelijking visualisatie"
+    }
+  },
+  "bureauDashboard": {
+    "loginPrompt": "Log in om je dashboard te bekijken",
+    "welcome": "Welkom terug, {name}. Hier is je prestatieoverzicht.",
+    "title": "Bureau Dashboard",
+    "quickStats": {
+      "jobsReceived": "Ontvangen vacatures",
+      "candidatesSubmitted": "Ingediende kandidaten",
+      "placementsMade": "Plaatsingen",
+      "thisMonthEarnings": "Inkomsten deze maand",
+      "vsLastMonth": "{percent}% t.o.v. vorige maand"
+    },
+    "loading": "Dashboard laden...",
+    "viewRankings": "Bekijk ranglijsten",
+    "insights": {
+      "title": "Prestatie-inzichten",
+      "description": "Aanbevelingen om de prestaties van jullie bureau te verbeteren",
+      "improveFillRate": "Verbeter je vervullingsgraad",
+      "improveFillRateDesc": "Je vervullingsgraad is {percent}%. Dien meer gekwalificeerde kandidaten in om meer plaatsingen te realiseren.",
+      "enhanceQuality": "Verhoog kandidatenkwaliteit",
+      "enhanceQualityDesc": "{percent}% van je kandidaten wordt geaccepteerd. Check de vacature-eisen zorgvuldig voor je inzendingen.",
+      "speedUp": "Versnel responstijd",
+      "speedUpDesc": "Je gemiddelde responstijd is {hours} uur. Snellere reacties leiden tot betere rankings.",
+      "excellentTitle": "Uitstekende prestaties!",
+      "excellentDesc": "Je presteert goed op alle kernmetrics. Ga zo door!"
+    }
+  },
+  "analyticsPage": {
+    "tabs": {
+      "analytics": "Analytics",
+      "ratings": "Beoordelingen",
+      "payments": "Betalingen",
+      "subscription": "Abonnement"
+    },
+    "labels": {
+      "views": "Weergaven",
+      "applications": "Aanmeldingen",
+      "messages": "Berichten",
+      "averageRating": "Gemiddelde Rating",
+      "activityOverview": "Activiteit Overzicht",
+      "recentActivities": "Recente Activiteiten",
+      "basedOnRatings": "Gebaseerd op {count} beoordelingen"
+    },
+    "loadingCharts": "Grafieken laden...",
+    "notAvailable": "Analytics niet beschikbaar",
+    "loginRequired": "Je moet ingelogd zijn om analytics te bekijken.",
+    "loadError": "Er is een fout opgetreden bij het laden van je analytics-data.",
+    "days": "dagen"
+  },
+  "notFound": {
+    "title": "404 Pagina niet gevonden",
+    "hint": "Ben je vergeten de pagina aan de router toe te voegen?"
+  },
+  "emailDemo": {
+    "title": "Email Systeem Demo",
+    "subtitle": "Test en configureer e-mail notificaties",
+    "setup": {
+      "title": "Setup:",
+      "description": "Om e-mails te versturen heb je een SendGrid API key nodig.",
+      "cta": "Maak een gratis account aan en genereer een API key."
+    },
+    "configure": {
+      "title": "SendGrid Configuratie",
+      "description": "Configureer je SendGrid API key voor e-mailverzending"
+    },
+    "test": {
+      "title": "Test E-mail",
+      "description": "Verstuur een test e-mail om de configuratie te controleren"
+    },
+    "labels": {
+      "sendgridApiKey": "SendGrid API Key",
+      "testEmail": "Test e‑mailadres",
+      "message": "Bericht"
+    },
+    "buttons": {
+      "configured": "Geconfigureerd",
+      "configureKey": "Configureer API Key",
+      "sendTest": "Verstuur Test E‑mail"
+    },
+    "errors": {
+      "invalidKey": "Voer een geldige SendGrid API key in.",
+      "configureFailed": "Kon API key niet configureren.",
+      "invalidEmail": "Voer een geldig e‑mailadres in.",
+      "sendFailed": "Kon test e‑mail niet verzenden. Controleer je API key."
+    },
+    "messages": {
+      "keyConfigured": "SendGrid API key geconfigureerd.",
+      "testSent": "Test e‑mail verzonden!",
+      "testSentTo": "E‑mail succesvol verzonden naar {{email}}"
+    },
+    "howItWorks": {
+      "title": "Hoe e‑mailnotificaties werken",
+      "items": {
+        "newMessages": {
+          "title": "Nieuwe berichten",
+          "desc": "Automatische e‑mail bij nieuwe berichten"
+        },
+        "newApplications": {
+          "title": "Nieuwe reacties",
+          "desc": "E‑mailnotificatie bij nieuwe reacties op je vacatures"
+        },
+        "statusUpdates": {
+          "title": "Statusupdates",
+          "desc": "Notificaties bij wijzigingen in reactiestatus"
+        }
+      }
+    },
+    "privacy": {
+      "title": "Privacy:",
+      "description": "Gebruikers kunnen e‑mailnotificaties beheren via hun notificatievoorkeuren. Ga naar het gebruikersmenu → Notificaties om je voorkeuren aan te passen."
+    },
+    "defaults": {
+      "testMessage": "Dit is een testbericht van het VacatureMarkt platform."
+    }
+  },
+  "guestChat": {
+    "notAvailableTitle": "Chatsessie niet beschikbaar",
+    "notAvailableDesc": "Deze chatsessie is verlopen, geannuleerd of de link is ongeldig.",
+    "contactSender": "Neem contact op met de afzender voor een nieuwe uitnodigingslink.",
+    "loadingSession": "Chatsessie laden...",
+    "title": "Gastchat",
+    "expires": "Verloopt {{time}}",
+    "welcomeTitle": "Welkom bij de chat!",
+    "welcomeDesc": "Vul je naam in om het gesprek te starten.",
+    "yourName": "Je naam",
+    "namePlaceholder": "Vul je naam in",
+    "startChat": "Chat starten",
+    "remaining": "Je hebt nog {{count}} berichten over van de {{max}}",
+    "sessionExpires": "Sessie verloopt {{time}}",
+    "loadingMessages": "Berichten laden...",
+    "startTitle": "Start het gesprek",
+    "startDesc": "Stuur hieronder een bericht om met {{name}} te chatten.",
+    "theRecruiter": "de recruiter",
+    "recruiter": "Recruiter",
+    "messagePlaceholder": "Typ je bericht...",
+    "charCounter": "{{count}}/2000 tekens",
+    "shortcutLegend": "Enter = versturen, Shift+Enter = nieuwe regel",
+    "limitReached": "Je hebt de berichtrand voor deze gastsessie bereikt.",
+    "limitReachedHint": "Maak een volledig account aan bij het bedrijf om verder te chatten.",
+    "aboutJob": "Over deze vacature"
+  },
+  "tenant": {
+    "welcome": "Welkom bij TalentMarkt",
+    "createOrgPrompt": "Maak je organisatie aan om vacatures en teamleden te beheren",
+    "getStarted": "Aan de slag",
+    "getStartedDesc": "Organisaties helpen je vacatures, reacties en samenwerking op één plek te beheren.",
+    "steps": {
+      "createOrg": "Organisatie aanmaken",
+      "createOrgDesc": "Richt je bedrijfs- of teamomgeving in",
+      "inviteTeam": "Team uitnodigen",
+      "inviteTeamDesc": "Voeg collega’s toe en wijs rollen toe",
+      "postJobs": "Vacatures plaatsen",
+      "postJobsDesc": "Maak en beheer vacatureplaatsingen"
+    },
+    "createFirstOrg": "Maak je eerste organisatie",
+    "organizationDashboard": "Organisatie Dashboard",
+    "orgDashboardDesc": "Beheer je organisatie, team en vacatures"
+  },
+  "companyVms": {
+    "subtitle": "Beheer je bureau‑partners en verdeling van vacatures",
+    "distributeJob": "Vacature distribueren"
+  },
+  "myApplications": {
+    "title": "Mijn reacties",
+    "subtitle": "Bekijk de status van al je sollicitaties",
+    "filters": "Filters",
+    "searchPlaceholder": "Zoek op bedrijf of vacaturetitel...",
+    "filterByStatus": "Filter op status",
+    "status": {
+      "all": "Alle statussen",
+      "pending": "In behandeling",
+      "accepted": "Geaccepteerd",
+      "rejected": "Afgewezen"
+    },
+    "emptyTitle": "Geen reacties gevonden",
+    "emptyDesc": "Je hebt nog geen reacties. Begin met zoeken naar interessante kansen!",
+    "browseJobs": "Vacatures bekijken",
+    "submittedOn": "Ingediend op",
+    "viewJob": "Vacature bekijken"
+  },
+  "vms": {
+    "analytics": {
+      "title": "VMS Analytics Dashboard",
+      "subtitle": "Uitgebreide inzichten in de prestaties van je vendor management systeem",
+      "to": "t/m",
+      "refresh": "Vernieuwen",
+      "export": "Exporteren",
+      "tabs": {
+        "overview": "Overzicht",
+        "bureaus": "Bureauprestaties",
+        "spend": "Uitgavenanalyse",
+        "diversity": "Diversiteitsmetrics",
+        "forecast": "Forecasting"
+      }
+    },
+    "autoReject": {
+      "title": "Auto-afwijsregels",
+      "subtitle": "Wijs automatisch sollicitaties af die niet aan je criteria voldoen",
+      "createRule": "Regel aanmaken",
+      "info": "Auto-afwijsregels helpen je automatisch ongeschikte kandidaten te filteren. Stel criteria in zoals minimale skillmatch, ervaringseisen en salarisverwachting. Afgewezen kandidaten ontvangen een professionele afwijzingsmail."
+    },
+    "candidateSearch": {
+      "title": "Kandidaten Zoeken",
+      "filters": "Filters",
+      "skills": "Vaardigheden",
+      "skillsPlaceholder": "TypeScript, React, Node.js",
+      "skillsHint": "Gescheiden door komma's",
+      "location": "Locatie",
+      "locationPlaceholder": "Amsterdam, Utrecht...",
+      "experience": "Ervaringsniveau",
+      "allLevels": "Alle niveaus",
+      "junior": "Junior",
+      "medior": "Medior",
+      "senior": "Senior",
+      "lead": "Lead",
+      "availability": "Beschikbaarheid",
+      "anyAvailability": "Alle beschikbaarheid",
+      "immediate": "Direct beschikbaar",
+      "twoWeeks": "Binnen 2 weken",
+      "two_weeks": "Binnen 2 weken",
+      "oneMonth": "Binnen 1 maand",
+      "one_month": "Binnen 1 maand",
+      "negotiable": "In overleg",
+      "salaryRange": "Salaris Verwachting",
+      "minSalary": "Min",
+      "maxSalary": "Max",
+      "hourlyRateRange": "Uurtarief",
+      "minRate": "Min",
+      "maxRate": "Max",
+      "resetFilters": "Reset Filters",
+      "noResults": "Geen kandidaten gevonden",
+      "showingResults": "Toont {{from}}-{{to}} van {{total}} kandidaten",
+      "perPage": "Per pagina",
+      "previous": "Vorige",
+      "next": "Volgende",
+      "pageSizeLabel": "Selecteer aantal resultaten per pagina",
+      "paginationLabel": "Kandidatenlijst paginering",
+      "previousPage": "Ga naar vorige pagina",
+      "nextPage": "Ga naar volgende pagina",
+      "pageNumber": "Ga naar pagina {{number}}",
+      "upgradeTitle": "Upgrade naar Premium Candidate Access",
+      "upgradeDescription": "Zoek door ALLE kandidaten in het systeem, niet alleen die aan jouw vacatures zijn gekoppeld",
+      "feature1": "Toegang tot 10.000+ kandidaten",
+      "feature2": "Geavanceerde zoekfilters",
+      "feature3": "Prioriteit support",
+      "upgradeButton": "Upgrade Nu"
+    }
+  },
+  "workflows": {
+    "title": "Workflow-automatisering",
+    "subtitle": "Automatiseer repetitieve taken en stroomlijn je recruitmentproces",
+    "newWorkflow": "Nieuwe workflow",
+    "tabs": {
+      "templates": "Templates",
+      "builder": "Workflow Builder",
+      "rules": "Automatiseringsregels",
+      "executions": "Uitvoeringen"
+    }
+  },
+  "admin": {
+    "analytics": {
+      "subtitle": "Monitor platformprestaties en gebruikersbetrokkenheid",
+      "title": "Analytics Dashboard",
+      "selectRange": "Selecteer periode",
+      "lastDays": "Afgelopen {{count}} dagen",
+      "loading": "Analytics dashboard laden...",
+      "errorTitle": "Fout bij laden van analytics dashboard",
+      "refresh": "Vernieuwen",
+      "export": "Exporteren",
+      "autoRefresh": "Auto-verversen",
+      "liveData": "Live gegevens",
+      "lastUpdated": "Laatst bijgewerkt: {{time}}",
+      "activeUsers": "Actieve gebruikers",
+      "responseTime": "Responstijd",
+      "systemStatus": "Systeemstatus",
+      "operational": "Operationeel",
+      "tabs": {
+        "overview": "Overzicht",
+        "email": "E-mail",
+        "funnel": "Funnel",
+        "engagement": "Engagement",
+        "revenue": "Omzet",
+        "system": "Systeem"
+      },
+      "cards": {
+        "activeUsersTitle": "Actieve gebruikers",
+        "activeUsersDesc": "Gebruikers actief in laatste 7 dagen",
+        "monthlyRevenueTitle": "Maandelijkse omzet",
+        "monthlyRevenueDesc": "{{value}}% t.o.v. vorige maand",
+        "emailsSentTitle": "E-mails verzonden",
+        "emailsSentDesc": "In geselecteerde periode",
+        "conversionRateTitle": "Conversieratio",
+        "conversionRateDesc": "E-mail naar sollicitatie"
+      },
+      "overview": {
+        "emailPerformance": {
+          "title": "E-mail prestaties",
+          "desc": "Dagelijkse e-mailstatistieken en engagement"
+        },
+        "funnel": {
+          "title": "E-mail naar sollicitatie funnel",
+          "desc": "Gebruikersreis van e-mail naar sollicitatie"
+        }
+      },
+      "stages": {
+        "emailsSent": "E-mails verzonden",
+        "delivered": "Afgeleverd",
+        "opened": "Geopend",
+        "clicked": "Geklikt",
+        "applied": "Gesolliciteerd",
+        "emailsDelivered": "E-mails afgeleverd",
+        "emailsOpened": "E-mails geopend",
+        "linksClicked": "Links geklikt",
+        "jobsViewed": "Vacatures bekeken",
+        "applicationsStarted": "Sollicitaties gestart",
+        "applicationsCompleted": "Sollicitaties voltooid"
+      },
+      "stageDesc": {
+        "emailsSent": "Totaal verzonden e-mails",
+        "delivered": "Succesvol afgeleverd",
+        "opened": "Ontvangers die openden",
+        "clicked": "Gebruikers die klikten",
+        "applied": "Voltooide sollicitaties"
+      },
+      "kpi": {
+        "openRateTitle": "Openratio",
+        "openRateDesc": "Gemiddelde openratio"
+      },
+      "emailPerf": {
+        "detailedTitle": "Gedetailleerde e-mailprestaties",
+        "detailedDesc": "Uitgebreide e-mailanalyses met benchmarks"
+      },
+      "labels": {
+        "totalSent": "Totaal verzonden",
+        "delivered": "Afgeleverd",
+        "opened": "Geopend",
+        "clicked": "Geklikt",
+        "bounced": "Gebounced",
+        "unsubscribed": "Uitgeschreven"
+      },
+      "funnel": {
+        "detailedTitle": "Volledige conversiefunnel",
+        "detailedDesc": "Gedetailleerde analyse van de gebruikersreis van e-mail tot aannemen",
+        "optimization": {
+          "title": "Optimalisatiekansen",
+          "desc": "Gebieden met de hoogste uitval"
+        },
+        "insights": {
+          "emailToClick": "E-mail naar klik conversie",
+          "openToClickDrop": "Hoge uitval van open naar klik",
+          "applicationCompletion": "Sollicitatie voltooiing",
+          "startNotFinish": "Gebruikers starten maar maken niet af"
+        }
+      },
+      "subscriptionPlans": {
+        "title": "Abonnementen",
+        "desc": "Verdeling van abonnees per type"
+      },
+      "plans": {
+        "basic": "Basic",
+        "pro": "Pro",
+        "enterprise": "Enterprise"
+      },
+      "engagement": {
+        "heatmapTitle": "Gebruikersactiviteit heatmap",
+        "heatmapDesc": "Visualiseer gebruikersbetrokkenheid per tijdstip en dag",
+        "metricSessions": "Sessies",
+        "metrics": {
+          "peakHourTitle": "Piekuur",
+          "peakHourDesc": "Tijdstip met hoogste betrokkenheid",
+          "activeDayTitle": "Meest actieve dag",
+          "activeDayDesc": "Dag met hoogste betrokkenheid",
+          "avgSessionTitle": "Gemiddelde sessieduur",
+          "avgSessionDesc": "Tijd besteed per sessie"
+        }
+      },
+      "revenue": {
+        "overviewTitle": "Omzetoverzicht",
+        "overviewDesc": "Maandelijkse terugkerende omzet en groei",
+        "labels": {
+          "mrr": "Maandelijkse terugkerende omzet",
+          "totalSubscribers": "Totaal abonnees",
+          "arpu": "Gemiddelde omzet per gebruiker"
+        }
+      },
+      "systemComponents": {
+        "title": "Systeemcomponenten",
+        "desc": "Status van kritieke systeemcomponenten",
+        "components": {
+          "database": "Database",
+          "emailService": "E‑maildienst",
+          "storage": "Opslag",
+          "authentication": "Authenticatie",
+          "jobMatching": "Jobmatching",
+          "analytics": "Analytics"
+        },
+        "status": {
+          "healthy": "Gezond",
+          "operational": "Operationeel"
+        }
+      }
+    }
+  },
+  "notificationPreferences": {
+    "title": "Notificatie voorkeuren",
+    "subtitle": "Beheer je e‑mailnotificatie‑instellingen",
+    "empty": "Geen notificatie voorkeuren gevonden.",
+    "toast": {
+      "updateSuccess": {
+        "title": "Voorkeuren bijgewerkt",
+        "desc": "Je notificatievoorkeuren zijn opgeslagen."
+      },
+      "updateError": {
+        "title": "Fout",
+        "desc": "Bijwerken van notificatievoorkeuren is mislukt."
+      },
+      "jobAlertsSuccess": {
+        "title": "Vacature‑alerts bijgewerkt",
+        "desc": "Je vacature‑alertvoorkeuren zijn opgeslagen."
+      },
+      "jobAlertsError": {
+        "title": "Fout",
+        "desc": "Bijwerken van vacature‑alertvoorkeuren is mislukt."
+      }
+    },
+    "email": {
+      "title": "E‑mailnotificaties",
+      "description": "Kies welke e‑mailnotificaties je wilt ontvangen voor verschillende activiteiten",
+      "master": {
+        "label": "E‑mailnotificaties inschakelen",
+        "desc": "Hoofdschakelaar voor alle e‑mailnotificaties"
+      },
+      "newMessage": {
+        "label": "Nieuwe berichten",
+        "desc": "Ontvang een e‑mail wanneer je een nieuw bericht krijgt"
+      },
+      "newApplication": {
+        "label": "Nieuwe reacties",
+        "desc": "Ontvang een e‑mail wanneer iemand reageert op je vacature"
+      },
+      "jobStatus": {
+        "label": "Vacaturestatuswijzigingen",
+        "desc": "Ontvang een e‑mail bij statusupdates van je reacties"
+      },
+      "tip": "Tip: Je kunt deze instellingen altijd wijzigen. E‑mailnotificaties helpen je op de hoogte te blijven van belangrijke activiteiten zonder constant de website te bezoeken."
+    },
+    "jobAlerts": {
+      "title": "Vacature‑alerts",
+      "description": "Ontvang e‑mailnotificaties voor nieuwe vacatures die bij je voorkeuren passen",
+      "master": {
+        "label": "Vacature‑alerts inschakelen",
+        "desc": "Ontvang e‑mails voor nieuwe vacatures"
+      },
+      "frequency": {
+        "label": "E‑mailfrequentie",
+        "placeholder": "Selecteer frequentie",
+        "instant": "Direct (bij elke nieuwe vacature)",
+        "daily": "Dagelijks (samenvatting om 9:00)",
+        "weekly": "Wekelijks (maandag om 9:00)"
+      },
+      "jobTypes": {
+        "label": "Soort dienstverband",
+        "vast": {
+          "label": "Vaste banen",
+          "desc": "Vacatures voor vaste contracten"
+        },
+        "interim": {
+          "label": "Interimopdrachten",
+          "desc": "Tijdelijke opdrachten voor freelancers"
+        },
+        "uitzenden": {
+          "label": "Uitzendwerk",
+          "desc": "Vacatures via uitzendbureaus"
+        }
+      },
+      "locations": {
+        "label": "Locatievoorkeuren",
+        "radiusLabel": "Zoekradius: {{km}} km",
+        "scale": {
+          "local": "Lokaal (0km)",
+          "national": "Nationaal (200km)"
+        },
+        "preferredLabel": "Voorkeurslocaties",
+        "placeholder": "Voeg stad toe (bijv. Amsterdam)",
+        "add": "Toevoegen",
+        "info": "Info: Vacature‑alerts helpen je automatisch op de hoogte te blijven van relevante kansen. Je kunt de instellingen altijd aanpassen."
+      }
+    }
+  },
+  "emailReminders": {
+    "title": "Email Reminders Overzicht",
+    "subtitle": "Beheer alle automatische follow-up e-mails naar bedrijven",
+    "refresh": "Vernieuwen",
+    "tabs": {
+      "adminOverview": "Admin Overzicht",
+      "myPreferences": "Mijn Voorkeuren"
+    }
+  },
+  "bulkActions": {
+    "description": "Voer acties uit op meerdere aanmeldingen, kandidaten of vacatures tegelijk",
+    "items": "items",
+    "select": {
+      "title": "Selecteer items",
+      "count": "{{selected}} van {{total}} items geselecteerd",
+      "selectAll": "Alles selecteren",
+      "deselectAll": "Alles deselecteren",
+      "emptyTitle": "Geen items beschikbaar",
+      "emptyDesc": "Er zijn momenteel geen items waarop een bulkactie kan worden uitgevoerd"
+    },
+    "actionPanel": {
+      "title": "Bulksactie",
+      "description": "Kies een actie om uit te voeren"
+    },
+    "form": {
+      "actionType": "Actietype"
+    },
+    "actionTypes": {
+      "approve": "Goedkeuren",
+      "reject": "Afwijzen",
+      "archive": "Archiveren",
+      "notify": "Notificatie sturen"
+    },
+    "targetTypes": {
+      "applications": "aanmeldingen",
+      "candidates": "kandidaten",
+      "jobs": "vacatures"
+    },
+    "summary": {
+      "title": "Samenvatting",
+      "action": "Actie:",
+      "selected": "Geselecteerd: {{count}} items"
+    },
+    "buttons": {
+      "processing": "Bezig...",
+      "execute": "Actie uitvoeren"
+    },
+    "history": {
+      "title": "Actiehistorie",
+      "description": "Recente bulksacties en hun status",
+      "tabs": {
+        "recent": "Recent",
+        "processing": "Bezig ({{count}})",
+        "completed": "Voltooid ({{count}})",
+        "failed": "Mislukt ({{count}})"
+      },
+      "empty": {
+        "recent": {
+          "title": "Geen acties",
+          "desc": "Er zijn nog geen bulksacties uitgevoerd"
+        },
+        "processing": {
+          "title": "Geen lopende acties",
+          "desc": "Geen lopende acties om te tonen"
+        },
+        "completed": {
+          "title": "Geen voltooide acties",
+          "desc": "Geen voltooide acties om te tonen"
+        },
+        "failed": {
+          "title": "Geen mislukte acties",
+          "desc": "Geen mislukte acties om te tonen"
+        }
+      }
+    },
+    "status": {
+      "pending": "In afwachting",
+      "processing": "Bezig",
+      "completed": "Voltooid",
+      "failed": "Mislukt"
+    },
+    "errors": {
+      "items": {
+        "title": "Fout bij laden van items",
+        "description": "Items laden is mislukt. Probeer het opnieuw."
+      },
+      "history": {
+        "title": "Laden van actiehistorie mislukt"
+      },
+      "executeFailed": "Bulksactie uitvoeren mislukt"
+    },
+    "toast": {
+      "queued": {
+        "title": "Bulksactie in wachtrij",
+        "desc": "{{count}} items verwerken. Dit kan even duren."
+      },
+      "failed": {
+        "title": "Bulksactie mislukt",
+        "desc": "Er ging iets mis. Probeer het opnieuw."
+      }
+    },
+    "confirm": "Weet je zeker dat je {{action}} wilt uitvoeren op {{count}} items? Deze actie kan niet ongedaan worden gemaakt."
+  },
+  "bureau": {
+    "assignedJobsTitle": "Mijn toegewezen vacatures",
+    "assignedJobsSubtitle": "Vacatures die door bedrijven aan jullie bureau zijn gedistribueerd"
+  },
+  "contracts": {
+    "title": "Contracten",
+    "newTitle": "Nieuw Contract",
+    "templatesButton": "Templates",
+    "overview": {
+      "subtitle": "Beheer contracten, handtekeningen en goedkeuringen",
+      "totalContracts": "Totaal contracten",
+      "active": "Actief",
+      "toSign": "Te ondertekenen",
+      "latest": "Laatste contracten",
+      "noContracts": "Nog geen contracten",
+      "templatesMsa": "Templates & MSA",
+      "totalValueDesc": "Totale contractwaarde",
+      "totalValue": "Totale waarde",
+      "thisMonth": "Deze maand",
+      "newContractDescription": "Start een nieuw contract voor een plaatsing",
+      "rateCards": "Tariefkaarten",
+      "rateCardsDescription": "Beheer tarieven en fee-structuren",
+      "tabs": {
+        "all": "Alle contracten",
+        "actionRequired": "Actie vereist",
+        "drafts": "Concepten",
+        "active": "Actief",
+        "completed": "Voltooid"
+      }
+    },
+    "newPlaceholder": {
+      "comingSoonTitle": "Contractwizard binnenkort beschikbaar",
+      "description": "De interactieve contractwizard wordt momenteel gemigreerd. Gebruik intussen contracttemplates om een contract op te stellen.",
+      "goToTemplates": "Ga naar Templates",
+      "goToOverview": "Naar overzicht"
+    },
+    "templates": {
+      "subtitle": "Beheer herbruikbare contracttemplates voor verschillende typen overeenkomsten",
+      "newTemplate": "Nieuwe template",
+      "createTitle": "Contracttemplate aanmaken",
+      "createDescription": "Maak een nieuwe herbruikbare contracttemplate",
+      "nameLabel": "Templatenaam",
+      "namePlaceholder": "bijv. Standaard Vast Contract",
+      "descLabel": "Beschrijving",
+      "descPlaceholder": "Korte omschrijving van deze template..."
+    },
+    "detail": {
+      "title": "Contractdetails",
+      "metaDescription": "Bekijk contractdetails"
+    },
+    "sign": {
+      "title": "Contract Ondertekenen",
+      "metaDescription": "Onderteken het contract digitaal",
+      "successTitle": "Contract succesvol ondertekend",
+      "successFully": "Dit contract is volledig ondertekend door alle partijen. U wordt doorgestuurd naar het contractoverzicht...",
+      "alreadyActive": "Dit contract is al actief.",
+      "signatureAdded": "Uw handtekening is succesvol toegevoegd. U wordt doorgestuurd naar het contractoverzicht...",
+      "goToContract": "Ga naar contract",
+      "backToContract": "Terug naar contract",
+      "notFoundTitle": "Contract niet gevonden",
+      "notFoundDescription": "Het opgevraagde contract kon niet worden gevonden.",
+      "addSignatureFirst": "Voeg eerst je handtekening toe",
+      "completed": "Contract succesvol ondertekend",
+      "error": "Kon contract niet ondertekenen",
+      "readBefore": "Lees het contract zorgvuldig door voordat je ondertekent",
+      "loadingContent": "Contractinhoud wordt geladen...",
+      "digitalSignature": "Digitale handtekening",
+      "chooseMethod": "Kies hoe je dit contract wilt ondertekenen",
+      "methodLabel": "Ondertekeningsmethode",
+      "typeName": "Typ je naam",
+      "simpleEsign": "Eenvoudige elektronische handtekening",
+      "drawSignature": "Teken handtekening",
+      "useMouse": "Gebruik muis of touchscreen om te tekenen",
+      "uploadSignature": "Upload handtekening",
+      "uploadImage": "Upload een afbeelding van je handtekening",
+      "typeFullName": "Typ je volledige naam",
+      "yourFullName": "Je volledige naam",
+      "yourSignature": "Je handtekening:",
+      "clear": "Wissen",
+      "uploadSignatureImage": "Afbeelding van handtekening uploaden",
+      "legallyBindingTitle": "Juridisch bindende overeenkomst",
+      "legallyBindingDesc": "Door te ondertekenen ga je akkoord met de voorwaarden. Deze elektronische handtekening is juridisch bindend onder de eIDAS‑verordening.",
+      "agreement": "Ik heb het contract gelezen en ga akkoord met alle voorwaarden. Ik begrijp dat deze elektronische handtekening juridisch bindend is.",
+      "submit": "Contract ondertekenen",
+      "ssl": "256‑bit SSL‑encryptie",
+      "ipTracking": "IP‑tracking",
+      "timestampVerification": "Timestamp‑verificatie",
+      "identityVerified": "Identiteit geverifieerd",
+      "confirmTitle": "Ondertekening bevestigen",
+      "confirmDesc": "Je staat op het punt contract {{number}} te ondertekenen. Dit is juridisch bindend.",
+      "confirmWarning": "Na ondertekening kan dit niet ongedaan worden gemaakt. Zorg dat je alles hebt gelezen en begrepen.",
+      "signer": "Ondertekenaar:",
+      "you": "Jij",
+      "date": "Datum:",
+      "method": {
+        "draw": "Getekende handtekening",
+        "type": "Getypte handtekening",
+        "upload": "Geüploade handtekening"
+      },
+      "signing": "Ondertekenen...",
+      "finalize": "Ondertekening afronden"
+    }
+  },
+  "msa": {
+    "subtitle": "Beheer Master Service Agreements met recruitmentbureaus",
+    "backToOverview": "Terug naar overzicht",
+    "tabs": {
+      "overview": "Overzicht",
+      "documents": "Documenten",
+      "signing": "Ondertekening",
+      "history": "Geschiedenis"
+    },
+    "status": {
+      "DRAFT": "Concept",
+      "PENDING_REVIEW": "Ter beoordeling",
+      "PENDING_SIGNATURES": "Wacht op handtekeningen",
+      "FULLY_SIGNED": "Volledig getekend",
+      "ACTIVE": "Actief",
+      "TERMINATED": "Beëindigd"
+    },
+    "contractType": {
+      "uitzenden": "Uitzenden",
+      "wervingSelectie": "Werving & Selectie",
+      "other": "Anders",
+      "unspecified": "Niet gespecificeerd"
+    },
+    "toast": {
+      "uploadTitle": "Document geüpload",
+      "unsignedUploaded": "MSA-document succesvol geüpload",
+      "signedUploaded": "Getekend document succesvol geüpload"
+    },
+    "page": {
+      "company": "Opdrachtgever",
+      "validUntil": "Geldig tot",
+      "paymentTerms": "Betalingstermijn",
+      "contractInfo": "Contractinformatie",
+      "msaNumber": "MSA-nummer",
+      "contractType": "Contracttype",
+      "effectiveDate": "Ingangsdatum",
+      "expirationDate": "Einddatum",
+      "noticePeriod": "Opzegtermijn",
+      "liabilityCap": "Aansprakelijkheidsplafond",
+      "autoRenew": "Automatisch verlengen"
+    },
+    "timeline": {
+      "title": "Tijdlijn",
+      "desc": "Belangrijke gebeurtenissen voor deze MSA",
+      "created": "MSA aangemaakt",
+      "signedByCompany": "Ondertekend door opdrachtgever",
+      "signedByBureau": "Ondertekend door bureau",
+      "lastUpdated": "Laatst bijgewerkt",
+      "by": "door"
+    },
+    "detail": {
+      "title": "MSA-details",
+      "errorDesc": "Kon MSA niet laden. Probeer het opnieuw of ga terug naar het overzicht."
+    },
+    "new": "Nieuwe MSA",
+    "createTitle": "Master Service Agreement aanmaken",
+    "createDescription": "Maak een nieuwe MSA aan met een recruitmentbureau",
+    "labels": {
+      "bureau": "Bureau",
+      "startDate": "Startdatum",
+      "endDate": "Einddatum",
+      "paymentTermsDays": "Betalingsvoorwaarden (dagen)"
+    },
+    "loadingBureaus": "Bureaus laden...",
+    "selectBureau": "Selecteer bureau...",
+    "noBureaus": "Geen bureaus beschikbaar",
+    "blocking": {
+      "title": "Geen Actieve MSA Gevonden",
+      "message": "Een actieve Master Service Agreement is vereist om kandidaten van bureaus aan te nemen. Maak er een aan om door te gaan.",
+      "requirement": "U kunt deze kandidaat van",
+      "withoutMSA": "niet aannemen zonder een actieve MSA.",
+      "createMSANow": "MSA Nu Aanmaken",
+      "creatingMSAFor": "MSA aanmaken voor",
+      "createAndContinue": "MSA Aanmaken & Doorgaan",
+      "creating": "Aanmaken...",
+      "msaCreated": "MSA Aangemaakt",
+      "msaCreatedDesc": "MSA succesvol aangemaakt. U kunt nu doorgaan met aannemen."
+    },
+    "form": {
+      "startDate": "Startdatum",
+      "endDate": "Einddatum",
+      "paymentTerms": "Betalingsvoorwaarden (dagen)",
+      "selectPaymentTerms": "Selecteer betalingsvoorwaarden",
+      "contractValue": "Contractwaarde (optioneel)"
+    }
+  },
+  "compliance": {
+    "subtitle": "Monitor wettelijke compliance en gegevensbescherming",
+    "overallScore": "Totale compliance score",
+    "lastAudit": "Laatste audit",
+    "nextAudit": "Volgende audit",
+    "status": {
+      "compliant": "Compliant",
+      "warnings": "Waarschuwingen",
+      "nonCompliant": "Niet‑compliant"
+    },
+    "checksTitle": "Compliance‑controles",
+    "checksDescription": "Gedetailleerde uitsplitsing per categorie",
+    "errors": {
+      "loadTitle": "Fout bij laden van compliance‑data",
+      "loadDescription": "Kon compliance‑data niet laden. Probeer het opnieuw."
+    }
+  },
+  "zzpProfile": {
+    "title": "ZZP Profiel",
+    "subtitle": "Beheer je professionele informatie en presenteer jezelf aan potentiële opdrachtgevers",
+    "accessOnly": "Deze pagina is alleen toegankelijk voor ZZP'ers.",
+    "basicInfo": {
+      "title": "Basisinformatie",
+      "desc": "Vul je professionele gegevens in om je expertise te laten zien."
+    },
+    "fields": {
+      "jobTitle": "Functie/Beroep *",
+      "specialization": "Specialisatie",
+      "description": "Professionele omschrijving",
+      "kvkNumber": "KvK‑nummer",
+      "hourlyRate": "Standaard uurtarief (€)",
+      "availability": "Beschikbaarheid",
+      "location": "Woonplaats",
+      "workRadius": "Werkstraal (km)",
+      "workPreferences": "Voorkeur type werk"
+    },
+    "placeholders": {
+      "jobTitle": "Bijv. Frontend Developer, Grafisch Ontwerper",
+      "specialization": "Bijv. React/TypeScript, UX/UI Design",
+      "description": "Beschrijf je ervaring, werkwijze en wat je uniek maakt...",
+      "kvkNumber": "12345678",
+      "availability": "Bijv. 32 uur per week, Fulltime beschikbaar",
+      "location": "Bijv. Amsterdam",
+      "workRadius": "Bijv. 50"
+    },
+    "workPreferences": {
+      "label": "Voorkeur type werk",
+      "interim": "Interim opdrachten",
+      "uitzenden": "Uitzenden/Detacheren",
+      "helpText": "Selecteer voor welk type werk je beschikbaar bent"
+    },
+    "location": {
+      "radiusHelp": "Hoeveel km van je woonplaats wil je werken?"
+    },
+    "saving": "Bezig met opslaan...",
+    "saveProfile": "Profiel opslaan",
+    "cv": {
+      "label": "CV",
+      "title": "CV Upload",
+      "desc": "Upload je actuele CV (PDF of Word)",
+      "uploaded": "✅ CV geüpload",
+      "replace": "CV vervangen",
+      "upload": "CV uploaden"
+    },
+    "portfolio": {
+      "label": "Certificaat",
+      "title": "Certificaten & Portfolio",
+      "desc": "Upload diploma's, certificaten of portfolio‑voorbeelden",
+      "upload": "Bestanden uploaden"
+    },
+    "completion": {
+      "title": "Profielvolledigheid"
+    },
+    "toast": {
+      "updated": {
+        "title": "Profiel bijgewerkt",
+        "desc": "Je ZZP‑profiel is succesvol bijgewerkt."
+      },
+      "updateError": {
+        "title": "Fout bij bijwerken"
+      },
+      "uploaded": {
+        "title": "Bestand geüpload",
+        "desc": "{{type}} succesvol geüpload."
+      },
+      "uploadError": {
+        "title": "Uploadfout",
+        "desc": "Er ging iets mis bij het opslaan van het bestand."
+      }
+    }
+  },
+  "publicZzpProfile": {
+    "notFoundTitle": "Profiel niet gevonden",
+    "notFoundDesc": "Het ZZP-profiel dat je zoekt bestaat niet of is niet openbaar.",
+    "backToApplications": "Terug naar reacties",
+    "perHour": "per uur",
+    "experienceYears": "{{count}} jaar ervaring",
+    "aboutMe": "Over mij",
+    "skills": "Vaardigheden",
+    "education": "Opleiding",
+    "documents": "Documenten",
+    "downloadCv": "CV downloaden",
+    "portfolio": "Portfolio & Certificaten",
+    "document": "Document {{index}}",
+    "businessInfo": "Bedrijfsinfo",
+    "kvk": "KvK-nummer:",
+    "contact": "Contact",
+    "sendEmail": "E-mail sturen"
+  },
+  "subscribe": {
+    "notAvailableTitle": "Betalingsservice niet beschikbaar",
+    "welcomeTitle": "Welkom bij het platform!",
+    "paymentFailedTitle": "Betaling mislukt",
+    "activatedTitle": "Abonnement geactiveerd!",
+    "activatedDesc": "Welkom! Je hebt 14 dagen gratis om te proberen.",
+    "activating": "Bezig met activeren...",
+    "startTrialCta": "Start 14‑dagen gratis proef",
+    "loadingPage": "Betalingspagina wordt geladen...",
+    "freeTrialBlurb": "Start met je 14‑dagen gratis proefperiode. Geen kosten vooraf.",
+    "freeBadge": "14 dagen gratis",
+    "features": {
+      "zzpProfiles": "Toegang tot alle ZZP'er profielen",
+      "messaging": "Direct messaging",
+      "search": "Geavanceerde zoekfilters",
+      "analytics": "Analytics en rapporten",
+      "support": "Premium ondersteuning"
+    },
+    "freeTrialTitle": "Gratis proefperiode",
+    "freeTrialDesc": "Probeer 14 dagen gratis. Annuleer altijd zonder kosten. Na de proefperiode €29/maand.",
+    "termsPrefix": "Door door te gaan ga je akkoord met onze",
+    "termsLink": "Algemene Voorwaarden",
+    "privacyLink": "Privacybeleid",
+    "and": "en"
+  },
+  "subscription": {
+    "dashboard": {
+      "title": "Subscription Dashboard",
+      "subtitle": "Beheer je abonnement, betalingen en gebruik",
+      "currentSubscription": "Huidig Abonnement",
+      "paymentMethod": "Betaalmethode",
+      "paymentSettings": "Betaalgegevens",
+      "cancel": "Opzeggen",
+      "nextBilling": "Volgende facturering",
+      "noPaymentMethod": "Geen betaalmethode ingesteld",
+      "addPaymentMethod": "Betaalmethode toevoegen",
+      "updatePaymentMethod": "Betalingsgegevens wijzigen",
+      "expires": "Verloopt",
+      "status": {
+        "ACTIVE": "Actief",
+        "TRIALING": "Proefperiode",
+        "PAST_DUE": "Achterstallig",
+        "CANCELED": "Geannuleerd",
+        "INCOMPLETE": "Incompleet"
+      }
+    },
+    "tabs": {
+      "overview": "Overzicht",
+      "usage": "Gebruik",
+      "payments": "Betalingen",
+      "plans": "Plannen"
+    },
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "features": [
+          "Tot 10 vacatures per maand",
+          "Basis applicant beheer",
+          "Email notificaties",
+          "Basis analytics",
+          "Email support"
+        ]
+      },
+      "professional": {
+        "name": "Professional",
+        "features": [
+          "Tot 50 vacatures per maand",
+          "Geavanceerd applicant beheer",
+          "Real-time notificaties",
+          "Uitgebreide analytics",
+          "CV database toegang",
+          "Prioriteit support",
+          "Quick reply templates",
+          "Interview scheduler"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "features": [
+          "Onbeperkte vacatures",
+          "White-label branding",
+          "API toegang",
+          "Custom integraties",
+          "Persoonlijke account manager",
+          "SLA garantie",
+          "Training & onboarding"
+        ]
+      },
+      "interval": {
+        "month": "maand",
+        "year": "jaar"
+      },
+      "popular": "Populair",
+      "current": "Huidig plan",
+      "upgrade": "Upgraden",
+      "downgrade": "Downgraden",
+      "compare": "Vergelijk plannen",
+      "choosePlan": "Kies dit plan",
+      "unlimited": "Onbeperkt"
+    },
+    "usage": {
+      "title": "Gebruik Statistieken",
+      "jobsPosted": "Vacatures geplaatst",
+      "jobsUsage": "Vacature Gebruik",
+      "applicationsReceived": "Sollicitaties ontvangen",
+      "applicationsAnalysis": "Sollicitatie Analyse",
+      "viewsThisMonth": "Vacature weergaven",
+      "responsesThisMonth": "Reacties verstuurd",
+      "totalReceived": "Totaal ontvangen",
+      "thisMonth": "Deze maand",
+      "averagePerJob": "Gemiddeld per vacature",
+      "responseRate": "Reactie percentage",
+      "hiredCandidates": "Aangenomen kandidaten",
+      "activeJobs": "Actieve vacatures",
+      "usageHistory": "Gebruik Historie",
+      "limitReached": "Limiet bijna bereikt",
+      "limitWarning": "Je hebt {{percentage}}% van je maandelijkse vacature limiet gebruikt. Overweeg een upgrade naar een hoger plan.",
+      "allowedJobs": "van {{limit}} toegestaan",
+      "unlimitedJobs": "Onbeperkte vacatures",
+      "chartPlaceholder": "Gebruik grafiek wordt hier geïmplementeerd"
+    },
+    "payments": {
+      "title": "Betalingsgeschiedenis",
+      "loading": "Betalingsgeschiedenis laden...",
+      "error": "Kan betalingen niet laden",
+      "errorMessage": "Er is een fout opgetreden bij het laden van je betalingsgeschiedenis.",
+      "statistics": {
+        "totalPaid": "Totaal Betaald",
+        "successful": "Geslaagd",
+        "failed": "Mislukt",
+        "refunded": "Terugbetaald"
+      },
+      "filters": {
+        "title": "Filters",
+        "search": "Zoeken",
+        "searchPlaceholder": "Zoek beschrijving...",
+        "status": "Status",
+        "period": "Periode",
+        "allStatuses": "Alle statussen",
+        "allDates": "Alle datums",
+        "thisMonth": "Deze maand",
+        "lastMonth": "Vorige maand",
+        "last3Months": "Laatste 3 maanden",
+        "resetFilters": "Reset Filters"
+      },
+      "status": {
+        "COMPLETED": "Voltooid",
+        "PENDING": "In behandeling",
+        "FAILED": "Mislukt",
+        "REFUNDED": "Terugbetaald"
+      },
+      "actions": {
+        "downloadInvoice": "Factuur",
+        "downloadReceipt": "Kwitantie",
+        "downloading": "Downloaden..."
+      },
+      "invoice": {
+        "noInvoice": "Geen factuur beschikbaar voor deze betaling.",
+        "downloadSuccess": "Factuur gedownload.",
+        "downloadError": "Kan factuur niet downloaden. Probeer het later opnieuw."
+      },
+      "empty": {
+        "noPayments": "Nog geen betalingen",
+        "noPaymentsMessage": "Je betalingsgeschiedenis zal hier verschijnen zodra je je eerste betaling hebt gedaan.",
+        "noResults": "Geen betalingen gevonden",
+        "noResultsMessage": "Probeer de filters aan te passen om meer resultaten te zien."
+      },
+      "refundReason": "Reden: {{reason}}",
+      "refundAmount": "Terugbetaald: €{{amount}}",
+      "failureReason": "Reden: {{reason}}",
+      "count": "{{count}} betalingen"
+    },
+    "cancellation": {
+      "title": "Abonnement opzeggen",
+      "subtitle": "We vinden het jammer dat je ons wilt verlaten",
+      "currentPlan": "Je huidige plan",
+      "cancellationDate": "Opzeggingsdatum",
+      "reason": "Reden voor opzegging",
+      "reasonRequired": "Selecteer een reden",
+      "reasons": {
+        "tooExpensive": "Te duur",
+        "notEnoughFeatures": "Niet genoeg functies",
+        "foundAlternative": "Alternatief gevonden",
+        "noLongerNeeded": "Niet meer nodig",
+        "technicalIssues": "Technische problemen",
+        "customerService": "Klantenservice",
+        "other": "Anders"
+      },
+      "feedback": "Feedback (optioneel)",
+      "feedbackPlaceholder": "Vertel ons wat we kunnen verbeteren...",
+      "keepBenefits": "Je behoud toegang tot alle functies tot {{date}}",
+      "confirm": "Ja, opzeggen",
+      "confirmCancel": "Nee, behouden",
+      "processing": "Verwerken...",
+      "success": "Abonnement opgezegd",
+      "successMessage": "Je abonnement is opgezegd. Je behoud toegang tot alle functies tot {{date}}.",
+      "error": "Kan abonnement niet opzeggen",
+      "errorMessage": "Er is een fout opgetreden. Probeer het later opnieuw.",
+      "reasonDescriptions": {
+        "tooExpensive": "Het abonnement is te duur voor mijn budget",
+        "notEnoughFeatures": "Ik gebruik de service niet vaak genoeg",
+        "foundAlternative": "Ik ga een andere service gebruiken",
+        "technicalIssues": "Ik ondervind technische problemen",
+        "noLongerNeeded": "De service mist functies die ik nodig heb",
+        "other": "Een andere reden niet hierboven genoemd"
+      },
+      "alternatives": {
+        "downgrade": "Overweeg een downgrade naar een goedkoper plan",
+        "pause": "Pauzeer je abonnement voor maximaal 3 maanden",
+        "support": "Neem contact op met ons support team",
+        "feedback": "Vertel ons welke functies je mist"
+      }
+    },
+    "paymentUpdate": {
+      "title": "Betaalmethode bijwerken",
+      "subtitle": "Wijzig je betaalgegevens",
+      "currentMethod": "Huidige betaalmethode",
+      "newMethod": "Nieuwe betaalmethode",
+      "cardNumber": "Kaartnummer",
+      "expiryDate": "Vervaldatum",
+      "securityCode": "CVV",
+      "updateMethod": "Betaalmethode bijwerken",
+      "processing": "Verwerken...",
+      "success": "Betaalmethode bijgewerkt",
+      "successMessage": "Je betaalmethode is succesvol bijgewerkt.",
+      "error": "Kan betaalmethode niet bijwerken",
+      "errorMessage": "Er is een fout opgetreden. Probeer het later opnieuw.",
+      "validation": {
+        "invalidCard": "Ongeldig kaartnummer",
+        "invalidExpiry": "Ongeldige vervaldatum",
+        "invalidCVC": "Ongeldige CVV"
+      }
+    },
+    "planComparison": {
+      "title": "Abonnementen vergelijken",
+      "subtitle": "Kies het plan dat het beste bij je behoeften past",
+      "currentPlan": "Huidig plan",
+      "mostPopular": "Populairste keuze",
+      "selectPlan": "Plan selecteren",
+      "upgrade": "Upgraden",
+      "downgrade": "Downgraden",
+      "changeInEffect": "Wijziging gaat in op {{date}}",
+      "prorationPreview": "Kosten voorvertoning",
+      "viewPreview": "Kosten bekijken",
+      "immediateCharge": "Directe kosten",
+      "creditUsed": "Tegoed gebruikt",
+      "nextBillingAmount": "Volgende factuur",
+      "confirm": "Bevestigen",
+      "confirmUpgrade": "Upgrade bevestigen",
+      "confirmDowngrade": "Downgrade bevestigen",
+      "processing": "Verwerken...",
+      "success": "Plan succesvol gewijzigd",
+      "successMessage": "Je abonnement is gewijzigd naar {{plan}}.",
+      "error": "Kan plan niet wijzigen",
+      "errorMessage": "Er is een fout opgetreden. Probeer het later opnieuw.",
+      "detailedComparison": "Gedetailleerde Vergelijking",
+      "immediateAccess": "Upgrade krijgt onmiddellijke toegang",
+      "changeTo": "Wijziging naar",
+      "costBreakdown": "Kostenberekening",
+      "newPlanCost": "Kosten nieuwe plan (pro rata)",
+      "downgradeWarning": "Let op bij downgrade",
+      "downgradeWarningMessage": "Je nieuwe limieten gaan onmiddellijk in. Zorg ervoor dat je binnen de nieuwe limieten blijft.",
+      "confirmChange": "Bevestig Wijziging"
+    },
+    "alerts": {
+      "limitReached": "Limiet bereikt",
+      "limitWarning": "Je hebt {{percentage}}% van je limiet gebruikt.",
+      "upgradePrompt": "Upgrade"
+    },
+    "loading": {
+      "subscription": "Abonnement laden...",
+      "usage": "Gebruik laden...",
+      "payments": "Betalingen laden..."
+    }
+  },
+  "landing": {
+    "banner": "Nieuwe platform feature: Direct chat met kandidaten!",
+    "tagline": "Dé marktplaats voor talent",
+    "nav": {
+      "forCompanies": "Voor Bedrijven",
+      "forAgencies": "Voor Bureaus",
+      "forFreelancers": "Voor ZZP'ers",
+      "forRecruiters": "Voor Recruiters",
+      "howItWorks": "Hoe werkt het?",
+      "pricing": "Prijzen"
+    },
+    "getStarted": "Gratis starten",
+    "hero": {
+      "title": "Verbind Talent met Kansen",
+      "subtitle": "Of u nu talent zoekt, opdrachten aanbiedt, of uw volgende carrièrestap plant - wij brengen de juiste mensen bij elkaar.",
+      "badge": "Het #1 platform voor vacatures in Nederland",
+      "cta": {
+        "primary": "Start nu",
+        "secondary": "Bekijk vacatures"
+      }
+    },
+    "stats": {
+      "activeJobs": "Actieve vacatures",
+      "companies": "Bedrijven",
+      "professionals": "ZZP'ers & kandidaten",
+      "satisfaction": "Tevredenheid"
+    },
+    "userTypes": {
+      "title": "Wat is uw rol?",
+      "subtitle": "Kies uw account type en begin direct",
+      "company": {
+        "title": "Bedrijf met Opdrachten",
+        "description": "Plaats vacatures en vind gekwalificeerd talent voor uw projecten",
+        "features": [
+          "Onbeperkt vacatures plaatsen",
+          "Direct contact met kandidaten",
+          "Geavanceerde matching"
+        ],
+        "cta": "Start met werven",
+        "badge": "Populair"
+      },
+      "agency": {
+        "title": "Uitzend- of Wervingsbureau",
+        "description": "Verbind talent met bedrijven en beheer meerdere klanten",
+        "features": [
+          "Multi-client management",
+          "Bulk vacature plaatsing",
+          "Commissie tracking"
+        ],
+        "cta": "Word partner"
+      },
+      "freelancer": {
+        "title": "ZZP'er / Freelancer",
+        "description": "Vind interessante opdrachten die bij jouw expertise passen",
+        "features": [
+          "Gratis profiel aanmaken",
+          "Direct solliciteren",
+          "Tarieven onderhandelen"
+        ],
+        "cta": "Vind opdrachten",
+        "badge": "Gratis"
+      },
+      "jobseeker": {
+        "title": "Werkzoekende",
+        "description": "Ontdek vacatures en solliciteer bij top bedrijven",
+        "features": [
+          "CV uploaden",
+          "Job alerts",
+          "Sollicitatie tracking"
+        ],
+        "cta": "Start solliciteren",
+        "badge": "Gratis"
+      }
+    },
+    "benefits": {
+      "title": "Waarom kiezen voor ons platform?",
+      "subtitle": "Alles wat u nodig heeft voor succesvolle werving en selectie",
+      "items": [
+        {
+          "title": "Snel matchen",
+          "description": "AI-powered matching voor de beste kandidaat-vacature fit"
+        },
+        {
+          "title": "Veilig & betrouwbaar",
+          "description": "Geverifieerde bedrijven en veilige gegevensopslag"
+        },
+        {
+          "title": "Heel Nederland",
+          "description": "Vacatures en talent door het hele land"
+        },
+        {
+          "title": "Gerichte zoektocht",
+          "description": "Geavanceerde filters voor precisie matching"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Klaar om te beginnen?",
+      "subtitle": "Sluit u aan bij duizenden bedrijven en professionals",
+      "createAccount": "Account aanmaken",
+      "login": "Inloggen"
+    },
+    "testimonials": {
+      "title": "Wat onze gebruikers zeggen",
+      "items": [
+        {
+          "name": "Jan de Vries",
+          "role": "HR Manager",
+          "company": "TechCorp BV",
+          "content": "Binnen een week hadden we 5 gekwalificeerde kandidaten. Fantastisch platform!"
+        },
+        {
+          "name": "Maria Jansen",
+          "role": "ZZP'er",
+          "company": "Frontend Developer",
+          "content": "Eindelijk een platform dat begrijpt wat freelancers nodig hebben. Top!"
+        },
+        {
+          "name": "Peter Bakker",
+          "role": "Recruiter",
+          "company": "Talent Solutions",
+          "content": "De matching technologie bespaart ons uren werk. Zeer tevreden!"
+        }
+      ]
+    },
+    "footer": {
+      "description": "Het platform dat talent en kansen verbindt.",
+      "forCompanies": "Voor Bedrijven",
+      "forCandidates": "Voor Kandidaten",
+      "support": "Support",
+      "links": {
+        "postJobs": "Vacatures plaatsen",
+        "pricing": "Prijzen",
+        "successStories": "Success stories",
+        "searchJobs": "Vacatures zoeken",
+        "createProfile": "Profiel maken",
+        "careerTips": "Carrière tips",
+        "helpCenter": "Help center",
+        "contact": "Contact",
+        "privacy": "Privacy"
+      },
+      "copyright": "Alle rechten voorbehouden."
+    }
+  },
+  "gdpr": {
+    "title": "Privacy & Gegevensbescherming",
+    "exportData": "Mijn gegevens exporteren",
+    "deleteAccount": "Account verwijderen",
+    "consentSettings": "Toestemming instellingen",
+    "privacyPolicy": "Privacybeleid",
+    "dataRetention": "Gegevensretentie",
+    "userRights": "Jouw rechten",
+    "exportDescription": "Download al je persoonlijke gegevens",
+    "deleteDescription": "Verwijder permanent je account en alle gegevens",
+    "consentDescription": "Beheer je privacy voorkeuren"
+  },
+  "errors": {
+    "general": "Er is iets misgegaan",
+    "networkError": "Netwerkfout opgetreden",
+    "unauthorized": "Je bent niet geautoriseerd om deze bron te benaderen",
+    "forbidden": "Toegang geweigerd",
+    "notFound": "De gevraagde bron is niet gevonden",
+    "validationError": "Controleer je invoer",
+    "serverError": "Interne serverfout"
+  },
+  "success": {
+    "saved": "Wijzigingen succesvol opgeslagen",
+    "deleted": "Item succesvol verwijderd",
+    "created": "Item succesvol aangemaakt",
+    "updated": "Item succesvol bijgewerkt"
+  },
+  "chat": {
+    "file": {
+      "upload": "Bestanden uploaden",
+      "dragDrop": "Klik om bestanden te uploaden",
+      "dropHere": "of sleep bestanden hierheen",
+      "preview": "Voorvertoning",
+      "download": "Downloaden",
+      "maxSize": "Maximum bestandsgrootte",
+      "typeError": "Bestandstype niet toegestaan",
+      "tooBig": "Bestand te groot. Maximum grootte is",
+      "maxFiles": "Maximum bestanden toegestaan",
+      "uploadError": "Upload fouten",
+      "uploadSuccess": "Upload succesvol",
+      "uploadFailed": "Upload mislukt",
+      "filesCount": "Bestanden",
+      "uploading": "Bestanden uploaden...",
+      "supportedTypes": "Ondersteund: afbeeldingen, PDF, Word, Excel, tekst, ZIP"
+    }
+  },
+  "notifications": {
+    "title": "Notificaties",
+    "subtitle": "Beheer je notificatie instellingen",
+    "emailNotifications": "E-mail notificaties",
+    "inAppNotifications": "In-app notificaties",
+    "markAllRead": "Markeer alles als gelezen",
+    "noNotifications": "Geen notificaties",
+    "noNotificationsMessage": "Je hebt momenteel geen notificaties.",
+    "view": "Bekijken",
+    "push": {
+      "enable": "Inschakelen",
+      "disable": "Uitschakelen",
+      "permission": "Toestemming",
+      "newMessage": "Nieuw bericht ontvangen",
+      "settings": "Notificatie-instellingen",
+      "supported": "Push Notificaties Ondersteund",
+      "notSupported": "Push Notificaties Niet Ondersteund",
+      "browserNotSupported": "Uw browser ondersteunt geen push notificaties. Gebruik een moderne browser zoals Chrome, Firefox, of Safari.",
+      "status": "Push Notificaties Status",
+      "manageSettings": "Beheer uw browser notificaties voor real-time updates",
+      "browserPermission": "Browser Toestemming",
+      "permissionDescription": "Toestemming om notificaties te tonen",
+      "subscription": "Push Abonnement",
+      "subscriptionActive": "U ontvangt push notificaties",
+      "subscriptionInactive": "U ontvangt geen push notificaties",
+      "granted": "Toegestaan",
+      "denied": "Geweigerd",
+      "notRequested": "Niet gevraagd",
+      "active": "Actief",
+      "inactive": "Inactief",
+      "error": "Fout",
+      "requestAndEnable": "Toestemming vragen & Inschakelen",
+      "testNotification": "Test Notificatie",
+      "testMessage": "Dit is een test van uw notificatie-instellingen!",
+      "blocked": "Notificaties Geblokkeerd",
+      "blockedDescription": "U heeft notificaties geblokkeerd. Ga naar uw browserinstellingen om notificaties voor deze site in te schakelen.",
+      "preferences": "Notificatie Voorkeuren",
+      "preferencesDescription": "Kies voor welke gebeurtenissen u notificaties wilt ontvangen",
+      "globalSettings": "Globale Instellingen",
+      "emailNotifications": "E-mail Notificaties",
+      "emailDescription": "Ontvang notificaties via e-mail",
+      "pushNotifications": "Push Notificaties",
+      "pushDescription": "Ontvang notificaties in uw browser",
+      "specificNotifications": "Specifieke Notificaties",
+      "newMessages": "Nieuwe Berichten",
+      "newApplications": "Nieuwe Sollicitaties",
+      "statusUpdates": "Status Updates",
+      "emailOption": "E-mail notificaties",
+      "pushOption": "Push notificaties",
+      "settingsSaved": "Instellingen opgeslagen",
+      "settingsSavedDescription": "Uw notificatie-instellingen zijn bijgewerkt.",
+      "saveError": "Fout bij opslaan",
+      "saveErrorDescription": "Er ging iets mis bij het opslaan van uw instellingen."
+    }
+  },
+  "guest": {
+    "invite": {
+      "button": "Gast uitnodigen voor Chat",
+      "title": "Gast Chat Uitnodiging Maken",
+      "copyLink": "Link kopiëren",
+      "createInvitation": "Uitnodiging maken"
+    },
+    "chat": {
+      "welcome": "Welkom bij de gast chat",
+      "convert": "Converteren naar vol account",
+      "limit": "Berichten limiet bereikt",
+      "linkCreated": "Gast Chat Link Gemaakt",
+      "linkReady": "Gast Chat Link Klaar!",
+      "shareLink": "Deel deze link met uw gast om te beginnen met chatten",
+      "selectJob": "Selecteer Vacature",
+      "jobRequired": "Vacature vereist",
+      "selectJobDescription": "Selecteer een vacature voor deze gast chat sessie",
+      "selectJobPlaceholder": "Selecteer een vacature",
+      "loadingJobs": "Vacatures laden...",
+      "guestName": "Gast Naam (Optioneel)",
+      "guestNamePlaceholder": "Voer gast naam in",
+      "guestEmail": "Gast E-mail (Optioneel)",
+      "guestEmailPlaceholder": "Voer gast e-mail in voor directe uitnodiging",
+      "maxMessages": "Max Berichten",
+      "expiresIn": "Verloopt Over",
+      "messages": "berichten",
+      "day": "dag",
+      "days": "dagen",
+      "week": "week",
+      "weeks": "weken",
+      "month": "maand",
+      "limitDescription": "Gast kan tot {maxMessages} berichten verzenden binnen {days} dag(en). Daarna kunnen ze converteren naar een volledig gebruikersaccount om door te gaan.",
+      "creating": "Maken...",
+      "linkSuccess": "Gast chat link aangemaakt",
+      "linkSuccessDescription": "De gast chat uitnodiging is succesvol aangemaakt",
+      "linkError": "Fout bij aanmaken gast chat",
+      "linkErrorDescription": "Kan gast chat sessie niet aanmaken",
+      "clipboardSuccess": "Gekopieerd naar klembord",
+      "clipboardSuccessDescription": "De gast chat link is naar uw klembord gekopieerd",
+      "clipboardError": "Kopiëren mislukt",
+      "clipboardErrorDescription": "Kan niet naar klembord kopiëren. Kopieer handmatig.",
+      "emailRequired": "E-mail vereist",
+      "emailRequiredDescription": "Voer het e-mailadres van de gast in",
+      "emailSubject": "Chat uitnodiging - Vacature ORBIT",
+      "emailBody": "Hallo {name},\n\nU bent uitgenodigd om te chatten over een vacature!\n\nKlik op de onderstaande link om te beginnen met chatten:\n{url}\n\nDeze link verloopt op {expiry}.\n\nMet vriendelijke groet,\n{sender}",
+      "sendEmail": "E-mail Uitnodiging Versturen",
+      "expires": "Verloopt",
+      "canConvert": "Gast kan later converteren naar volledig account",
+      "createAnother": "Nog een aanmaken",
+      "done": "Klaar"
+    }
+  },
+  "video": {
+    "start": "Video Gesprek Starten",
+    "end": "Gesprek Beëindigen",
+    "joining": "Verbinden met video gesprek...",
+    "inCall": "In gesprek",
+    "error": "Video gesprek fout",
+    "call": "Video Gesprek",
+    "yourName": "Uw Naam",
+    "enterName": "Voer uw naam in voor het gesprek",
+    "micOn": "Microfoon Aan",
+    "micOff": "Microfoon Uit",
+    "cameraOn": "Camera Aan",
+    "cameraOff": "Camera Uit",
+    "startCall": "Video Gesprek Starten",
+    "endCall": "Gesprek Beëindigen",
+    "connecting": "Verbinden met video gesprek...",
+    "nameRequired": "Voer uw naam in",
+    "containerError": "Video container niet beschikbaar",
+    "loadError": "Kan Jitsi Meet script niet laden",
+    "startError": "Kan video gesprek niet starten. Probeer opnieuw.",
+    "joined": "Deelgenomen aan video gesprek",
+    "joinedDescription": "U bent nu verbonden met het video gesprek",
+    "left": "Video gesprek verlaten",
+    "leftDescription": "U heeft het video gesprek verlaten",
+    "participantJoined": "Deelnemer toegetreden",
+    "participantLeft": "Deelnemer vertrokken",
+    "someoneJoined": "{name} heeft het gesprek toegetreden",
+    "someoneLeft": "{name} heeft het gesprek verlaten"
+  },
+  "group": {
+    "create": "Groep Chat Maken",
+    "name": "Groep Naam",
+    "addParticipant": "Deelnemer Toevoegen",
+    "removeParticipant": "Deelnemer Verwijderen",
+    "participants": "Deelnemers",
+    "leave": "Groep Verlaten",
+    "createTitle": "Groep Chat Maken",
+    "selectParticipants": "Deelnemers Selecteren",
+    "created": "Groep Chat Gemaakt",
+    "nameRequired": "Groep naam vereist",
+    "nameRequiredDescription": "Voer een naam in voor uw groep chat",
+    "participantsRequired": "Deelnemers vereist",
+    "participantsRequiredDescription": "Selecteer minimaal één deelnemer voor de groep",
+    "nameLabel": "Groep Naam *",
+    "namePlaceholder": "Voer groep naam in",
+    "nameLimit": "karakters",
+    "descriptionLabel": "Beschrijving (Optioneel)",
+    "descriptionPlaceholder": "Beschrijf het doel van deze groep...",
+    "descriptionLimit": "karakters",
+    "jobAssociated": "Deze groep chat wordt gekoppeld aan de geselecteerde vacature.",
+    "nextSelectParticipants": "Volgende: Deelnemers Selecteren",
+    "searchUsers": "Gebruikers Zoeken",
+    "searchPlaceholder": "Zoek op naam, e-mail, of bedrijf...",
+    "selectedParticipants": "Geselecteerde Deelnemers",
+    "availableUsers": "Beschikbare Gebruikers",
+    "loadingUsers": "Gebruikers laden...",
+    "noUsersFound": "Geen gebruikers gevonden die overeenkomen met \"{term}\"",
+    "noUsersAvailable": "Geen gebruikers beschikbaar",
+    "back": "Terug",
+    "creating": "Maken...",
+    "createGroup": "Groep Maken",
+    "groupCreated": "Groep chat aangemaakt",
+    "groupCreatedDescription": "Groep \"{name}\" is succesvol aangemaakt",
+    "createError": "Fout bij aanmaken groep chat",
+    "createErrorDescription": "Kan groep chat niet aanmaken",
+    "createdSuccess": "Groep Chat Gemaakt!",
+    "createdWith": "Uw groep \"{name}\" is aangemaakt met {count} leden.",
+    "groupDetails": "Groep Details:",
+    "detailName": "Naam: {name}",
+    "detailDescription": "Beschrijving: {description}",
+    "detailMembers": "Leden: {count} (inclusief u)",
+    "detailParticipants": "Deelnemers: {participants}",
+    "createAnotherGroup": "Nog een Groep Maken",
+    "goToGroupChat": "Naar Groep Chat",
+    "members": "leden"
+  },
+  "companyPost": {
+    "phoneNumber": "Telefoonnummer"
+  },
+  "postDetail": {
+    "backToJobs": "Terug naar Vacatures"
+  },
+  "aboutCompany": {
+    "companyWebsite": "Bedrijfswebsite"
+  },
+  "aboutFreelancer": {
+    "portfolio": "Portfolio"
+  },
+  "recruiterForms": {
+    "companyEmail": "Bedrijf E-mail"
+  },
+  "companyAuth": {
+    "companyLogo": "Bedrijfslogo"
+  },
+  "jobSeekerJobPost": {
+    "category": "Categorie"
+  },
+  "recruiterJobPost": {
+    "postedBy": "Geplaatst Door"
+  },
+  "freelancerAuth": {
+    "portfolioUrl": "Portfolio URL"
+  },
+  "addReview": {
+    "reviewTitle": "Beoordeling Titel",
+    "selectApplication": "Selecteer Aanmelding",
+    "selectUser": "Selecteer Gebruiker om te Beoordelen",
+    "ratingScore": "Beoordeling Score",
+    "comment": "Opmerking (Optioneel)",
+    "addReview": "Beoordeling Toevoegen",
+    "submitReview": "Beoordeling Verzenden",
+    "noApplicationsFound": "Geen voltooide aanmeldingen gevonden",
+    "noApplicationsMessage": "Je kunt beoordelingen toevoegen nadat je vacatureaanmeldingen of plaatsingen hebt voltooid."
+  },
+  "bureauRankings": {
+    "title": "Bureau Ranglijsten",
+    "subtitleBureau": "Zie hoe je scoort ten opzichte van andere recruitmentbureaus",
+    "subtitleCompany": "Vind en vergelijk best presterende recruitmentbureaus",
+    "accessDeniedTitle": "Toegang geweigerd",
+    "accessDeniedMessage": "Deze pagina is alleen toegankelijk voor bureaus en bedrijven",
+    "loginPrompt": "Log in om de bureau ranglijsten te bekijken",
+    "info": {
+      "performanceScore": "Prestatiescore",
+      "performanceScoreDesc": "Samengestelde score op basis van alle kernstatistieken",
+      "fillRate": "Vervullingsgraad",
+      "fillRateDesc": "Percentage vacatures succesvol ingevuld",
+      "responseRate": "Responssnelheid",
+      "responseRateDesc": "Snelheid en consistentie van reacties",
+      "totalPlacements": "Totaal aantal plaatsingen",
+      "totalPlacementsDesc": "Succesvolle plaatsingen"
+    },
+    "tiers": {
+      "title": "Uitleg prestatieniveaus",
+      "platinumDesc": "Top 5% presteerders",
+      "goldDesc": "Top 20% presteerders",
+      "silverDesc": "Top 50% presteerders",
+      "bronzeDesc": "Onder 50%",
+      "newDesc": "Nieuwe bureaus, geen historie"
+    },
+    "improveTitle": "Verbeter je ranking",
+    "improveDesc": "Focus op: snellere responstijden, hogere kandidatenkwaliteit (acceptatiegraad) en succesvolle plaatsingen (vervullingsgraad). Consequent presteren op deze metrics verhoogt je ranking.",
+    "findBestTitle": "Vind de beste bureaus",
+    "findBestDesc": "Gebruik deze ranglijsten om top presterende bureaus te selecteren voor jouw distributies. Hogere niveaus leveren vaak betere resultaten maar kunnen hogere fees hebben. Kijk wat past bij jouw behoeften.",
+    "about": {
+      "title": "Over de ranglijsten",
+      "updatedDaily": "Ranglijsten worden dagelijks bijgewerkt op basis van recente data",
+      "weightedAlgo": "Prestatiescores worden berekend met een gewogen algoritme",
+      "weights": "Vervullingsgraad: 35%, Acceptatiegraad: 25%, Responssnelheid: 20%, Snelheid: 20%",
+      "thresholdPlacements": "Nieuwe bureaus hebben minimaal 5 plaatsingen nodig om uit de \"NIEUW\" klasse te gaan",
+      "aggregationNote": "Data wordt geaggregeerd over de laatste 90 dagen voor een eerlijk, actueel beeld"
+    },
+    "actions": {
+      "viewMyDashboard": "Bekijk mijn dashboard",
+      "distributeJob": "Vacature distribueren"
+    }
+  },
+  "ratings": {
+    "title": "Beoordelingen",
+    "score": "Score",
+    "to": "Aan",
+    "from": "Van",
+    "job": "Vacature",
+    "unknownUser": "Onbekende gebruiker",
+    "unknownJob": "Onbekende vacature",
+    "unknownDate": "Onbekende datum",
+    "tip": "Tip",
+    "tipMessage": "Behoud een hoge rating door professioneel te communiceren en deadlines na te komen.",
+    "positiveReviews": "Positieve beoordelingen (4-5★)",
+    "neutralReviews": "Neutrale beoordelingen (3★)",
+    "negativeReviews": "Negatieve beoordelingen (1-2★)"
+  }
+}

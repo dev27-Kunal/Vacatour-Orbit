@@ -1,0 +1,135 @@
+import { Link } from "wouter";
+import { Plus } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { useApp } from "@/providers/AppProvider";
+import { useTranslation } from "react-i18next";
+import { useUserJobs, useUpdateJobMutation, useDeleteJobMutation } from "@/hooks/use-job-mutations";
+import { JobCard } from "@/components/job-card";
+import { JobsLoadingState } from "@/components/job-loading";
+import { AuthRequired } from "@/components/auth-required";
+import { SubscriptionProtectedButton } from "@/components/subscription-protected-button";
+import { PageWrapper } from "@/components/page-wrapper";
+
+/**
+ * Handle status change for a job
+ */
+function useJobHandlers() {
+  const updateJobMutation = useUpdateJobMutation();
+  const deleteJobMutation = useDeleteJobMutation();
+
+  const handleStatusChange = (jobId: string, newStatus: string) => {
+    updateJobMutation.mutate({ id: jobId, updates: { status: newStatus } });
+  };
+
+  const handleDeleteJob = (jobId: string) => {
+    deleteJobMutation.mutate(jobId);
+  };
+
+  return { handleStatusChange, handleDeleteJob };
+}
+
+/**
+ * Render jobs list with header
+ */
+function JobsList({ jobs, onStatusChange, onDeleteJob, userType }: {
+  jobs: any[];
+  onStatusChange: (id: string, status: string) => void;
+  onDeleteJob: (id: string) => void;
+  userType?: string;
+}) {
+  const { t } = useTranslation();
+  const { user } = useApp();
+
+  return (
+    <div className="space-y-6">
+      {jobs.map((job) => (
+        <JobCard
+          key={job.id}
+          job={job}
+          onStatusChange={onStatusChange}
+          onDeleteJob={onDeleteJob}
+          userType={userType}
+          distributionId={job.distributionId}
+        />
+      ))}
+
+      {jobs.length === 0 && (
+        <div className="text-center py-12 bg-card rounded-lg border p-8">
+          <p className="text-muted-foreground mb-4">
+            {t('myJobs.noJobs')}
+          </p>
+          {(user && user.userType === 'BEDRIJF') && (
+            <SubscriptionProtectedButton
+              targetPath="/jobs/new"
+            >
+              <Plus className="h-4 w-4 mr-2" />
+              {t('myJobs.createFirst')}
+            </SubscriptionProtectedButton>
+          )}
+        </div>
+      )}
+    </div>
+  );
+}
+
+/**
+ * My Jobs page component
+ */
+export default function MyJobsPage() {
+  const { user } = useApp();
+  const { t } = useTranslation();
+  const { data: jobs, isLoading } = useUserJobs(!!user, user?.userType);
+  const { handleStatusChange, handleDeleteJob } = useJobHandlers();
+
+  if (!user) {
+    return <AuthRequired />;
+  }
+
+  if (isLoading) {
+    return <JobsLoadingState />;
+  }
+
+  return (
+    <PageWrapper>
+      <div className="min-h-screen bg-gradient-to-br from-background to-muted/20">
+        <div className="container mx-auto px-4 py-8">
+          {/* Header */}
+          <div className="flex justify-between items-center mb-8">
+            <div>
+              <h1 className="text-3xl font-bold mb-2 text-foreground">{t('myJobs.title')}</h1>
+              <p className="text-muted-foreground">{t('myJobs.subtitle')}</p>
+            </div>
+            {(user && user.userType === 'BEDRIJF') && (
+              <SubscriptionProtectedButton
+                targetPath="/jobs/new"
+                data-testid="button-create-job"
+              >
+                <Plus className="h-4 w-4 mr-2" />
+                {t('myJobs.newJob')}
+              </SubscriptionProtectedButton>
+            )}
+          </div>
+
+          {/* Content */}
+          {user.userType === 'ZZP' ? (
+            <div className="text-center py-12 bg-card rounded-lg border p-8">
+              <p className="text-muted-foreground mb-4">{t('myJobs.noPostJobs')}</p>
+              <Link to="/jobs">
+                <Button data-testid="button-browse-jobs">
+                  {t('myJobs.browseJobs')}
+                </Button>
+              </Link>
+            </div>
+          ) : (
+            <JobsList
+              jobs={jobs || []}
+              onStatusChange={handleStatusChange}
+              onDeleteJob={handleDeleteJob}
+              userType={user.userType}
+            />
+          )}
+        </div>
+      </div>
+    </PageWrapper>
+  );
+}

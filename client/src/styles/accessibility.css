@@ -1,0 +1,363 @@
+/* WCAG 2.1 AA Accessibility Enhancements */
+
+/* 1. Focus Indicators - WCAG 2.4.7 */
+:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+}
+
+/* Ensure all interactive elements have visible focus */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+[role="button"]:focus-visible,
+[role="link"]:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  :focus-visible {
+    outline-width: 3px;
+  }
+}
+
+/* 2. Skip Navigation Link - WCAG 2.4.1 */
+.skip-nav {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: var(--background);
+  color: var(--foreground);
+  padding: 8px;
+  text-decoration: none;
+  z-index: 100;
+  border-radius: var(--radius);
+}
+
+.skip-nav:focus {
+  top: 8px;
+  left: 8px;
+}
+
+/* 3. Reduced Motion Support - WCAG 2.3.3 */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  /* Disable smooth scrolling */
+  html {
+    scroll-behavior: auto !important;
+  }
+}
+
+/* 4. Touch Target Size - WCAG 2.5.5 */
+@media (pointer: coarse) {
+  /* Ensure minimum 44x44px touch targets on mobile */
+  button,
+  a,
+  input[type="checkbox"],
+  input[type="radio"],
+  [role="button"],
+  [role="link"] {
+    min-height: 44px;
+    min-width: 44px;
+  }
+
+  /* For icon-only buttons */
+  button.h-8,
+  button.h-9 {
+    min-height: 44px !important;
+    min-width: 44px !important;
+  }
+}
+
+/* 5. Text Spacing - WCAG 1.4.12 */
+/* Allow users to override text spacing without breaking layout */
+* {
+  line-height: inherit !important;
+  letter-spacing: inherit !important;
+  word-spacing: inherit !important;
+}
+
+p,
+li {
+  margin-bottom: inherit !important;
+}
+
+/* 6. Disabled State Contrast */
+button:disabled,
+input:disabled,
+select:disabled,
+textarea:disabled,
+.disabled {
+  opacity: 0.7; /* Ensures minimum contrast while indicating disabled state */
+  cursor: not-allowed;
+}
+
+/* 7. Error State Visibility */
+.error,
+[aria-invalid="true"] {
+  border-color: var(--destructive) !important;
+  border-width: 2px !important;
+}
+
+.error-message,
+[role="alert"] {
+  color: var(--destructive);
+  font-weight: 500;
+}
+
+/* 8. Link Underlines for Better Visibility */
+a:not(.no-underline) {
+  text-underline-offset: 2px;
+  text-decoration-thickness: 1px;
+}
+
+a:hover:not(.no-underline) {
+  text-decoration-thickness: 2px;
+}
+
+/* 9. Form Label Association */
+label {
+  display: block;
+  margin-bottom: 0.25rem;
+  font-weight: 500;
+}
+
+/* Required field indicators */
+label.required::after {
+  content: " *";
+  color: var(--destructive);
+  font-weight: bold;
+}
+
+/* 10. Table Headers */
+th {
+  font-weight: 600;
+  text-align: left;
+}
+
+th[scope="col"] {
+  vertical-align: bottom;
+}
+
+th[scope="row"] {
+  text-align: left;
+}
+
+/* 11. Screen Reader Only Class */
+.sr-only:not(:focus):not(:active) {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* 12. Loading States */
+[aria-busy="true"] {
+  cursor: wait;
+}
+
+.loading-spinner[role="status"] {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* 13. Keyboard Navigation Indicators */
+.keyboard-only:not(:focus) {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* 14. High Contrast Borders */
+@media (prefers-contrast: high) {
+  button,
+  input,
+  select,
+  textarea,
+  .card,
+  .dialog {
+    border: 1px solid currentColor !important;
+  }
+}
+
+/* 15. Print Styles for Accessibility */
+@media print {
+  /* Ensure links are visible in print */
+  a[href]::after {
+    content: " (" attr(href) ")";
+  }
+
+  /* Hide decorative elements */
+  .decorative,
+  [aria-hidden="true"] {
+    display: none !important;
+  }
+}
+
+/* 16. Color Contrast Fixes for Specific Components */
+
+/* Fix for secondary text that might be too light */
+.text-muted-foreground {
+  color: var(--muted-foreground) !important;
+}
+
+/* Fix for links in accent color */
+.text-accent-foreground {
+  color: var(--accent-foreground) !important;
+}
+
+/* Ensure sufficient contrast for placeholder text */
+::placeholder {
+  color: var(--muted-foreground);
+  opacity: 0.9;
+}
+
+/* 17. Focus Trap for Modals */
+[role="dialog"] {
+  /* Ensure focus stays within dialog */
+  isolation: isolate;
+}
+
+/* 18. Announcement Region */
+.announcement-region[role="status"],
+.announcement-region[role="alert"] {
+  position: absolute;
+  left: -10000px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+/* 19. Improved Button States */
+button {
+  position: relative;
+  overflow: hidden;
+}
+
+/* Visual feedback for button press */
+button:active:not(:disabled) {
+  transform: scale(0.98);
+}
+
+/* 20. Form Validation States */
+input[aria-invalid="true"],
+select[aria-invalid="true"],
+textarea[aria-invalid="true"] {
+  border-color: var(--destructive);
+}
+
+input[aria-invalid="false"],
+select[aria-invalid="false"],
+textarea[aria-invalid="false"] {
+  border-color: hsl(142 76% 36%); /* Success green */
+}
+
+/* 21. Responsive Font Sizes for Readability */
+@media (max-width: 640px) {
+  body {
+    font-size: 16px; /* Prevent zoom on iOS */
+  }
+
+  input,
+  select,
+  textarea {
+    font-size: 16px; /* Prevent zoom on iOS */
+  }
+}
+
+/* 22. Ensure Interactive Elements Are Not Too Close */
+.button-group > * + * {
+  margin-left: 0.5rem;
+}
+
+@media (pointer: coarse) {
+  .button-group > * + * {
+    margin-left: 0.75rem;
+  }
+}
+
+/* 23. Improve Readability */
+body {
+  font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* Maximum line length for better readability */
+.prose {
+  max-width: 65ch;
+}
+
+/* 24. Ensure Icons Have Proper Roles */
+svg[role="img"] {
+  /* Icons used as images should have titles */
+}
+
+svg[aria-hidden="true"] {
+  /* Decorative icons should not be focusable */
+  focusable: false;
+}
+
+/* 25. Loading Skeleton Accessibility */
+.skeleton[role="status"] {
+  /* Ensure skeletons are announced as loading */
+  position: relative;
+}
+
+.skeleton[role="status"]::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.2),
+    transparent
+  );
+  animation: skeleton-loading 1.5s infinite;
+}
+
+@keyframes skeleton-loading {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+/* Disable animation in reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .skeleton[role="status"]::after {
+    animation: none;
+  }
+}

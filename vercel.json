@@ -1,0 +1,33 @@
+{
+  "framework": "vite",
+  "buildCommand": "bash vercel-build.sh",
+  "outputDirectory": "client/dist",
+  "installCommand": "npm install --legacy-peer-deps",
+  "devCommand": "npm run dev",
+  "env": {
+    "VITE_API_URL": "https://api.vacature-orbit.nl",
+    "VITE_MOCK_MODE": "true",
+    "VITE_DESIGN_MODE": "true"
+  },
+  "build": {
+    "env": {
+      "VITE_API_URL": "https://api.vacature-orbit.nl",
+      "VITE_MOCK_MODE": "true",
+      "VITE_DESIGN_MODE": "true",
+      "NODE_VERSION": "20"
+    }
+  },
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "X-Frame-Options", "value": "DENY" },
+        { "key": "X-XSS-Protection", "value": "1; mode=block" }
+      ]
+    }
+  ]
+}
