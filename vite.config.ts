@@ -25,11 +25,19 @@ export default defineConfig({
     host: true,
     port: 5174,
   },
+  optimizeDeps: {
+    include: ["react", "react-dom", "@uppy/core", "@uppy/aws-s3"],
+    force: true,
+  },
   build: {
     outDir: "dist",
     emptyOutDir: true,
     sourcemap: false,
     minify: false,
+    commonjsOptions: {
+      include: [/node_modules/],
+      transformMixedEsModules: true,
+    },
     rollupOptions: {
       onwarn(warning, warn) {
         // Ignore all warnings for design mode
@@ -40,9 +48,5 @@ export default defineConfig({
         manualChunks: undefined,
       },
     },
-  },
-  optimizeDeps: {
-    include: ["react", "react-dom"],
-    force: true,
   },
 });
