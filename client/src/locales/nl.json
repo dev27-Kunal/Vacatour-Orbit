@@ -2784,5 +2784,105 @@
     "positiveReviews": "Positieve beoordelingen (4-5★)",
     "neutralReviews": "Neutrale beoordelingen (3★)",
     "negativeReviews": "Negatieve beoordelingen (1-2★)"
+  },
+  "newLanding": {
+    "hero": {
+      "badge": "Het nieuwe recruitment platform van Nederland",
+      "title": "Vacature ORBIT",
+      "subtitle": "Het complete recruitment platform voor iedereen in de arbeidsmarkt"
+    },
+    "features": {
+      "pushNotifications": "Push Notifications",
+      "videoInterviews": "Video Interviews",
+      "guestChat": "Guest Chat",
+      "fileSharing": "File Sharing",
+      "groupChat": "Group Chat"
+    },
+    "platformFeatures": {
+      "badge": "Platform Features",
+      "title": "De marktplaats voor talent",
+      "subtitle": "Sneller de juiste kandidaat vinden met ons complete recruitment platform",
+      "startTrial": "Start Gratis Trial",
+      "viewCandidates": "Bekijk Kandidaten"
+    },
+    "jobCards": {
+      "directCommunication": {
+        "title": "Directe Communicatie",
+        "description": "Chat direct met kandidaten en recruiters via ons messaging platform.",
+        "features": [
+          "Real-time chat met push notificaties",
+          "Video interviews direct vanuit chat",
+          "Deel CV's en documenten veilig",
+          "Groepsgesprekken met hiring team",
+          "Track alle communicatie geschiedenis"
+        ]
+      },
+      "smartMatching": {
+        "title": "Smart Matching",
+        "description": "Afgestemde matching voor de perfecte kandidaat-vacature kombinatie.",
+        "features": [
+          "95% nauwkeurigheid matching",
+          "Automatische kandidaat suggesties",
+          "Skills-based matching",
+          "Beschikbaarheids- en salaris matching",
+          "Diversiteitsaanbevelingen"
+        ]
+      },
+      "analytics": {
+        "title": "Analytics & Insights",
+        "description": "Krijg inzicht in je recruitment proces met geavanceerde analytics.",
+        "features": [
+          "Time-to-hire metrics",
+          "Kanaalrendement analyse",
+          "Conversie rapportages",
+          "Campusie rapporten",
+          "Interview performance tracking"
+        ]
+      }
+    },
+    "benefits": {
+      "fasterHiring": "Sneller vacatures invullen",
+      "lowerCosts": "Lagere recruitment kosten",
+      "betterMatches": "Betere match kwaliteit",
+      "gdprCompliant": "GDPR compliant"
+    },
+    "platformFeaturesForEveryone": {
+      "title": "Platform Features voor Iedereen",
+      "subtitle": "Alles wat je nodig hebt voor succesvol recruitment",
+      "pushNotifications": {
+        "name": "Push Notificaties",
+        "description": "Mis nooit een belangrijk update"
+      },
+      "videoInterviews": {
+        "name": "Video Interviews",
+        "description": "Gratis video gesprekken via ons"
+      },
+      "guestChat": {
+        "name": "Guest Chat",
+        "description": "Chat zonder account met kandidaten"
+      },
+      "fileSharing": {
+        "name": "File Sharing",
+        "description": "Deel CV's en documenten veilig"
+      },
+      "groupChat": {
+        "name": "Group Chat",
+        "description": "Hiring team gesprekken"
+      }
+    },
+    "cta": {
+      "badge": "Start vandaag nog",
+      "title": "Klaar om te beginnen?",
+      "company": "Ik ben een Bedrijf",
+      "recruiter": "Ik ben een Recruiter",
+      "freelancer": "Ik ben ZZP'er",
+      "noCreditCard": "Geen creditcard nodig",
+      "freeTrial": "14 dagen gratis trial",
+      "cancelAnytime": "Cancel anytime",
+      "subtitle": "Kies je rol en start vandaag nog - volledig gratis!"
+    },
+    "footer": {
+      "copyright": "© 2025 Vacature ORBIT. All rights reserved."
+    }
   }
 }

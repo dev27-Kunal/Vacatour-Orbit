@@ -248,6 +248,7 @@ function Router() {
 
           {/* Homepage Routes */}
           <Route path="/old-homepage" component={TalentMarktLanding} />
+          <Route path="/prev-homepage" component={NewHomepage} />
           <Route path="/" component={NewLandingpage} />
           <Route component={NotFound} />
         </Switch>

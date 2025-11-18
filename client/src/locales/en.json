@@ -2744,5 +2744,105 @@
     "positiveReviews": "Positive reviews (4-5★)",
     "neutralReviews": "Neutral reviews (3★)",
     "negativeReviews": "Negative reviews (1-2★)"
+  },
+  "newLanding": {
+    "hero": {
+      "badge": "The new recruitment platform of the Netherlands",
+      "title": "Vacature ORBIT",
+      "subtitle": "The complete recruitment platform for everyone in the job market"
+    },
+    "features": {
+      "pushNotifications": "Push Notifications",
+      "videoInterviews": "Video Interviews",
+      "guestChat": "Guest Chat",
+      "fileSharing": "File Sharing",
+      "groupChat": "Group Chat"
+    },
+    "platformFeatures": {
+      "badge": "Platform Features",
+      "title": "The marketplace for talent",
+      "subtitle": "Find the right candidate faster with our complete recruitment platform",
+      "startTrial": "Start Free Trial",
+      "viewCandidates": "View Candidates"
+    },
+    "jobCards": {
+      "directCommunication": {
+        "title": "Direct Communication",
+        "description": "Chat directly with candidates and recruiters through our messaging platform.",
+        "features": [
+          "Real-time chat with push notifications",
+          "Video interviews directly from chat",
+          "Share CVs and documents securely",
+          "Group conversations with hiring team",
+          "Track all communication history"
+        ]
+      },
+      "smartMatching": {
+        "title": "Smart Matching",
+        "description": "AI-powered matching for the perfect candidate-vacancy combination.",
+        "features": [
+          "95% accurate matching",
+          "Automatic candidate suggestions",
+          "Skills-based matching",
+          "Availability & salary matching",
+          "Diversity recommendations"
+        ]
+      },
+      "analytics": {
+        "title": "Analytics & Insights",
+        "description": "Get insights into your recruitment process with advanced analytics.",
+        "features": [
+          "Time-to-hire metrics",
+          "Channel ROI analysis",
+          "Conversion reports",
+          "Candidate reports",
+          "Interview performance tracking"
+        ]
+      }
+    },
+    "benefits": {
+      "fasterHiring": "Fill vacancies faster",
+      "lowerCosts": "Lower recruitment costs",
+      "betterMatches": "Better match quality",
+      "gdprCompliant": "GDPR compliant"
+    },
+    "platformFeaturesForEveryone": {
+      "title": "Platform Features for Everyone",
+      "subtitle": "Everything you need for successful recruitment",
+      "pushNotifications": {
+        "name": "Push Notifications",
+        "description": "Never miss an important update"
+      },
+      "videoInterviews": {
+        "name": "Video Interviews",
+        "description": "Free video conversations through us"
+      },
+      "guestChat": {
+        "name": "Guest Chat",
+        "description": "Chat without account with candidates"
+      },
+      "fileSharing": {
+        "name": "File Sharing",
+        "description": "Share CVs and documents securely"
+      },
+      "groupChat": {
+        "name": "Group Chat",
+        "description": "Hiring team conversations"
+      }
+    },
+    "cta": {
+      "badge": "Start today",
+      "title": "Ready to get started?",
+      "company": "I am a Company",
+      "recruiter": "I am a Recruiter",
+      "freelancer": "I am a Freelancer",
+      "noCreditCard": "No credit card needed",
+      "freeTrial": "14 days free trial",
+      "cancelAnytime": "Cancel anytime",
+      "subtitle": "Choose your role and start today - completely free!"
+    },
+    "footer": {
+      "copyright": "© 2025 Vacature ORBIT. All rights reserved."
+    }
   }
 }

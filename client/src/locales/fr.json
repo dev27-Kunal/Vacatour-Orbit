@@ -2684,5 +2684,105 @@
         "secondary": "Voir les offres"
       }
     }
+  },
+  "newLanding": {
+    "hero": {
+      "badge": "La nouvelle plateforme de recrutement des Pays-Bas",
+      "title": "Vacature ORBIT",
+      "subtitle": "La plateforme de recrutement complète pour tous sur le marché du travail"
+    },
+    "features": {
+      "pushNotifications": "Notifications push",
+      "videoInterviews": "Entretiens vidéo",
+      "guestChat": "Chat invité",
+      "fileSharing": "Partage de fichiers",
+      "groupChat": "Chat de groupe"
+    },
+    "platformFeatures": {
+      "badge": "Fonctionnalités de la plateforme",
+      "title": "La place de marché des talents",
+      "subtitle": "Trouvez le bon candidat plus rapidement avec notre plateforme de recrutement complète",
+      "startTrial": "Commencer l'essai gratuit",
+      "viewCandidates": "Voir les candidats"
+    },
+    "jobCards": {
+      "directCommunication": {
+        "title": "Communication directe",
+        "description": "Chattez directement avec les candidats et les recruteurs via notre plateforme de messagerie.",
+        "features": [
+          "Chat en temps réel avec notifications push",
+          "Entretiens vidéo directement depuis le chat",
+          "Partagez les CV et documents en toute sécurité",
+          "Conversations de groupe avec l'équipe de recrutement",
+          "Suivez tout l'historique de communication"
+        ]
+      },
+      "smartMatching": {
+        "title": "Appariement intelligent",
+        "description": "Appariement alimenté par l'IA pour la combinaison parfaite candidat-poste.",
+        "features": [
+          "Appariement précis à 95%",
+          "Suggestions automatiques de candidats",
+          "Appariement basé sur les compétences",
+          "Appariement disponibilité et salaire",
+          "Recommandations de diversité"
+        ]
+      },
+      "analytics": {
+        "title": "Analyses et insights",
+        "description": "Obtenez des insights sur votre processus de recrutement avec des analyses avancées.",
+        "features": [
+          "Métriques de délai d'embauche",
+          "Analyse du ROI des canaux",
+          "Rapports de conversion",
+          "Rapports sur les candidats",
+          "Suivi des performances des entretiens"
+        ]
+      }
+    },
+    "benefits": {
+      "fasterHiring": "Remplir les postes plus rapidement",
+      "lowerCosts": "Coûts de recrutement réduits",
+      "betterMatches": "Meilleure qualité d'appariement",
+      "gdprCompliant": "Conforme au RGPD"
+    },
+    "platformFeaturesForEveryone": {
+      "title": "Fonctionnalités de la plateforme pour tous",
+      "subtitle": "Tout ce dont vous avez besoin pour un recrutement réussi",
+      "pushNotifications": {
+        "name": "Notifications push",
+        "description": "Ne manquez jamais une mise à jour importante"
+      },
+      "videoInterviews": {
+        "name": "Entretiens vidéo",
+        "description": "Conversations vidéo gratuites via nous"
+      },
+      "guestChat": {
+        "name": "Chat invité",
+        "description": "Chattez sans compte avec les candidats"
+      },
+      "fileSharing": {
+        "name": "Partage de fichiers",
+        "description": "Partagez les CV et documents en toute sécurité"
+      },
+      "groupChat": {
+        "name": "Chat de groupe",
+        "description": "Conversations de l'équipe de recrutement"
+      }
+    },
+    "cta": {
+      "badge": "Commencer aujourd'hui",
+      "title": "Prêt à commencer ?",
+      "company": "Je suis une entreprise",
+      "recruiter": "Je suis un recruteur",
+      "freelancer": "Je suis freelance",
+      "noCreditCard": "Aucune carte de crédit requise",
+      "freeTrial": "Essai gratuit de 14 jours",
+      "cancelAnytime": "Annulation à tout moment",
+      "subtitle": "Choisissez votre rôle et commencez aujourd'hui - entièrement gratuit !"
+    },
+    "footer": {
+      "copyright": "© 2025 Vacature ORBIT. Tous droits réservés."
+    }
   }
 }

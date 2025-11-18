@@ -2684,5 +2684,105 @@
         "secondary": "Jobs ansehen"
       }
     }
+  },
+  "newLanding": {
+    "hero": {
+      "badge": "Die neue Rekrutierungsplattform der Niederlande",
+      "title": "Vacature ORBIT",
+      "subtitle": "Die vollständige Rekrutierungsplattform für alle auf dem Arbeitsmarkt"
+    },
+    "features": {
+      "pushNotifications": "Push-Benachrichtigungen",
+      "videoInterviews": "Video-Interviews",
+      "guestChat": "Gast-Chat",
+      "fileSharing": "Dateifreigabe",
+      "groupChat": "Gruppen-Chat"
+    },
+    "platformFeatures": {
+      "badge": "Plattform-Funktionen",
+      "title": "Der Marktplatz für Talente",
+      "subtitle": "Finden Sie schneller den richtigen Kandidaten mit unserer vollständigen Rekrutierungsplattform",
+      "startTrial": "Kostenlose Testversion starten",
+      "viewCandidates": "Kandidaten ansehen"
+    },
+    "jobCards": {
+      "directCommunication": {
+        "title": "Direkte Kommunikation",
+        "description": "Chatten Sie direkt mit Kandidaten und Recruitern über unsere Messaging-Plattform.",
+        "features": [
+          "Echtzeit-Chat mit Push-Benachrichtigungen",
+          "Video-Interviews direkt aus dem Chat",
+          "CVs und Dokumente sicher teilen",
+          "Gruppengespräche mit dem Einstellungsteam",
+          "Verfolgen Sie die gesamte Kommunikationshistorie"
+        ]
+      },
+      "smartMatching": {
+        "title": "Intelligentes Matching",
+        "description": "KI-gestütztes Matching für die perfekte Kandidat-Stellen-Kombination.",
+        "features": [
+          "95% genaues Matching",
+          "Automatische Kandidatenvorschläge",
+          "Fähigkeitsbasiertes Matching",
+          "Verfügbarkeits- und Gehalts-Matching",
+          "Vielfaltsempfehlungen"
+        ]
+      },
+      "analytics": {
+        "title": "Analysen & Einblicke",
+        "description": "Gewinnen Sie Einblicke in Ihren Rekrutierungsprozess mit erweiterten Analysen.",
+        "features": [
+          "Time-to-Hire-Metriken",
+          "Kanal-ROI-Analyse",
+          "Konversionsberichte",
+          "Kandidatenberichte",
+          "Interview-Leistungsverfolgung"
+        ]
+      }
+    },
+    "benefits": {
+      "fasterHiring": "Stellen schneller besetzen",
+      "lowerCosts": "Niedrigere Rekrutierungskosten",
+      "betterMatches": "Bessere Match-Qualität",
+      "gdprCompliant": "DSGVO-konform"
+    },
+    "platformFeaturesForEveryone": {
+      "title": "Plattform-Funktionen für alle",
+      "subtitle": "Alles, was Sie für erfolgreiche Rekrutierung benötigen",
+      "pushNotifications": {
+        "name": "Push-Benachrichtigungen",
+        "description": "Verpassen Sie nie ein wichtiges Update"
+      },
+      "videoInterviews": {
+        "name": "Video-Interviews",
+        "description": "Kostenlose Videogespräche über uns"
+      },
+      "guestChat": {
+        "name": "Gast-Chat",
+        "description": "Chatten Sie ohne Konto mit Kandidaten"
+      },
+      "fileSharing": {
+        "name": "Dateifreigabe",
+        "description": "CVs und Dokumente sicher teilen"
+      },
+      "groupChat": {
+        "name": "Gruppen-Chat",
+        "description": "Einstellungsteam-Gespräche"
+      }
+    },
+    "cta": {
+      "badge": "Heute starten",
+      "title": "Bereit loszulegen?",
+      "company": "Ich bin ein Unternehmen",
+      "recruiter": "Ich bin ein Recruiter",
+      "freelancer": "Ich bin Freelancer",
+      "noCreditCard": "Keine Kreditkarte erforderlich",
+      "freeTrial": "14 Tage kostenlose Testversion",
+      "cancelAnytime": "Jederzeit kündbar",
+      "subtitle": "Wählen Sie Ihre Rolle und starten Sie heute - völlig kostenlos!"
+    },
+    "footer": {
+      "copyright": "© 2025 Vacature ORBIT. Alle Rechte vorbehalten."
+    }
   }
 }

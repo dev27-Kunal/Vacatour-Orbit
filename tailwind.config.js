@@ -60,8 +60,33 @@ export default {
           "linear-gradient(135deg, #05DF72 0%, #00A63E 100%)",
         heroTabGradientPurple:
           "linear-gradient(135deg, #C27AFF 0%, #9810FA 100%)",
-        heroTabGradientRed:
-          "linear-gradient(135deg, #FF6467 0%, #E7000B 100%)",
+        heroTabGradientRed: "linear-gradient(135deg, #FF6467 0%, #E7000B 100%)",
+        lastSectionGradient:
+          "linear-gradient(90deg, #155DFC 0%, #9810FA 50%, #E60076 100%)",
+        jobsSectionBtnGradient:
+          "linear-gradient(90deg, #9810FA 0%, #155DFC 100%)",
+        jobsFirstCardIconGradient:
+          "linear-gradient(135deg, #00C950 0%, #00A63E 100%)",
+        jobsFirstCardArcGradient:
+          "linear-gradient(135deg, rgba(0, 201, 80, 0.1) 0%, rgba(0, 201, 80, 0) 100%)",
+        jobsSecondCardIconGradient:
+          "linear-gradient(135deg, #FF6900 0%, #F54900 100%)",
+        jobsSecondCardArcGradient:
+          "linear-gradient(135deg, rgba(255, 105, 0, 0.1) 0%, rgba(255, 105, 0, 0) 100%)",
+        jobsThirdCardIconGradient:
+          "linear-gradient(135deg, #F6339A 0%, #E60076 100%)",
+        jobsThirdCardArcGradient:
+          "linear-gradient(135deg, rgba(246, 51, 154, 0.1) 0%, rgba(246, 51, 154, 0) 100%)",
+        jobsFourthPercentageBg:
+          "linear-gradient(135deg, #FB2C36 0%, #E7000B 100%)",
+        jobsFirstPercentageColor:
+          "linear-gradient(90deg, #155DFC 0%, #1447E6 100%)",
+        jobsSecondPercentageColor:
+          "linear-gradient(90deg, #00A63E 0%, #008236 100%)",
+        jobsThirdPercentageColor:
+          "linear-gradient(90deg, #9810FA 0%, #8200DB 100%)",
+        jobsFourthPercentageColor:
+          "linear-gradient(90deg, #E7000B 0%, #C10007 100%)",
       },
       borderRadius: {
         lg: `var(--radius)`,
