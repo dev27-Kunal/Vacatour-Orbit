@@ -87,6 +87,30 @@ export default {
           "linear-gradient(90deg, #9810FA 0%, #8200DB 100%)",
         jobsFourthPercentageColor:
           "linear-gradient(90deg, #E7000B 0%, #C10007 100%)",
+        recruiterTitleGradient:
+          "linear-gradient(90deg, rgba(245, 73, 0, 0.1) 0%, rgba(231, 0, 11, 0.1) 100%)",
+        recruiterFirstCardBgGradient:
+          "linear-gradient(135deg, #FEF2F2 0%, #ECFDF5 100%)",
+        recruiterSecondCardIconGradient:
+          "linear-gradient(135deg, #00C950 0%, #009966 100%)",
+        recruiterFeatureFirstArcIcon:
+          "linear-gradient(135deg, rgba(173, 70, 255, 0.1) 0%, rgba(173, 70, 255, 0) 100%)",
+        recruiterFeatureSecondArcIcon:
+          "linear-gradient(135deg, rgba(43, 127, 255, 0.1) 0%, rgba(43, 127, 255, 0) 100%)",
+        recruiterFeatureThirdArcIcon:
+          "linear-gradient(135deg, rgba(97, 95, 255, 0.1) 0%, rgba(97, 95, 255, 0) 100%)",
+        recruiterThirdSectionBg:
+          "linear-gradient(135deg, #155DFC 0%, #4F39F6 50%, #8200DB 100%)",
+        SelfEmployedTitleGradient:
+          "linear-gradient(90deg, rgba(0, 166, 62, 0.1) 0%, rgba(21, 93, 252, 0.1) 100%)",
+        SelfEmployedThirdSectionBg:
+          "linear-gradient(135deg, #9810FA 0%, #8200DB 50%, #1447E6 100%)",
+        SelfEmployedYellowGradient:
+          "linear-gradient(135deg, #FDC700 0%, #FF6900 100%)",
+        SelfEmployedGreenGradient:
+          "linear-gradient(135deg, #05DF72 0%, #00BC7D 100%)",
+        SelfEmployedLastSectionBg:
+          "linear-gradient(90deg, #F1E8FF 0%, #DCEAFE 100%)",
       },
       borderRadius: {
         lg: `var(--radius)`,

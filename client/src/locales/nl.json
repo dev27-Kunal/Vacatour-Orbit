@@ -2786,6 +2786,12 @@
     "negativeReviews": "Negatieve beoordelingen (1-2★)"
   },
   "newLanding": {
+    "header": {
+      "companies": "Bedrijven",
+      "recruiters": "Recruiters & Bureaus",
+      "freelancers": "ZZP'ers",
+      "navigation": "Navigatie"
+    },
     "hero": {
       "badge": "Het nieuwe recruitment platform van Nederland",
       "title": "Vacature ORBIT",
@@ -2883,6 +2889,141 @@
     },
     "footer": {
       "copyright": "© 2025 Vacature ORBIT. All rights reserved."
+    },
+    "recruiters": {
+      "badge": "Voor Recruiters",
+      "title": "Één platform, een grote pool met nieuwe klanten",
+      "subtitle": "Waarom je sneller werk kunt vinden of krijgen - Stop kapitaalvernietiging",
+      "startAsRecruiter": "Start als Recruiter",
+      "viewDemo": "Bekijk Demo",
+      "problem": {
+        "title": "Het Probleem",
+        "tag": "Probleem",
+        "description": "Je hebt 5 goede kandidaten zijn maar 4 vacatures. Deze aanvullende kandidaat gaan verloren omdat je ze nergens anders kwijt kant - pure kapitaalvernietiging!"
+      },
+      "solution": {
+        "title": "De Oplossing",
+        "tag": "De Oplossing",
+        "description": "Breif plaatsen kandidaten aan op onze shared marketplace. Voor welke functies je ze zoeken wilt geleverde jobs kant. We are kandidaat vindt dan baan, jij ook blauwe kunt verdienen!"
+      },
+      "features": {
+        "offerEverywhere": {
+          "title": "Kandidaten Overal Aanbieden",
+          "description": "Geen beperking tot één bureau. Bied kandidaten aan bij alle relevante vacatures.",
+          "items": [
+            "Automatisch de best voor jou",
+            "Onmisbare ideeën voor commissies",
+            "Bouw eigen klantennetsl op",
+            "Zelf ondernandelen over tarieven",
+            "Voor werknemers (weer) in"
+          ]
+        },
+        "professionalProfile": {
+          "title": "Professioneel Profiel",
+          "description": "Presenteer jezelf professioneel met een uitgebreid ZZP profiel.",
+          "items": [
+            "Portfolio & projecten",
+            "Skills & certificaten",
+            "Beschikbaarheids-calendar",
+            "Reviews & beoordelingen",
+            "AI vragengesprekvoor"
+          ]
+        },
+        "jobMatching": {
+          "title": "Opdracht Matching",
+          "description": "Ontvang alleen relevante opdrachten die bij jouw specifieke profiel passen.",
+          "items": [
+            "Real-time opdracht suggestions",
+            "Push notifications voor nieuwe matches",
+            "Berekenbaarheids filter",
+            "Locatie en salaries voorkeuren",
+            "Jaarring filters op skills & beschikbaarheid"
+          ]
+        }
+      },
+      "results": {
+        "title": "Resultaten van onze Recruiters",
+        "statistics": {
+          "candidatesPlaced": "85% van kandidaten geplaatst",
+          "newClients": "3.2x meer nieuwe klanten",
+          "platformCosts": "€0 platform kosten",
+          "presentCandidates": "24/7 kandidaten presenteren"
+        }
+      }
+    },
+    "selfEmployed": {
+      "badge": "Voor ZZP'ers",
+      "title": "Direct contact met meerdere eindklanten",
+      "subtitle": "Als ZZP'er vind je hier direct opdrachten zonder tussenpersonen",
+      "createProfile": "Maak ZZO Profiel",
+      "viewAssignments": "Bekijk Opdrachten",
+      "features": {
+        "directClients": {
+          "title": "Direct Opdrachtgevers",
+          "description": "Open business of herroepbaarheid - direct contact met bedrijven.",
+          "items": [
+            "Automatisch de best voor jou",
+            "Onmisbare ideeën voor commissies",
+            "Bouw eigen klantennetsl op",
+            "Zelf ondernandelen over tarieven",
+            "Voor werknemers (weer) in"
+          ]
+        },
+        "professionalProfile": {
+          "title": "Professioneel Profiel",
+          "description": "Presenteer jezelf professioneel met een uitgebreid ZZP profiel.",
+          "items": [
+            "Portfolio & projecten",
+            "Skills & certificaten",
+            "Beschikbaarheids-calendar",
+            "Reviews & beoordelingen",
+            "AI vragengesprekvoor"
+          ]
+        },
+        "assignmentMatching": {
+          "title": "Opdracht Matching",
+          "description": "Ontvang alleen relevante opdrachten die bij jouw specifieke profiel passen.",
+          "items": [
+            "Real-time opdracht suggestions",
+            "Push notifications voor nieuwe matches",
+            "Berekenbaarheids filtver",
+            "Locatie en salaries voorkeuren",
+            "Jaarring filters op skills & beschikbaarheid"
+          ]
+        }
+      },
+      "whyChoose": {
+        "badge": "Waarom kiezen voor ORBIT",
+        "title": "Waarom ZZP'ers kiezen voor Vacature ORBIT",
+        "subtitle": "Meer vrijheid, betere opdrachten, hogere tarieven",
+        "simple": {
+          "title": "Direct Opdrachtgevers",
+          "subtitle": "Geen gedoe, direct aan de slag",
+          "items": [
+            "Binnen 5 minuten info profiel aangemaakt",
+            "Direct aanbieden voor opdrachtgevers",
+            "Korte inregistratie procedures",
+            "Chat direct met bedrijven",
+            "Accepteer opdrachten met één klik"
+          ]
+        },
+        "secure": {
+          "title": "Veilig & Betrouwbaar",
+          "subtitle": "100% beschermd en compliant",
+          "items": [
+            "Geverifieerd bedrijven",
+            "Veilige betalings garanties",
+            "Contract templates beschikbaar",
+            "GDPR compliant database",
+            "Ondersteuning door onlin renumer wanneer nodig"
+          ]
+        }
+      },
+      "cta": {
+        "title": "Start vandaag nog met opdrachten vinden",
+        "description": "Geen verborgen kosten, geen commissies, geen gedoe. Gewoon direct contact met opdrachtgevers die jouw expertise zoeken.",
+        "button": "Registreer als ZZP'er - Gratis"
+      }
     }
   }
 }

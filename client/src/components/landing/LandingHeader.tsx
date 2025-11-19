@@ -8,6 +8,7 @@ import {
   Menu,
 } from "lucide-react";
 import { useLanguageContext } from "@/context/LanguageContext";
+import { useTranslation } from "react-i18next";
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -29,26 +30,31 @@ const languages = [
   { code: "fr", name: "Français", flag: "🇫🇷" },
 ];
 
-function LandingHeader() {
+interface LandingHeaderProps {
+  activeTab: number;
+  setActiveTab: (tab: number) => void;
+}
+
+function LandingHeader({ activeTab, setActiveTab }: LandingHeaderProps) {
   const { currentLanguage, changeLanguage } = useLanguageContext();
+  const { t } = useTranslation();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-  const [activeTab, setActiveTab] = useState(0);
   const currentLang =
     languages.find((lang) => lang.code === currentLanguage) || languages[0];
 
   const navigationButtons = [
     {
-      label: "Bedrijven",
+      label: t("newLanding.header.companies"),
       icon: <Briefcase className="text-white text-xl" />,
       gradient: "bg-violetGradient",
     },
     {
-      label: "Recruiters & Bureaus",
+      label: t("newLanding.header.recruiters"),
       icon: <Hospital className="text-white text-xl" />,
       gradient: "bg-blueGradient",
     },
     {
-      label: "ZZP'ers",
+      label: t("newLanding.header.freelancers"),
       icon: <Users className="text-white text-xl" />,
       gradient: "bg-darkBlueGradient",
     },
@@ -70,8 +76,16 @@ function LandingHeader() {
         {navigationButtons.map((btn, index) => (
           <button
             key={index}
-            onClick={() => setActiveTab(index)}
-            className={`flex items-center gap-2 sm:gap-3 justify-center py-3 sm:py-4 rounded-[14px] transition-all duration-200 ${
+            onClick={() => {
+              setActiveTab(index);
+              setTimeout(() => {
+                const scrollContainer = document.querySelector('.overflow-y-auto');
+                if (scrollContainer) {
+                  scrollContainer.scrollTo({ top: 0, behavior: 'smooth' });
+                }
+              }, 100);
+            }}
+            className={`flex items-center gap-2 sm:gap-3 justify-center py-3 sm:py-4 rounded-[14px] transition-all duration-200 cursor-pointer ${
               activeTab === index
                 ? "bg-headerActiveGradient"
                 : "hover:bg-gray-100"
@@ -139,7 +153,9 @@ function LandingHeader() {
       <Sheet open={mobileMenuOpen} onOpenChange={setMobileMenuOpen}>
         <SheetContent side="right" className="w-[300px] sm:w-[400px] bg-white">
           <SheetHeader>
-            <SheetTitle className="text-left">Navigation</SheetTitle>
+            <SheetTitle className="text-left">
+              {t("newLanding.header.navigation")}
+            </SheetTitle>
           </SheetHeader>
           <div className="flex flex-col gap-4 mt-8">
             {navigationButtons.map((btn, index) => (
@@ -148,8 +164,14 @@ function LandingHeader() {
                 onClick={() => {
                   setActiveTab(index);
                   setMobileMenuOpen(false);
+                  setTimeout(() => {
+                    const scrollContainer = document.querySelector('.overflow-y-auto');
+                    if (scrollContainer) {
+                      scrollContainer.scrollTo({ top: 0, behavior: 'smooth' });
+                    }
+                  }, 100);
                 }}
-                className={`flex items-center gap-3 justify-start py-4 px-4 rounded-[14px] w-full transition-all duration-200 ${
+                className={`flex items-center gap-3 justify-start py-4 px-4 rounded-[14px] w-full transition-all duration-200 cursor-pointer ${
                   activeTab === index
                     ? "bg-headerActiveGradient"
                     : "bg-gray-50 hover:bg-gray-100"

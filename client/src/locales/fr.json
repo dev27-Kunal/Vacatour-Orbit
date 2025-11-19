@@ -10,8 +10,7 @@
       "groupChat": "Group Chat"
     },
     "roi": {
-      "detailedTitle": "Detailed ROI Rankings"
-      ,
+      "detailedTitle": "Detailed ROI Rankings",
       "headers": {
         "rank": "Rank",
         "totalRevenue": "Total Revenue",
@@ -74,7 +73,7 @@
             "description": "Fill vacancies faster"
           },
           {
-            "title": "50% Cheaper", 
+            "title": "50% Cheaper",
             "description": "Lower recruitment costs"
           },
           {
@@ -113,7 +112,7 @@
           ]
         },
         "findClients": {
-          "title": "Find New Clients", 
+          "title": "Find New Clients",
           "description": "Transform rejected candidates into new business opportunities.",
           "items": [
             "Automatic lead generation",
@@ -178,7 +177,7 @@
           "description": "Present yourself professionally with a comprehensive freelancer profile.",
           "items": [
             "Portfolio & references",
-            "Skills & certifications", 
+            "Skills & certifications",
             "Availability calendar",
             "Video introduction possible",
             "AI suggestions to improve profile"
@@ -383,7 +382,7 @@
   },
   "userTypes": {
     "BEDRIJF": "Company",
-    "ZZP": "Freelancer", 
+    "ZZP": "Freelancer",
     "BUREAU": "Agency",
     "SOLLICITANT": "Job Seeker",
     "employer": "Company",
@@ -618,13 +617,13 @@
     "deleteError": "Error deleting job"
   },
   "jobDetail": {
-    "notFound": "Job not found", 
+    "notFound": "Job not found",
     "backToJobs": "Back to jobs"
   },
   "cv": {
     "currentCv": "Current CV uploaded",
     "download": "Download CV",
-    "delete": "Delete CV", 
+    "delete": "Delete CV",
     "upload": "Upload CV",
     "noCv": "No CV uploaded",
     "deleteConfirm": "Are you sure you want to delete your CV?"
@@ -717,7 +716,7 @@
     "messages": "Messages",
     "recentActivity": "Recent Activity"
   },
-  
+
   "jobAlerts": {
     "title": "Job Alerts",
     "description": "Receive email notifications for new jobs that match your preferences",
@@ -760,7 +759,7 @@
     "title": "Analytics",
     "subtitle": "View statistics and performance of your jobs"
   },
-  
+
   "cv": {
     "upload": "Upload CV",
     "download": "Download CV",
@@ -775,7 +774,7 @@
   "applications": {
     "statusNew": "New",
     "statusViewed": "Viewed",
-    "statusShortlist": "Shortlist", 
+    "statusShortlist": "Shortlist",
     "statusRejected": "Rejected",
     "statusInterview": "Interview",
     "statusPlaced": "Placed",
@@ -796,7 +795,7 @@
     "ratingDistribution": "Rating Distribution",
     "ratingInsights": "Rating Insights"
   },
-  
+
   "verification": {
     "title": "Company Verification",
     "status": "Verification status",
@@ -978,8 +977,7 @@
       "submitCandidate": "Submit Candidate",
       "summary": "Showing {shown} of {total} jobs",
       "avgMatch": "Average Match Score: {score}%"
-    }
-    ,
+    },
     "messages": {
       "description": "Communicate with companies about job assignments and candidates",
       "inboxTitle": "Messages",
@@ -1202,9 +1200,18 @@
     "howItWorks": {
       "title": "How Email Notifications Work",
       "items": {
-        "newMessages": { "title": "New Messages", "desc": "Automatic email when you receive a new message" },
-        "newApplications": { "title": "New Applications", "desc": "Email notification for new applications on your jobs" },
-        "statusUpdates": { "title": "Status Updates", "desc": "Notifications when application status changes" }
+        "newMessages": {
+          "title": "New Messages",
+          "desc": "Automatic email when you receive a new message"
+        },
+        "newApplications": {
+          "title": "New Applications",
+          "desc": "Email notification for new applications on your jobs"
+        },
+        "statusUpdates": {
+          "title": "Status Updates",
+          "desc": "Notifications when application status changes"
+        }
       }
     },
     "privacy": {
@@ -1315,8 +1322,7 @@
         "diversity": "Indicateurs de diversité",
         "forecast": "Prévisions"
       }
-    }
-    ,
+    },
     "autoReject": {
       "title": "Règles de rejet automatique",
       "subtitle": "Rejeter automatiquement les candidatures qui ne répondent pas à vos critères",
@@ -1371,8 +1377,14 @@
         "conversionRateDesc": "E-mail vers candidature"
       },
       "overview": {
-        "emailPerformance": {"title": "Performances des e-mails", "desc": "Statistiques quotidiennes et engagement"},
-        "funnel": {"title": "Entonnoir e-mail vers candidature", "desc": "Parcours utilisateur de l’e-mail à la candidature"}
+        "emailPerformance": {
+          "title": "Performances des e-mails",
+          "desc": "Statistiques quotidiennes et engagement"
+        },
+        "funnel": {
+          "title": "Entonnoir e-mail vers candidature",
+          "desc": "Parcours utilisateur de l’e-mail à la candidature"
+        }
       },
       "stages": {
         "emailsSent": "E-mails envoyés",
@@ -1428,7 +1440,7 @@
         "title": "Forfaits d’abonnement",
         "desc": "Répartition des abonnés par type de forfait"
       },
-      "plans": {"basic": "Basic", "pro": "Pro", "enterprise": "Enterprise"},
+      "plans": { "basic": "Basic", "pro": "Pro", "enterprise": "Enterprise" },
       "engagement": {
         "heatmapTitle": "Carte de chaleur de l’activité utilisateur",
         "heatmapDesc": "Visualiser l’engagement par heure et par jour",
@@ -1733,7 +1745,11 @@
       "signer": "Signataire :",
       "you": "Vous",
       "date": "Date :",
-      "method": {"draw": "Signature dessinée", "type": "Signature tapée", "upload": "Signature téléversée"},
+      "method": {
+        "draw": "Signature dessinée",
+        "type": "Signature tapée",
+        "upload": "Signature téléversée"
+      },
       "signing": "Signature en cours...",
       "finalize": "Finaliser la signature"
     }
@@ -1741,7 +1757,12 @@
   "msa": {
     "subtitle": "Gérer les Master Service Agreements avec des cabinets de recrutement",
     "backToOverview": "Retour à l'aperçu",
-    "tabs": {"overview": "Aperçu", "documents": "Documents", "signing": "Signature", "history": "Historique"},
+    "tabs": {
+      "overview": "Aperçu",
+      "documents": "Documents",
+      "signing": "Signature",
+      "history": "Historique"
+    },
     "status": {
       "DRAFT": "Brouillon",
       "PENDING_REVIEW": "En attente de révision",
@@ -1750,8 +1771,17 @@
       "ACTIVE": "Actif",
       "TERMINATED": "Résilié"
     },
-    "contractType": {"uitzenden": "Intérim", "wervingSelectie": "Recrutement", "other": "Autre", "unspecified": "Non spécifié"},
-    "toast": {"uploadTitle": "Document téléversé", "unsignedUploaded": "Document MSA téléversé avec succès", "signedUploaded": "Document signé téléversé avec succès"},
+    "contractType": {
+      "uitzenden": "Intérim",
+      "wervingSelectie": "Recrutement",
+      "other": "Autre",
+      "unspecified": "Non spécifié"
+    },
+    "toast": {
+      "uploadTitle": "Document téléversé",
+      "unsignedUploaded": "Document MSA téléversé avec succès",
+      "signedUploaded": "Document signé téléversé avec succès"
+    },
     "page": {
       "company": "Entreprise",
       "validUntil": "Valide jusqu’au",
@@ -1812,7 +1842,10 @@
     "title": "Profil freelance",
     "subtitle": "Gérez vos informations professionnelles et présentez‑vous à des clients potentiels",
     "accessOnly": "Cette page est uniquement accessible aux freelances.",
-    "basicInfo": {"title": "Informations de base", "desc": "Renseignez vos informations professionnelles pour mettre en avant votre expertise."},
+    "basicInfo": {
+      "title": "Informations de base",
+      "desc": "Renseignez vos informations professionnelles pour mettre en avant votre expertise."
+    },
     "fields": {
       "jobTitle": "Intitulé du poste *",
       "specialization": "Spécialisation",
@@ -1844,12 +1877,21 @@
       "desc": "Téléversez des diplômes, certificats ou exemples de portfolio",
       "upload": "Téléverser des fichiers"
     },
-    "completion": {"title": "Complétude du profil"},
+    "completion": { "title": "Complétude du profil" },
     "toast": {
-      "updated": {"title": "Profil mis à jour", "desc": "Votre profil freelance a été mis à jour."},
-      "updateError": {"title": "Échec de la mise à jour"},
-      "uploaded": {"title": "Fichier téléversé", "desc": "{{type}} téléversé avec succès."},
-      "uploadError": {"title": "Erreur de téléversement", "desc": "Un problème est survenu lors de l'enregistrement du fichier."}
+      "updated": {
+        "title": "Profil mis à jour",
+        "desc": "Votre profil freelance a été mis à jour."
+      },
+      "updateError": { "title": "Échec de la mise à jour" },
+      "uploaded": {
+        "title": "Fichier téléversé",
+        "desc": "{{type}} téléversé avec succès."
+      },
+      "uploadError": {
+        "title": "Erreur de téléversement",
+        "desc": "Un problème est survenu lors de l'enregistrement du fichier."
+      }
     }
   },
   "publicZzpProfile": {
@@ -1900,10 +1942,18 @@
     "loginRequiredMessage": "You must be logged in to post jobs."
   },
   "subscription": {
-    "tabs": {"subscription": "Abonnement", "plans": "Forfaits", "payments": "Paiements"},
+    "tabs": {
+      "subscription": "Abonnement",
+      "plans": "Forfaits",
+      "payments": "Paiements"
+    },
     "perMonth": "par mois",
-    "intervals": {"month": "mois"},
-    "planNames": {"STARTER": "Starter", "PROFESSIONAL": "Professional", "ENTERPRISE": "Enterprise"},
+    "intervals": { "month": "mois" },
+    "planNames": {
+      "STARTER": "Starter",
+      "PROFESSIONAL": "Professional",
+      "ENTERPRISE": "Enterprise"
+    },
     "plans": {
       "chooseTitle": "Choisissez votre forfait",
       "chooseSubtitle": "Mettez à niveau ou changez d'abonnement à tout moment",
@@ -1987,7 +2037,7 @@
         "badge": "Popular"
       },
       "agency": {
-        "title": "Staffing or Recruitment Agency", 
+        "title": "Staffing or Recruitment Agency",
         "description": "Connect talent with companies and manage multiple clients",
         "features": [
           "Multi-client management",
@@ -2010,11 +2060,7 @@
       "jobseeker": {
         "title": "Job Seeker",
         "description": "Discover vacancies and apply at top companies",
-        "features": [
-          "Upload CV",
-          "Job alerts",
-          "Application tracking"
-        ],
+        "features": ["Upload CV", "Job alerts", "Application tracking"],
         "cta": "Start applying",
         "badge": "Free"
       }
@@ -2057,7 +2103,7 @@
           "content": "Within a week we had 5 qualified candidates. Fantastic platform!"
         },
         {
-          "name": "Maria Jansen", 
+          "name": "Maria Jansen",
           "role": "ZZPer",
           "company": "Frontend Developer",
           "content": "Finally a platform that understands what freelancers need. Excellent!"
@@ -2065,7 +2111,7 @@
         {
           "name": "Peter Bakker",
           "role": "Recruiter",
-          "company": "Talent Solutions", 
+          "company": "Talent Solutions",
           "content": "The matching technology saves us hours of work. Very satisfied!"
         }
       ]
@@ -2371,7 +2417,7 @@
       "expires": "Expires",
       "status": {
         "ACTIVE": "Active",
-        "TRIALING": "Trial", 
+        "TRIALING": "Trial",
         "PAST_DUE": "Past due",
         "CANCELED": "Cancelled",
         "INCOMPLETE": "Incomplete"
@@ -2395,7 +2441,7 @@
         ]
       },
       "professional": {
-        "name": "Professional", 
+        "name": "Professional",
         "features": [
           "Up to 50 jobs per month",
           "Advanced applicant management",
@@ -2434,7 +2480,7 @@
     "usage": {
       "title": "Usage Statistics",
       "jobsPosted": "Jobs posted",
-      "jobsUsage": "Job Usage", 
+      "jobsUsage": "Job Usage",
       "applicationsReceived": "Applications received",
       "applicationsAnalysis": "Application Analysis",
       "viewsThisMonth": "Job views",
@@ -2442,7 +2488,7 @@
       "totalReceived": "Total received",
       "thisMonth": "This month",
       "averagePerJob": "Average per job",
-      "responseRate": "Response rate", 
+      "responseRate": "Response rate",
       "hiredCandidates": "Hired candidates",
       "activeJobs": "Active jobs",
       "usageHistory": "Usage History",
@@ -2459,7 +2505,7 @@
       "errorMessage": "An error occurred while loading your payment history.",
       "statistics": {
         "totalPaid": "Total Paid",
-        "successful": "Successful", 
+        "successful": "Successful",
         "failed": "Failed",
         "refunded": "Refunded"
       },
@@ -2472,13 +2518,13 @@
         "allStatuses": "All statuses",
         "allDates": "All dates",
         "thisMonth": "This month",
-        "lastMonth": "Last month", 
+        "lastMonth": "Last month",
         "last3Months": "Last 3 months",
         "resetFilters": "Reset Filters"
       },
       "status": {
         "COMPLETED": "Completed",
-        "PENDING": "Pending", 
+        "PENDING": "Pending",
         "FAILED": "Failed",
         "REFUNDED": "Refunded"
       },
@@ -2493,7 +2539,7 @@
         "downloadError": "Cannot download invoice. Please try again later."
       },
       "empty": {
-        "noPayments": "No payments yet", 
+        "noPayments": "No payments yet",
         "noPaymentsMessage": "Your payment history will appear here once you make your first payment.",
         "noResults": "No payments found",
         "noResultsMessage": "Try adjusting the filters to see more results."
@@ -2531,7 +2577,7 @@
       "errorMessage": "An error occurred. Please try again later.",
       "reasonDescriptions": {
         "tooExpensive": "The subscription is too expensive for my budget",
-        "notEnoughFeatures": "I don't use the service often enough", 
+        "notEnoughFeatures": "I don't use the service often enough",
         "foundAlternative": "I'm switching to another service",
         "technicalIssues": "I'm experiencing technical problems",
         "noLongerNeeded": "The service is missing features I need",
@@ -2549,7 +2595,7 @@
       "subtitle": "Change your payment details",
       "currentMethod": "Current payment method",
       "newMethod": "New payment method",
-      "cardNumber": "Card number", 
+      "cardNumber": "Card number",
       "expiryDate": "Expiry date",
       "securityCode": "CVV",
       "updateMethod": "Update payment method",
@@ -2560,7 +2606,7 @@
       "errorMessage": "An error occurred. Please try again later.",
       "validation": {
         "invalidCard": "Invalid card number",
-        "invalidExpiry": "Invalid expiry date", 
+        "invalidExpiry": "Invalid expiry date",
         "invalidCVC": "Invalid CVV"
       }
     },
@@ -2571,7 +2617,7 @@
       "mostPopular": "Most popular choice",
       "selectPlan": "Select plan",
       "upgrade": "Upgrade",
-      "downgrade": "Downgrade", 
+      "downgrade": "Downgrade",
       "changeInEffect": "Change takes effect on {{date}}",
       "prorationPreview": "Cost preview",
       "viewPreview": "View costs",
@@ -2584,7 +2630,7 @@
       "processing": "Processing...",
       "success": "Plan changed successfully",
       "successMessage": "Your subscription has been changed to {{plan}}.",
-      "error": "Cannot change plan", 
+      "error": "Cannot change plan",
       "errorMessage": "An error occurred. Please try again later.",
       "detailedComparison": "Detailed Comparison",
       "immediateAccess": "Upgrade gets immediate access",
@@ -2652,7 +2698,7 @@
     "title": "Ratings",
     "score": "Score",
     "to": "To",
-    "from": "From", 
+    "from": "From",
     "job": "Job",
     "unknownUser": "Unknown User",
     "unknownJob": "Unknown Job",
@@ -2686,6 +2732,12 @@
     }
   },
   "newLanding": {
+    "header": {
+      "companies": "Entreprises",
+      "recruiters": "Recruteurs & Cabinets",
+      "freelancers": "Freelances",
+      "navigation": "Navigation"
+    },
     "hero": {
       "badge": "La nouvelle plateforme de recrutement des Pays-Bas",
       "title": "Vacature ORBIT",
@@ -2783,6 +2835,141 @@
     },
     "footer": {
       "copyright": "© 2025 Vacature ORBIT. Tous droits réservés."
+    },
+    "recruiters": {
+      "badge": "Pour les recruteurs",
+      "title": "Une plateforme, un grand pool de nouveaux clients",
+      "subtitle": "Vous aide à trouver ou obtenir des clients plus rapidement - Arrêtez la destruction du capital !",
+      "startAsRecruiter": "Commencer en tant que recruteur",
+      "viewDemo": "Voir la démo",
+      "problem": {
+        "title": "Le problème",
+        "tag": "Problème",
+        "description": "Vous proposez 5 bons candidats, mais 4 sont rejetés. Ces candidats précieux sont perdus car vous ne pouvez pas les placer ailleurs - pure destruction du capital !"
+      },
+      "solution": {
+        "title": "La solution",
+        "tag": "La solution",
+        "description": "Proposez des candidats rejetés sur notre place de marché partagée ! D'autres entreprises de la région recherchent des profils similaires. Gagnant-gagnant : le candidat trouve un emploi, vous trouvez un nouveau client !"
+      },
+      "features": {
+        "offerEverywhere": {
+          "title": "Proposer des candidats partout",
+          "description": "Aucune limitation à une seule agence. Proposez des candidats pour tous les postes pertinents.",
+          "items": [
+            "Trouvez automatiquement les meilleures correspondances pour vous",
+            "Opportunités inestimables de commissions",
+            "Construisez votre propre réseau client",
+            "Négociez les tarifs vous-même",
+            "Obtenez des employés (de retour)"
+          ]
+        },
+        "professionalProfile": {
+          "title": "Profil professionnel",
+          "description": "Présentez-vous professionnellement avec un profil de recruteur complet.",
+          "items": [
+            "Portfolio & projets",
+            "Compétences & certificats",
+            "Calendrier de disponibilité",
+            "Avis & évaluations",
+            "Préparation à l'entretien IA"
+          ]
+        },
+        "jobMatching": {
+          "title": "Appariement d'emplois",
+          "description": "Recevez uniquement des emplois pertinents qui correspondent à votre profil spécifique.",
+          "items": [
+            "Suggestions d'emplois en temps réel",
+            "Notifications push pour nouvelles correspondances",
+            "Filtre de disponibilité",
+            "Préférences de localisation et de salaire",
+            "Filtres avancés sur compétences & disponibilité"
+          ]
+        }
+      },
+      "results": {
+        "title": "Résultats de nos recruteurs",
+        "statistics": {
+          "candidatesPlaced": "85% des candidats placés",
+          "newClients": "3,2x plus de nouveaux clients",
+          "platformCosts": "€0 coûts de plateforme",
+          "presentCandidates": "Présentation des candidats 24/7"
+        }
+      }
+    },
+    "selfEmployed": {
+      "badge": "Pour les freelances",
+      "title": "Contact direct avec plusieurs clients finaux",
+      "subtitle": "En tant que freelance, trouvez ici directement des missions sans intermédiaires",
+      "createProfile": "Créer un profil freelance",
+      "viewAssignments": "Voir les missions",
+      "features": {
+        "directClients": {
+          "title": "Clients directs",
+          "description": "Entreprise ouverte ou disponibilité - contact direct avec les entreprises.",
+          "items": [
+            "Trouvez automatiquement les meilleures correspondances pour vous",
+            "Opportunités inestimables de commissions",
+            "Construisez votre propre réseau client",
+            "Négociez les tarifs vous-même",
+            "Obtenez des employés (de retour)"
+          ]
+        },
+        "professionalProfile": {
+          "title": "Profil professionnel",
+          "description": "Présentez-vous professionnellement avec un profil freelance complet.",
+          "items": [
+            "Portfolio & projets",
+            "Compétences & certificats",
+            "Calendrier de disponibilité",
+            "Avis & évaluations",
+            "Préparation à l'entretien IA"
+          ]
+        },
+        "assignmentMatching": {
+          "title": "Appariement de missions",
+          "description": "Recevez uniquement des missions pertinentes qui correspondent à votre profil spécifique.",
+          "items": [
+            "Suggestions de missions en temps réel",
+            "Notifications push pour nouvelles correspondances",
+            "Filtre de disponibilité",
+            "Préférences de localisation et de salaire",
+            "Filtres avancés sur compétences & disponibilité"
+          ]
+        }
+      },
+      "whyChoose": {
+        "badge": "Pourquoi choisir ORBIT",
+        "title": "Pourquoi les freelances choisissent Vacature ORBIT",
+        "subtitle": "Plus de liberté, meilleures missions, tarifs plus élevés",
+        "simple": {
+          "title": "Clients directs",
+          "subtitle": "Pas de tracas, commencez directement",
+          "items": [
+            "Créer un profil en 5 minutes",
+            "Proposer directement aux clients",
+            "Procédures d'inscription courtes",
+            "Chattez directement avec les entreprises",
+            "Acceptez les missions en un clic"
+          ]
+        },
+        "secure": {
+          "title": "Sûr & Fiable",
+          "subtitle": "100% protégé et conforme",
+          "items": [
+            "Entreprises vérifiées",
+            "Garanties de paiement sécurisées",
+            "Modèles de contrat disponibles",
+            "Base de données conforme RGPD",
+            "Support de l'équipe en ligne si nécessaire"
+          ]
+        }
+      },
+      "cta": {
+        "title": "Commencez à trouver des missions dès aujourd'hui",
+        "description": "Pas de coûts cachés, pas de commissions, pas de tracas. Juste un contact direct avec les clients qui recherchent votre expertise.",
+        "button": "S'inscrire en tant que freelance - Gratuit"
+      }
     }
   }
 }

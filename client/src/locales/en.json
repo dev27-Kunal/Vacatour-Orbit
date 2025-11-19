@@ -2746,6 +2746,12 @@
     "negativeReviews": "Negative reviews (1-2★)"
   },
   "newLanding": {
+    "header": {
+      "companies": "Companies",
+      "recruiters": "Recruiters & Bureaus",
+      "freelancers": "Freelancers",
+      "navigation": "Navigation"
+    },
     "hero": {
       "badge": "The new recruitment platform of the Netherlands",
       "title": "Vacature ORBIT",
@@ -2843,6 +2849,141 @@
     },
     "footer": {
       "copyright": "© 2025 Vacature ORBIT. All rights reserved."
+    },
+    "recruiters": {
+      "badge": "For Recruiters",
+      "title": "One platform, a large pool of new clients",
+      "subtitle": "Helping you find or get clients faster - Stop capital destruction!",
+      "startAsRecruiter": "Start as Recruiter",
+      "viewDemo": "View Demo",
+      "problem": {
+        "title": "The Problem",
+        "tag": "Problem",
+        "description": "You offer 5 good candidates, but 4 get rejected. These valuable candidates are lost because you can't place them elsewhere - pure capital destruction!"
+      },
+      "solution": {
+        "title": "The Solution",
+        "tag": "The Solution",
+        "description": "Offer rejected candidates on our shared marketplace. Other companies in the region are looking for similar profiles. Win-win: candidate finds a job, you find a new client!"
+      },
+      "features": {
+        "offerEverywhere": {
+          "title": "Offer Candidates Everywhere",
+          "description": "No limitation to one agency. Offer candidates to all relevant vacancies.",
+          "items": [
+            "Automatically find the best matches for you",
+            "Unmissable opportunities for commissions",
+            "Build your own client network",
+            "Negotiate rates yourself",
+            "Get employees (back) in"
+          ]
+        },
+        "professionalProfile": {
+          "title": "Professional Profile",
+          "description": "Present yourself professionally with an extensive recruiter profile.",
+          "items": [
+            "Portfolio & projects",
+            "Skills & certificates",
+            "Availability calendar",
+            "Reviews & ratings",
+            "AI interview preparation"
+          ]
+        },
+        "jobMatching": {
+          "title": "Job Matching",
+          "description": "Receive only relevant jobs that match your specific profile.",
+          "items": [
+            "Real-time job suggestions",
+            "Push notifications for new matches",
+            "Availability filter",
+            "Location and salary preferences",
+            "Advanced filters on skills & availability"
+          ]
+        }
+      },
+      "results": {
+        "title": "Results from our Recruiters",
+        "statistics": {
+          "candidatesPlaced": "85% of candidates placed",
+          "newClients": "3.2x more new clients",
+          "platformCosts": "€0 platform costs",
+          "presentCandidates": "24/7 candidate presentation"
+        }
+      }
+    },
+    "selfEmployed": {
+      "badge": "For Freelancers",
+      "title": "Direct contact with multiple end clients",
+      "subtitle": "As a freelancer, find assignments here directly without intermediaries",
+      "createProfile": "Create Freelancer Profile",
+      "viewAssignments": "View Assignments",
+      "features": {
+        "directClients": {
+          "title": "Direct Clients",
+          "description": "Open business or availability - direct contact with companies.",
+          "items": [
+            "Automatically find the best matches for you",
+            "Unmissable opportunities for commissions",
+            "Build your own client network",
+            "Negotiate rates yourself",
+            "Get employees (back) in"
+          ]
+        },
+        "professionalProfile": {
+          "title": "Professional Profile",
+          "description": "Present yourself professionally with an extensive freelancer profile.",
+          "items": [
+            "Portfolio & projects",
+            "Skills & certificates",
+            "Availability calendar",
+            "Reviews & ratings",
+            "AI interview preparation"
+          ]
+        },
+        "assignmentMatching": {
+          "title": "Assignment Matching",
+          "description": "Receive only relevant assignments that match your specific profile.",
+          "items": [
+            "Real-time assignment suggestions",
+            "Push notifications for new matches",
+            "Availability filter",
+            "Location and salary preferences",
+            "Advanced filters on skills & availability"
+          ]
+        }
+      },
+      "whyChoose": {
+        "badge": "Why choose ORBIT",
+        "title": "Why freelancers choose Vacature ORBIT",
+        "subtitle": "More freedom, better assignments, higher rates",
+        "simple": {
+          "title": "Direct Clients",
+          "subtitle": "No hassle, get started directly",
+          "items": [
+            "Create profile in 5 minutes",
+            "Directly offer to clients",
+            "Short registration procedures",
+            "Chat directly with companies",
+            "Accept assignments with one click"
+          ]
+        },
+        "secure": {
+          "title": "Safe & Reliable",
+          "subtitle": "100% protected and compliant",
+          "items": [
+            "Verified companies",
+            "Safe payment guarantees",
+            "Contract templates available",
+            "GDPR compliant database",
+            "Support from online team when needed"
+          ]
+        }
+      },
+      "cta": {
+        "title": "Start finding assignments today",
+        "description": "No hidden costs, no commissions, no hassle. Just direct contact with clients looking for your expertise.",
+        "button": "Register as Freelancer - Free"
+      }
     }
   }
 }

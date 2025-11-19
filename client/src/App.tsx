@@ -140,7 +140,7 @@ function Router() {
   return (
     <ErrorBoundary>
       <div className="min-h-screen bg-background">
-        <SkipNavigation />
+        {!isLandingPage && <SkipNavigation />}
         {!isLandingPage && <Navigation />}
         <main id="main-content" tabIndex={-1}>
           <Switch>
