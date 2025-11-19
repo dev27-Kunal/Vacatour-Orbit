@@ -41,3 +41,4 @@ test-logs-*.log
 *_SECRETS_*.md
 push-notifications.log
 .worktrees/
+config.bat
